@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_INCITE_REVOLUTION</Tag>
+		<English>Citizens in %s1 have begun rioting and looting after a notorious rebel faction killed the city governor in his mansion.</English>
+		<French>Les Citoyens de %s1 se soulèvent et pillent la Ville à la suite de l'assassinat du Gouverneur par une faction rebelle.</French>
+		<German>Citizens in %s1 have begun rioting and looting after a notorious rebel faction killed the city governor in his mansion.</German>
+		<Italian>Citizens in %s1 have begun rioting and looting after a notorious rebel faction killed the city governor in his mansion.</Italian>
+		<Spanish>Citizens in %s1 have begun rioting and looting after a notorious rebel faction killed the city governor in his mansion.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_INCITE_REVOLUTION_CAUGHT</Tag>
+		<English>Citizens in %s1 have begun rioting and looting after a spy from %s2 framed a notorious rebel faction for the death of the city governor.</English>
+		<French>Les Citoyens de %s1 se soulèvent et pillent la Ville à la suite de l'accusation proférée par un espion de %s2 concernant la mort du Gouverneur, apparemment tué par une faction rebelle.</French>
+		<German>Citizens in %s1 have begun rioting and looting after a spy from %s2 framed a notorious rebel faction for the death of the city governor.</German>
+		<Italian>Citizens in %s1 have begun rioting and looting after a spy from %s2 framed a notorious rebel faction for the death of the city governor.</Italian>
+		<Spanish>Citizens in %s1 have begun rioting and looting after a spy from %s2 framed a notorious rebel faction for the death of the city governor.</Spanish>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_MISC_POWER_RESTORED</Tag>
+		<English>Power in the city of %s1 has been restored.</English>
+		<French>L'Electricité de la Ville de %s1 a été restaurée.</French>
+		<German>Power in the city of %s1 has been restored.</German>
+		<Italian>Power in the city of %s1 has been restored.</Italian>
+		<Spanish>Power in the city of %s1 has been restored.</Spanish>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_POWER_CUT_CAUGHT</Tag>
+		<English>Power plants in the city of %s1 have been temporarily disabled by a spy from %s2.</English>
+		<French>Les Centrales électriques de la Ville de %s1 ont été désactivées. On suspecte l'intervention d'un espion de %s2.</French>
+		<German>Power plants in the city of %s1 have been temporarily disabled by a spy from %s2.</German>
+		<Italian>Power plants in the city of %s1 have been temporarily disabled by a spy from %s2.</Italian>
+		<Spanish>Power plants in the city of %s1 have been temporarily disabled by a spy from %s2.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_POWER_CUT</Tag>
+		<English>A defect in a power generator in the city of %s1 has led to a temporary loss of power.</English>
+		<French>Un défaut d'un générateur d'une centrale électrique de la Ville de %s1 a conduit à une coupure de l'électricité.</French>
+		<German>A defect in a power generator in the city of %s1 has led to a temporary loss of power.</German>
+		<Italian>A defect in a power generator in the city of %s1 has led to a temporary loss of power.</Italian>
+		<Spanish>A defect in a power generator in the city of %s1 has led to a temporary loss of power.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_TARGET_PLAYER_ANARCHY_CAUGHT</Tag>
+		<English>%s1 infiltrators have supported a rebellion within our lands!</English>
+		<French>Des espions %s1 infiltrés ont apporté leur soutien aux rebelles dans notre territoire!!</French>
+		<German>%s1 infiltrators have supported a rebellion within our lands!</German>
+		<Italian>%s1 infiltrators have supported a rebellion within our lands!</Italian>
+		<Spanish>%s1 infiltrators have supported a rebellion within our lands!</Spanish>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_REVOLT</Tag>
+		<English>Aid Rebel Factions</English>
+		<French>Aider les Factions Rebelles</French>
+		<German>Aid Rebel Factions</German>
+		<Italian>Aid Rebel Factions</Italian>
+		<Spanish>Aid Rebel Factions</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_POWER</Tag>
+		<English>Disable Power Grid</English>
+		<French>Désactiver la production d'électricité</French>
+		<German>Disable Power Grid</German>
+		<Italian>Disable Power Grid</Italian>
+		<Spanish>Disable Power Grid</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_NUKE</Tag>
+		<English>Plant Nuclear Device</English>
+		<French>Placer une arme nucléaire</French>
+		<German>Plant Nuclear Device</German>
+		<Italian>Plant Nuclear Device</Italian>
+		<Spanish>Plant Nuclear Device</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAMEOPTION_ADVANCED_ESPIONAGE</Tag>
+		<English>Advanced Espionage</English>
+		<French>Espionnage Avancé</French>
+		<German>Advanced Espionage</German>
+		<Italian>Advanced Espionage</Italian>
+		<Spanish>Advanced Espionage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAMEOPTION_ADVANCED_ESPIONAGE_HELP</Tag>
+		<English>Allows for powerful espionage attacks, including nuclear sabatoge, aiding rebel factions, and causing empire-wide anarchy. Also, espionage effects, like poisoning water, will correctly scale for gamespeeds.</English>
+		<French>Permet des actes offensifs importants pour les espions, comme le sabotage nucléaire, le soutien aux factions rebelles, pouvant mener à un désordre au niveau de l'Empire. Les effets de l'espionnages sont également revus pour s'adapter à la vitesse du Jeu.</French>
+		<German>Allows for powerful espionage attacks, including nuclear sabatoge, aiding rebel factions, and causing empire-wide anarchy. Also, espionage effects, like poisoning water, will correctly scale for gamespeeds.</German>
+		<Italian>Allows for powerful espionage attacks, including nuclear sabatoge, aiding rebel factions, and causing empire-wide anarchy. Also, espionage effects, like poisoning water, will correctly scale for gamespeeds.</Italian>
+		<Spanish>Allows for powerful espionage attacks, including nuclear sabatoge, aiding rebel factions, and causing empire-wide anarchy. Also, espionage effects, like poisoning water, will correctly scale for gamespeeds.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_WAR_WEARINESS_CAUGHT</Tag>
+		<English>Anti-War Rallies in %s1, incited by a %s2 spy, have been causing trouble for local officials.</English>
+		<French>Les Pacifistes se rassemblent dans %s1, incités par un espion %s2, et engendrent des troubles que les autorités locales peinent à contrôler.</French>
+		<German>Anti-War Rallies in %s1, incited by a %s2 spy, have been causing trouble for local officials.</German>
+		<Italian>Anti-War Rallies in %s1, incited by a %s2 spy, have been causing trouble for local officials.</Italian>
+		<Spanish>Anti-War Rallies in %s1, incited by a %s2 spy, have been causing trouble for local officials.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_WAR_WEARINESS</Tag>
+		<English>Anti-War Rallies in %s1 have been causing trouble for local officials.</English>
+		<French>Les Pacifistes se rassemblent dans %s1 et engendrent des troubles que les autorités locales peinent à contrôler.</French>
+		<German>Anti-War Rallies in %s1 have been causing trouble for local officials.</German>
+		<Italian>Anti-War Rallies in %s1 have been causing trouble for local officials.</Italian>
+		<Spanish>Anti-War Rallies in %s1 have been causing trouble for local officials.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_PLAYER_WAR_WEARINESS</Tag>
+		<English>Stage Anti-War Rally</English>
+		<French>Organiser un Rassemblement Pacifiste</French>
+		<German>Stage Anti-War Rally</German>
+		<Italian>Stage Anti-War Rally</Italian>
+		<Spanish>Stage Anti-War Rally</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_NUKE</Tag>
+		<English>Causes a nuclear detonation in the city of %s1. (May cause war and injure friendly units)</English>
+		<French>Provoque une détonation nucléaire dans la Ville de %s1. (Peut entaîner une Guerre, et causer des dommages aux unités amies)</French>
+		<German>Causes a nuclear detonation in the city of %s1. (May cause war and injure friendly units)</German>
+		<Italian>Causes a nuclear detonation in the city of %s1. (May cause war and injure friendly units)</Italian>
+		<Spanish>Causes a nuclear detonation in the city of %s1. (May cause war and injure friendly units)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_REVOLTUTION</Tag>
+		<English>Causes Rebel Factions in %s1 to gain popular support.</English>
+		<French>Permet aux faction rebelles de %s1 d'obtenir plus de soutien du peuple.</French>
+		<German>Causes Rebel Factions in %s1 to gain popular support.</German>
+		<Italian>Causes Rebel Factions in %s1 to gain popular support.</Italian>
+		<Spanish>Causes Rebel Factions in %s1 to gain popular support.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_POWER</Tag>
+		<English>Will disable the power grid in %s1 for %d2 [NUM2:turn:turns].</English>
+		<French>Désactive l'aprovisionnement en électricité dans %s1 pour %d2 [NUM2:turn:turns].</French>
+		<German>Will disable the power grid in %s1 for %d2 [NUM2:turn:turns].</German>
+		<Italian>Will disable the power grid in %s1 for %d2 [NUM2:turn:turns].</Italian>
+		<Spanish>Will disable the power grid in %s1 for %d2 [NUM2:turn:turns].</Spanish>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_WAR_WEARINESS</Tag>
+		<English>Will temporarily increase the war weariness in %s1 by %d2%.</English>
+		<French>Augmente temporairement le mécontentement lié à la guerre de %d2% dans la Ville de %s1.</French>
+		<German>Will temporarily increase the war weariness in %s1 by %d2%.</German>
+		<Italian>Will temporarily increase the war weariness in %s1 by %d2%.</Italian>
+		<Spanish>Will temporarily increase the war weariness in %s1 by %d2%.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_RESEARCH_SABATAGED_CAUGHT</Tag>
+		<English>All of our research in %s1 has been destroyed by a %s2 spy!</English>
+		<French>Tous nos travaux de recherche à %s1 ont été détruits par un espion %s2!</French>
+		<German>All of our research in %s1 has been destroyed by a %s2 spy!</German>
+		<Italian>All of our research in %s1 has been destroyed by a %s2 spy!</Italian>
+		<Spanish>All of our research in %s1 has been destroyed by a %s2 spy!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_RESEARCH_SABATAGED</Tag>
+		<English>All of our research in %s1 has been destroyed!</English>
+		<French>Tous nos travaux de recherche à %s1 ont été détruits!</French>
+		<German>All of our research in %s1 has been destroyed!</German>
+		<Italian>All of our research in %s1 has been destroyed!</Italian>
+		<Spanish>All of our research in %s1 has been destroyed!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_PLAYER_SABATOGE_RESEARCH</Tag>
+		<English>Sabatoge Research</English>
+		<French>Saboter la Recherche</French>
+		<German>Sabatoge Research</German>
+		<Italian>Sabatoge Research</Italian>
+		<Spanish>Sabatoge Research</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_SABATOGE_RESEARCH</Tag>
+		<English>Will sabatoge all of %s1's research in %s2</English>
+		<French>Saboter les recherches de %s2 à %s1</French>
+		<German>Will sabatoge all of %s1's research in %s2</German>
+		<Italian>Will sabatoge all of %s1's research in %s2</Italian>
+		<Spanish>Will sabatoge all of %s1's research in %s2</Spanish>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_PLAYER_REMOVE_RELIGIONS</Tag>
+		<English>Remove Religions</English>
+		<French>Faire disparaître les Religions</French>
+		<German>Remove Religions</German>
+		<Italian>Remove Religions</Italian>
+		<Spanish>Remove Religions</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_REMOVE_RELIGIONS</Tag>
+		<English>Will remove %s1 from %s2.</English>
+		<French>Faire disparaître la religion %s1 de %s2.</French>
+		<German>Will remove %s1 from %s2.</German>
+		<Italian>Will remove %s1 from %s2.</Italian>
+		<Spanish>Will remove %s1 from %s2.</Spanish>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_RELIGION_REMOVED_CAUGHT</Tag>
+		<English>The people of %s1 have been tricked by %s2 spies into abandoning their faith in %s3!</English>
+		<French>Le Peuple de %s1, incité par un espion %s2, est en train d'abandonner leur croyance en la religion %s3!</French>
+		<German>The people of %s1 have been tricked by %s2 spies into abandoning their faith in %s3!</German>
+		<Italian>The people of %s1 have been tricked by %s2 spies into abandoning their faith in %s3!</Italian>
+		<Spanish>The people of %s1 have been tricked by %s2 spies into abandoning their faith in %s3!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_RELIGION_REMOVED</Tag>
+		<English>The people of %s1 have abandonded their faith in %s2!!!</English>
+		<French>Le Peuple de %s1 a abandonné leur croyance en la religion %s2!!!</French>
+		<German>The people of %s1 have abandonded their faith in %s2!!!</German>
+		<Italian>The people of %s1 have abandonded their faith in %s2!!!</Italian>
+		<Spanish>The people of %s1 have abandonded their faith in %s2!!!</Spanish>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_PLAYER_REMOVE_CORPORATIONS</Tag>
+		<English>Remove Corporations</English>
+		<French>Démanteler les Corporations</French>
+		<German>Remove Corporations</German>
+		<Italian>Remove Corporations</Italian>
+		<Spanish>Remove Corporations</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_CORPORATION_REMOVED_CAUGHT</Tag>
+		<English>The people of %s1 have been tricked by %s2 spies into boycotting %s3!</English>
+		<French>Le Peuple de %s1, incité par un espion %s2, boycotte %s3!</French>
+		<German>The people of %s1 have been tricked by %s2 spies into boycotting %s3!</German>
+		<Italian>The people of %s1 have been tricked by %s2 spies into boycotting %s3!</Italian>
+		<Spanish>The people of %s1 have been tricked by %s2 spies into boycotting %s3!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_CORPORATION_REMOVED</Tag>
+		<English>The people of %s1 have boycotted %s2!!!</English>
+		<French>Le Peuple de %s1 boycotte %s2!!!</French>
+		<German>The people of %s1 have boycotted %s2!!!</German>
+		<Italian>The people of %s1 have boycotted %s2!!!</Italian>
+		<Spanish>The people of %s1 have boycotted %s2!!!</Spanish>
+	</TEXT>
+</Civ4GameText>

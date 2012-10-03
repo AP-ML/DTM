@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+		<TEXT>
+		<Tag>TXT_KEY_MISSION_ESPIONAGE_SLEEP</Tag>
+		<English>Gather Intel</English>
+		<French>Récolte d'Infos</French>
+		<German>Sammle Informationen</German>
+		<Italian>Gather Intel</Italian>
+		<Spanish>Gather Intel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_ESPIONAGE_SLEEP_HELP</Tag>
+		<English>This unit will gather intelligence and not awaken until it reaches the maximum espionage bonus</English>
+		<French>Cette Unité va récolter des Informations et devenir à nouveau active lorsqu'elle aura atteint son bonus maximum d'espionnage.</French>
+		<German>Diese Einheit wird Informationen sammeln und nicht aufwachen bis sie ihr Maximum an Spionagepunkten erreicht hat</German>
+		<Italian>This unit will gather intelligence and not awaken until it reaches the maximum espionage bonus</Italian>
+		<Spanish>This unit will gather intelligence and not awaken until it reaches the maximum espionage bonus</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_ESPIONAGE</Tag>
+		<English>Automate Counter Espionage</English>
+		<French>Automate Counter Espionage</French>
+		<German>Automate Counter Espionage</German>
+		<Italian>Automate Counter Espionage</Italian>
+		<Spanish>Automate Counter Espionage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_AUTOMATE_ESPIONAGE_HELP</Tag>
+		<English>Will conduct counter espionage missions against rivals</English>
+		<French>Will conduct counter espionage missions against rivals</French>
+		<German>Will conduct counter espionage missions against rivals</German>
+		<Italian>Will conduct counter espionage missions against rivals</Italian>
+		<Spanish>Will conduct counter espionage missions against rivals</Spanish>
+	</TEXT>
+</Civ4GameText>

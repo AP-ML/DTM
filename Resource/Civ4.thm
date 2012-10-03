@@ -1,0 +1,9 @@
+
+// *** Control Bitmap Theme file
+
+// Set the resource 
+resource_path	"Mods/DTM/Resource";
+
+// Setup common properties
+include			"Mods/DTM/Resource/Themes/Civ4/Civ4Theme.thm";
+

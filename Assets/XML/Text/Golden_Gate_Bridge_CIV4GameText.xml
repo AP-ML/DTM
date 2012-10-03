@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BRIDGE</Tag>
+		<English>Golden Gate Bridge</English>
+		<French>Golden Gate Bridge</French>
+		<German>Golden Gate Bridge</German>
+		<Italian>Golden Gate Bridge</Italian>
+		<Spanish>Golden Gate Bridge</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BRIDGE_PEDIA</Tag>
+		<English>[TAB]The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the opening of the San Francisco Bay onto the Pacific Ocean. As part of both U.S. Route 101 and State Route 1, it connects the city of San Francisco on the northern tip of the San Francisco Peninsula to Marin County. The Golden Gate Bridge had the longest suspension bridge span in the world when it was completed in 1937 and has become an internationally recognized symbol of San Francisco and California. Since its completion, the span length has been surpassed by eight other bridges. It still has the second longest suspension bridge main span in the United States, after the Verrazano-Narrows Bridge in New York City. In 2007, it was ranked fifth on the List of America's Favorite Architecture by the American Institute of Architects.</English>
+		<French>[TAB]The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the opening of the San Francisco Bay onto the Pacific Ocean. As part of both U.S. Route 101 and State Route 1, it connects the city of San Francisco on the northern tip of the San Francisco Peninsula to Marin County. The Golden Gate Bridge had the longest suspension bridge span in the world when it was completed in 1937 and has become an internationally recognized symbol of San Francisco and California. Since its completion, the span length has been surpassed by eight other bridges. It still has the second longest suspension bridge main span in the United States, after the Verrazano-Narrows Bridge in New York City. In 2007, it was ranked fifth on the List of America's Favorite Architecture by the American Institute of Architects.</French>
+		<German>[TAB]The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the opening of the San Francisco Bay onto the Pacific Ocean. As part of both U.S. Route 101 and State Route 1, it connects the city of San Francisco on the northern tip of the San Francisco Peninsula to Marin County. The Golden Gate Bridge had the longest suspension bridge span in the world when it was completed in 1937 and has become an internationally recognized symbol of San Francisco and California. Since its completion, the span length has been surpassed by eight other bridges. It still has the second longest suspension bridge main span in the United States, after the Verrazano-Narrows Bridge in New York City. In 2007, it was ranked fifth on the List of America's Favorite Architecture by the American Institute of Architects.</German>
+		<Italian>[TAB]The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the opening of the San Francisco Bay onto the Pacific Ocean. As part of both U.S. Route 101 and State Route 1, it connects the city of San Francisco on the northern tip of the San Francisco Peninsula to Marin County. The Golden Gate Bridge had the longest suspension bridge span in the world when it was completed in 1937 and has become an internationally recognized symbol of San Francisco and California. Since its completion, the span length has been surpassed by eight other bridges. It still has the second longest suspension bridge main span in the United States, after the Verrazano-Narrows Bridge in New York City. In 2007, it was ranked fifth on the List of America's Favorite Architecture by the American Institute of Architects.</Italian>
+		<Spanish>[TAB]The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the opening of the San Francisco Bay onto the Pacific Ocean. As part of both U.S. Route 101 and State Route 1, it connects the city of San Francisco on the northern tip of the San Francisco Peninsula to Marin County. The Golden Gate Bridge had the longest suspension bridge span in the world when it was completed in 1937 and has become an internationally recognized symbol of San Francisco and California. Since its completion, the span length has been surpassed by eight other bridges. It still has the second longest suspension bridge main span in the United States, after the Verrazano-Narrows Bridge in New York City. In 2007, it was ranked fifth on the List of America's Favorite Architecture by the American Institute of Architects.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BRIDGE_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_REVERT] increases the owner city's total [ICON_CULTURE] by 20% upon completion. Additionally, it increases [ICON_COMMERCE] by 10% in All Cities.</English>
+		<French>The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_REVERT] increases the owner city's total [ICON_CULTURE] by 20% upon completion. Additionally, it increases [ICON_COMMERCE] by 10% in All Cities.</French>
+		<German>The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_REVERT] increases the owner city's total [ICON_CULTURE] by 20% upon completion. Additionally, it increases [ICON_COMMERCE] by 10% in All Cities.</German>
+		<Italian>The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_REVERT] increases the owner city's total [ICON_CULTURE] by 20% upon completion. Additionally, it increases [ICON_COMMERCE] by 10% in All Cities.</Italian>
+		<Spanish>The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_REVERT] increases the owner city's total [ICON_CULTURE] by 20% upon completion. Additionally, it increases [ICON_COMMERCE] by 10% in All Cities.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BRIDGE_HELP</Tag>
+		<English>[ICON_BULLET]Increases City's Total [ICON_CULTURE] by 20% [NEWLINE][COLOR_NEGATIVE_TEXT]Requires Coast[COLOR_REVERT][NEWLINE][COLOR_NEGATIVE_TEXT]Improvement Requires Land Tile up to Four Tiles Away[COLOR_REVERT]</English>
+		<French>[ICON_BULLET]Increases City's Total [ICON_CULTURE] by 20% [NEWLINE][COLOR_NEGATIVE_TEXT]Requires Coast[COLOR_REVERT][NEWLINE][COLOR_NEGATIVE_TEXT]Improvement Requires Land Tile up to Four Tiles Away[COLOR_REVERT]</French>
+		<German>[ICON_BULLET]Increases City's Total [ICON_CULTURE] by 20% [NEWLINE][COLOR_NEGATIVE_TEXT]Requires Coast[COLOR_REVERT][NEWLINE][COLOR_NEGATIVE_TEXT]Improvement Requires Land Tile up to Four Tiles Away[COLOR_REVERT]</German>
+		<Italian>[ICON_BULLET]Increases City's Total [ICON_CULTURE] by 20% [NEWLINE][COLOR_NEGATIVE_TEXT]Requires Coast[COLOR_REVERT][NEWLINE][COLOR_NEGATIVE_TEXT]Improvement Requires Land Tile up to Four Tiles Away[COLOR_REVERT]</Italian>
+		<Spanish>[ICON_BULLET]Increases City's Total [ICON_CULTURE] by 20% [NEWLINE][COLOR_NEGATIVE_TEXT]Requires Coast[COLOR_REVERT][NEWLINE][COLOR_NEGATIVE_TEXT]Improvement Requires Land Tile up to Four Tiles Away[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOLDEN_GATE_CULTURE</Tag>
+		<English>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] added 20% Total [ICON_CULTURE][COLOR_REVERT]!</English>
+		<French>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] added 20% Total [ICON_CULTURE][COLOR_REVERT]!</French>
+		<German>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] added 20% Total [ICON_CULTURE][COLOR_REVERT]!</German>
+		<Italian>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] added 20% Total [ICON_CULTURE][COLOR_REVERT]!</Italian>
+		<Spanish>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] added 20% Total [ICON_CULTURE][COLOR_REVERT]!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GOLDEN_GATE_GOLD</Tag>
+		<English>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] has increased [ICON_GOLD] reserves by 10%[COLOR_REVERT]!</English>
+		<French>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] has increased [ICON_GOLD] reserves by 10%[COLOR_REVERT]!</French>
+		<German>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] has increased [ICON_GOLD] reserves by 10%[COLOR_REVERT]!</German>
+		<Italian>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] has increased [ICON_GOLD] reserves by 10%[COLOR_REVERT]!</Italian>
+		<Spanish>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] has increased [ICON_GOLD] reserves by 10%[COLOR_REVERT]!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BRIDGE</Tag>
+		<English>Bridge</English>
+		<French>Bridge</French>
+		<German>Bridge</German>
+		<Italian>Bridge</Italian>
+		<Spanish>Bridge</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BRIDGE_PEDIA</Tag>
+		<English>[TAB]A bridge is a structure built to span a gorge, valley, road, railroad track, river, body of water, or any other physical obstacle, for the purpose of providing passage over the obstacle. Designs of bridges will vary depending on the function of the bridge and the nature of the terrain where the bridge is to be constructed.</English>
+		<French>[TAB]A bridge is a structure built to span a gorge, valley, road, railroad track, river, body of water, or any other physical obstacle, for the purpose of providing passage over the obstacle. Designs of bridges will vary depending on the function of the bridge and the nature of the terrain where the bridge is to be constructed.</French>
+		<German>[TAB]A bridge is a structure built to span a gorge, valley, road, railroad track, river, body of water, or any other physical obstacle, for the purpose of providing passage over the obstacle. Designs of bridges will vary depending on the function of the bridge and the nature of the terrain where the bridge is to be constructed.</German>
+		<Italian>[TAB]A bridge is a structure built to span a gorge, valley, road, railroad track, river, body of water, or any other physical obstacle, for the purpose of providing passage over the obstacle. Designs of bridges will vary depending on the function of the bridge and the nature of the terrain where the bridge is to be constructed.</Italian>
+		<Spanish>[TAB]A bridge is a structure built to span a gorge, valley, road, railroad track, river, body of water, or any other physical obstacle, for the purpose of providing passage over the obstacle. Designs of bridges will vary depending on the function of the bridge and the nature of the terrain where the bridge is to be constructed.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BRIDGE_FAIL_PYTHON</Tag>
+		<English>[COLOR_SELECTED_TEXT]A Bridge Could Not be Constructed in All Directions.[COLOR_REVERT]</English>
+		<French>[COLOR_SELECTED_TEXT]A Bridge Could Not be Constructed in All Directions.[COLOR_REVERT]</French>
+		<German>[COLOR_SELECTED_TEXT]A Bridge Could Not be Constructed in All Directions.[COLOR_REVERT]</German>
+		<Italian>[COLOR_SELECTED_TEXT]A Bridge Could Not be Constructed in All Directions.[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_SELECTED_TEXT]A Bridge Could Not be Constructed in All Directions.[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BRIDGE_PYTHON</Tag>
+		<English>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] Has Been Built[COLOR_REVERT]!</English>
+		<French>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] Has Been Built[COLOR_REVERT]!</French>
+		<German>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] Has Been Built[COLOR_REVERT]!</German>
+		<Italian>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] Has Been Built[COLOR_REVERT]!</Italian>
+		<Spanish>[COLOR_SELECTED_TEXT]The [COLOR_BUILDING_TEXT]Golden Gate Bridge[COLOR_SELECTED_TEXT] Has Been Built[COLOR_REVERT]!</Spanish>
+	</TEXT>
+</Civ4GameText>

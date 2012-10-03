@@ -1,0 +1,64 @@
+CHANGELOG:
+
+v0.1:
+
+- Bicester Village  Wonder Added
+- Edits made to xml text descriptions
+- Matterhorn?
+
+v0.2:
+
+- Fixed Incompatibility With CustomAssets based mods (Bugmod) 
+
+V0.3:
+
+- Custom Events Added
+- Bicester Village Model completed
+- Probability of prexisting events modified
+
+V0.4:
+
+- Spellcheck
+
+V0.5:
+
+- Red!
+- A tad more Matterhorn
+- Bio Weapons
+- Technological Era Now Displayed In HUD
+- I bet you werent expecting the Spanish Inquisition?
+- New Wonders Added:
+  - Sydney Opera House
+  - Golden Gate Bridge
+
+Note: Folder and XML References renamed to Civ IV DTM, due to incompatibility in v0.5 with previous save fies, this will allow the previous version to be run in conjunction with this version in order to preserve PBEM Gameplay (Incompatibility most likely caused by new Python code, will attempt to rectify later on)
+
+V0.6:
+
+- free Unit upgrade cost has now been 'fixed'
+- Pesky Modular loading error fixed again
+
+V0.7:
+
+- Sydney Opera House Values Tweaked
+- Bicester Village Values Tweaked
+- Empire State Building Added
+- Espionage System Enhanced:
+   -Many New Spy Missions
+   -AI's (Should) Now take advantage Of new missions
+   -Spies can now return to the nearest city, instead of the capital
+- Modding Tools Added
+- Merged a mod called "Super Spies" Gives Spies EXP upon completion of missions
+- Bug:Era No longer displayed in HUD
+- Bug:Spies Cannot yet nuke Cities
+
+
+V0.8:
+
+- New Spy Missions Tied to new tech "Modern Espionage"
+- "Bribe City" Mission Removed
+- Fixed:Era once again displayed in the HUD
+- First to Discover Modern Espionage recieves a great Spy
+- Civlopedia entries cleaned up.
+- Renamed to DTM to allow for use with Github
+

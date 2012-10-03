@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_INSTIGATION2_HELP</Tag>
+		<English>[ICON_BULLET]Increases duration of Incite Anarchy</English>
+		<French>[ICON_BULLET]Augmente la durée de l'Anarchie générée</French>
+		<German>[ICON_BULLET]Increases duration of Incite Anarchy</German>
+		<Italian>[ICON_BULLET]Increases duration of Incite Anarchy</Italian>
+		<Spanish>[ICON_BULLET]Increases duration of Incite Anarchy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_INSTIGATION3_HELP</Tag>
+		<English>[ICON_BULLET]Increases duration of Incite Anarchy</English>
+		<French>[ICON_BULLET]Augmente la durée de l'Anarchie générée</French>
+		<German>[ICON_BULLET]Increases duration of Incite Anarchy</German>
+		<Italian>[ICON_BULLET]Increases duration of Incite Anarchy</Italian>
+		<Spanish>[ICON_BULLET]Increases duration of Incite Anarchy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONSPIRACY2_HELP</Tag>
+		<English>[ICON_BULLET]Increase duration of Exert Influence</English>
+		<French>[ICON_BULLET]Augmente la durée de l'Influence exercée</French>
+		<German>[ICON_BULLET]Increase duration of Exert Influence</German>
+		<Italian>[ICON_BULLET]Increase duration of Exert Influence</Italian>
+		<Spanish>[ICON_BULLET]Increase duration of Exert Influence</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONSPIRACY3_HELP</Tag>
+		<English>[ICON_BULLET]Increase duration of Exert Influence</English>
+		<French>[ICON_BULLET]Augmente la durée de l'Influence exercée</French>
+		<German>[ICON_BULLET]Increase duration of Exert Influence</German>
+		<Italian>[ICON_BULLET]Increase duration of Exert Influence</Italian>
+		<Spanish>[ICON_BULLET]Increase duration of Exert Influence</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SEDUCTION2_HELP</Tag>
+		<English>[ICON_BULLET]Increase duration of Seduce Leaders</English>
+		<French>[ICON_BULLET]Augmente la durée des effets sur les Leaders</French>
+		<German>[ICON_BULLET]Increase duration of Seduce Leaders</German>
+		<Italian>[ICON_BULLET]Increase duration of Seduce Leaders</Italian>
+		<Spanish>[ICON_BULLET]Increase duration of Seduce Leaders</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SEDUCTION3_HELP</Tag>
+		<English>[ICON_BULLET]Increase duration of Seduce Leaders</English>
+		<French>[ICON_BULLET]Augmente la durée des effets sur les Leaders</French>
+		<German>[ICON_BULLET]Increase duration of Seduce Leaders</German>
+		<Italian>[ICON_BULLET]Increase duration of Seduce Leaders</Italian>
+		<Spanish>[ICON_BULLET]Increase duration of Seduce Leaders</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_INTRIGUE2_HELP</Tag>
+		<English>[ICON_BULLET]Increase duration of Exert Influence</English>
+		<French>[ICON_BULLET]Augmente la durée de l'Influence exercée</French>
+		<German>[ICON_BULLET]Increase duration of Exert Influence</German>
+		<Italian>[ICON_BULLET]Increase duration of Exert Influence</Italian>
+		<Spanish>[ICON_BULLET]Increase duration of Exert Influence</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_INTRIGUE3_HELP</Tag>
+		<English>[ICON_BULLET]Increase duration of Exert Influence</English>
+		<French>[ICON_BULLET]Augmente la durée de l'Influence exercée</French>
+		<German>[ICON_BULLET]Increase duration of Exert Influence</German>
+		<Italian>[ICON_BULLET]Increase duration of Exert Influence</Italian>
+		<Spanish>[ICON_BULLET]Increase duration of Exert Influence</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TREACHERY2_HELP</Tag>
+		<English>[ICON_BULLET]Increase duration of Lower Defenses and Spread Lies</English>
+		<French>[ICON_BULLET]Augmente la durée de défenses réduites et des mensonges</French>
+		<German>[ICON_BULLET]Increase duration of Lower Defenses and Spread Lies</German>
+		<Italian>[ICON_BULLET]Increase duration of Lower Defenses and Spread Lies</Italian>
+		<Spanish>[ICON_BULLET]Increase duration of Lower Defenses and Spread Lies</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TREACHERY3_HELP</Tag>
+		<English>[ICON_BULLET]Increase duration of Lower Defenses and Spread Lies</English>
+		<French>[ICON_BULLET]Augmente la durée de défenses réduites et des mensonges</French>
+		<German>[ICON_BULLET]Increase duration of Lower Defenses and Spread Lies</German>
+		<Italian>[ICON_BULLET]Increase duration of Lower Defenses and Spread Lies</Italian>
+		<Spanish>[ICON_BULLET]Increase duration of Lower Defenses and Spread Lies</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXTRA_CITY_BONUS_RANGE</Tag>
+		<English>[ICON_BULLET]Extra City Bonus Range: %d1_Num</English>
+		<French>[ICON_BULLET]Portée des Bonus de Ville: %d1_Num</French>
+		<German>[ICON_BULLET]Extra City Bonus Range: %d1_Num</German>
+		<Italian>[ICON_BULLET]Extra City Bonus Range: %d1_Num</Italian>
+		<Spanish>[ICON_BULLET]Extra City Bonus Range: %d1_Num</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SPY_INCREASE_DIPLO_PENALTY</Tag>
+		<English>[ICON_BULLET]%d1_percent%% increase to diplomatic penalty from Cause Incident</English>
+		<French>[ICON_BULLET]%d1_percent%% d'augmentation des pénalités diplomatiques en raison des incidents causés</French>
+		<German>[ICON_BULLET]%d1_percent%% increase to diplomatic penalty from Cause Incident</German>
+		<Italian>[ICON_BULLET]%d1_percent%% increase to diplomatic penalty from Cause Incident</Italian>
+		<Spanish>[ICON_BULLET]%d1_percent%% increase to diplomatic penalty from Cause Incident</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SPY_INCREASE_DIPLO_BONUS</Tag>
+		<English>[ICON_BULLET]%d1_percent%% increase to diplomatic bonus from Political Marriage</English>
+		<French>[ICON_BULLET]%d1_percent%% d'augmentation des bonus diplomatique provenant des Unions politiques</French>
+		<German>[ICON_BULLET]%d1_percent%% increase to diplomatic bonus from Political Marriage</German>
+		<Italian>[ICON_BULLET]%d1_percent%% increase to diplomatic bonus from Political Marriage</Italian>
+		<Spanish>[ICON_BULLET]%d1_percent%% increase to diplomatic bonus from Political Marriage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SPY_INCREASE_DURATION</Tag>
+		<English>[ICON_BULLET]%d1_percent%% increase to effect duration of successful mission</English>
+		<French>[ICON_BULLET]%d1_percent%% d'augmentation de la durée des effets en cas de succès de la mission</French>
+		<German>[ICON_BULLET]%d1_percent%% increase to effect duration of successful mission</German>
+		<Italian>[ICON_BULLET]%d1_percent%% increase to effect duration of successful mission</Italian>
+		<Spanish>[ICON_BULLET]%d1_percent%% increase to effect duration of successful mission</Spanish>
+	</TEXT>
+
+	<!-- Terrain, features and bonus - ressources) -->
+
+
+
+
+
+
+
+	<!-- Landsraad Resolutions -->
+
+
+
+
+
+
+	<!-- Religions, related buildings, units -->
+
+
+
+
+
+
+	<!-- Units -->
+
+
+
+
+
+
+	<!-- Buildings -->
+
+
+
+
+
+
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DEN_SPIES_PEDIA</Tag>
+		<English>
+Stub pedia for Semuta Den
+		</English>
+		<French>
+Stub pedia for Semuta Den
+		</French>
+		<German>
+Stub pedia for Semuta Den
+		</German>
+		<Italian>
+Stub pedia for Semuta Den
+		</Italian>
+		<Spanish>
+Stub pedia for Semuta Den
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DEN_SPIES_STRATEGY</Tag>
+		<English>
+Stub strategy for Semuta Den
+		</English>
+		<French>
+Stub strategy for Semuta Den
+		</French>
+		<German>
+Stub strategy for Semuta Den
+		</German>
+		<Italian>
+Stub strategy for Semuta Den
+		</Italian>
+		<Spanish>
+Stub strategy for Semuta Den
+		</Spanish>
+	</TEXT>
+
+	<!-- Technologies -->
+
+
+
+
+
+
+	<!-- Hints -->
+
+
+
+
+
+
+	<!-- Civilizations -->
+
+
+
+
+
+
+	<!-- Leaderheads -->
+
+
+
+
+
+
+	<!-- Bonuses -->
+
+
+
+
+
+
+	<!-- Civics -->
+
+
+
+
+
+
+	<!-- New Concepts -->
+
+
+
+
+
+
+	<!-- Civilization hover help -->
+
+
+
+
+
+
+	<!-- Promotions -->
+
+
+
+
+
+	<!-- Projects -->
+
+
+
+
+
+
+	<!-- Miscellaneous -->
+
+
+
+
+
+
+
+	<TEXT>
+		<Tag>TXT_KEY_MEMORY_MANIPULATED_US</Tag>
+		<English>&quot;You manipulated us!&quot;</English>
+		<French>&quot;Vous nous avez manipulé!&quot;</French>
+		<German>&quot;You manipulated us!&quot;</German>
+		<Italian>&quot;You manipulated us!&quot;</Italian>
+		<Spanish>&quot;You manipulated us!&quot;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MEMORY_POLITICAL_MARRIAGE</Tag>
+		<English>&quot;This political marriage benefits us.&quot;</English>
+		<French>&quot;Cette union est bénéfique pour nous.&quot;</French>
+		<German>&quot;This political marriage benefits us.&quot;</German>
+		<Italian>&quot;This political marriage benefits us.&quot;</Italian>
+		<Spanish>&quot;This political marriage benefits us.&quot;</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_POLITICAL_MARRIAGE</Tag>
+		<English>Cause %s1_leaderhead to have permanent +%d2 diplomatic reaction</English>
+		<French>Attribue à %s1_leaderhead un Bonus diplomatique : +%d2</French>
+		<German>Cause %s1_leaderhead to have permanent +%d2 diplomatic reaction</German>
+		<Italian>Cause %s1_leaderhead to have permanent +%d2 diplomatic reaction</Italian>
+		<Spanish>Cause %s1_leaderhead to have permanent +%d2 diplomatic reaction</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_TARGET_POLITICAL_MARRIAGE</Tag>
+		<English>
+A political marriage has been arranged at %s1_CityName!
+		</English>
+		<French>
+Une Union politique a été arrangée à %s1_CityName!
+		</French>
+		<German>
+A political marriage has been arranged at %s1_CityName!
+		</German>
+		<Italian>
+A political marriage has been arranged at %s1_CityName!
+		</Italian>
+		<Spanish>
+A political marriage has been arranged at %s1_CityName!
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_CAUSE_INCIDENT</Tag>
+		<English>Cause %s1_leaderhead to have permanent %d2 diplomatic reaction against this leader</English>
+		<French>provoque à %s1_leaderhead une réaction diplomatique de %d2 contre ce leader</French>
+		<German>Cause %s1_leaderhead to have permanent %d2 diplomatic reaction against this leader</German>
+		<Italian>Cause %s1_leaderhead to have permanent %d2 diplomatic reaction against this leader</Italian>
+		<Spanish>Cause %s1_leaderhead to have permanent %d2 diplomatic reaction against this leader</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_TARGET_CAUSE_INCIDENT</Tag>
+		<English>
+Elements loyal to another empire have ruined a relationship at %s1_CityName!
+		</English>
+		<French>
+Des Eléments loyaux à un autre Empire ont ruiné notre relation à %s1_CityName!
+		</French>
+		<German>
+Elements loyal to another empire have ruined a relationship at %s1_CityName!
+		</German>
+		<Italian>
+Elements loyal to another empire have ruined a relationship at %s1_CityName!
+		</Italian>
+		<Spanish>
+Elements loyal to another empire have ruined a relationship at %s1_CityName!
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_ESTABLISH_SEMUTA_DEN</Tag>
+		<English>Creates Den of Spies in target city</English>
+		<French>Creates Semuta Den in target city</French>
+		<German>Creates Semuta Den in target city</German>
+		<Italian>Creates Semuta Den in target city</Italian>
+		<Spanish>Creates Semuta Den in target city</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_SEDUCE_LEADERS</Tag>
+		<English>-50% [ICON_CULTURE] and -10% [ICON_PRODUCTION] for 10 turns in target city (Duration may increase with promotions)</English>
+		<French>-50% [ICON_CULTURE] and -10% [ICON_PRODUCTION] for 10 turns in target city (Duration may increase with promotions)</French>
+		<German>-50% [ICON_CULTURE] and -10% [ICON_PRODUCTION] for 10 turns in target city (Duration may increase with promotions)</German>
+		<Italian>-50% [ICON_CULTURE] and -10% [ICON_PRODUCTION] for 10 turns in target city (Duration may increase with promotions)</Italian>
+		<Spanish>-50% [ICON_CULTURE] and -10% [ICON_PRODUCTION] for 10 turns in target city (Duration may increase with promotions)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_EXERT_INFLUENCE</Tag>
+		<English>-75% [ICON_CULTURE] for 10 turns in target city (Duration may increase with promotions)</English>
+		<French>-75% [ICON_CULTURE] for 10 turns in target city (Duration may increase with promotions)</French>
+		<German>-75% [ICON_CULTURE] for 10 turns in target city (Duration may increase with promotions)</German>
+		<Italian>-75% [ICON_CULTURE] for 10 turns in target city (Duration may increase with promotions)</Italian>
+		<Spanish>-75% [ICON_CULTURE] for 10 turns in target city (Duration may increase with promotions)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_SPREAD_LIES</Tag>
+		<English>-20% [ICON_PRODUCTION] and +4 [ICON_UNHAPPY] for 10 turns in target city (Duration may increase with promotions)</English>
+		<French>-20% [ICON_PRODUCTION] and +4 [ICON_UNHAPPY] for 10 turns in target city (Duration may increase with promotions)</French>
+		<German>-20% [ICON_PRODUCTION] and +4 [ICON_UNHAPPY] for 10 turns in target city (Duration may increase with promotions)</German>
+		<Italian>-20% [ICON_PRODUCTION] and +4 [ICON_UNHAPPY] for 10 turns in target city (Duration may increase with promotions)</Italian>
+		<Spanish>-20% [ICON_PRODUCTION] and +4 [ICON_UNHAPPY] for 10 turns in target city (Duration may increase with promotions)</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_TARGET_CREATE_BUILDING</Tag>
+		<English>
+%s1_CityName has been the target of a covert action.
+		</English>
+		<French>
+%s1_CityName has been the target of a covert action.
+		</French>
+		<German>
+%s1_CityName has been the target of a covert action.
+		</German>
+		<Italian>
+%s1_CityName has been the target of a covert action.
+		</Italian>
+		<Spanish>
+%s1_CityName has been the target of a covert action.
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_ASSASSINATE_SPECIALIST</Tag>
+		<English>Assassinate %s1_unit_name</English>
+		<French>Assassiner %s1_unit_name</French>
+		<German>Assassinate %s1_unit_name</German>
+		<Italian>Assassinate %s1_unit_name</Italian>
+		<Spanish>Assassinate %s1_unit_name</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_CONVERT_CITY</Tag>
+		<English>Take permanent control of %s1_CityName</English>
+		<French>Prendre le contrôle de %s1_CityName</French>
+		<German>Take permanent control of %s1_CityName</German>
+		<Italian>Take permanent control of %s1_CityName</Italian>
+		<Spanish>Take permanent control of %s1_CityName</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_HELP_RECRUIT_WORKER</Tag>
+		<English>Recruit Worker</English>
+		<French>Recruter les Ouvriers</French>
+		<German>Recruit Worker</German>
+		<Italian>Recruit Worker</Italian>
+		<Spanish>Recruit Worker</Spanish>
+	</TEXT>
+
+	<!-- BuildInfos -->
+
+
+
+
+
+
+	<!-- BuildingClassInfos -->
+
+
+
+
+
+
+
+	<TEXT>
+		<Tag>TXT_KEY_BUILDINGCLASS_EXTERNAL_INFLUENCE</Tag>
+		<English>External Influence</English>
+		<French>External Influence</French>
+		<German>External Influence</German>
+		<Italian>External Influence</Italian>
+		<Spanish>External Influence</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDINGCLASS_SEDUCED_LEADERS</Tag>
+		<English>Seduced Leaders</English>
+		<French>Seduced Leaders</French>
+		<German>Seduced Leaders</German>
+		<Italian>Seduced Leaders</Italian>
+		<Spanish>Seduced Leaders</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDINGCLASS_MISINFORMATION</Tag>
+		<English>Misinformation</English>
+		<French>Misinformation</French>
+		<German>Misinformation</German>
+		<Italian>Misinformation</Italian>
+		<Spanish>Misinformation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDINGCLASS_DEN_SPIES</Tag>
+		<English>Den of Spies</English>
+		<French>Semuta Den</French>
+		<German>Semuta Den</German>
+		<Italian>Semuta Den</Italian>
+		<Spanish>Semuta Den</Spanish>
+	</TEXT>
+	<!-- BuildingInfos -->
+
+
+
+
+
+
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEDUCED_LEADERS</Tag>
+		<English>Seduced Leaders</English>
+		<French>Leaders séduits</French>
+		<German>Seduced Leaders</German>
+		<Italian>Seduced Leaders</Italian>
+		<Spanish>Seduced Leaders</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MISINFORMATION</Tag>
+		<English>Misinformation</English>
+		<French>désinformation</French>
+		<German>Misinformation</German>
+		<Italian>Misinformation</Italian>
+		<Spanish>Misinformation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EXTERNAL_INFLUENCE</Tag>
+		<English>External Influence</English>
+		<French>Influence Externe</French>
+		<German>External Influence</German>
+		<Italian>External Influence</Italian>
+		<Spanish>External Influence</Spanish>
+	</TEXT>
+	<!-- PromotionInfos -->
+
+
+
+	<!-- TechInfos -->
+
+
+
+
+
+
+	<!-- UnitClassInfos -->
+
+
+
+
+
+
+	<!-- UnitInfos -->
+
+
+
+
+
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGEMISSION_CONVERT_CITY</Tag>
+		<English>Annex City</English>
+		<French>Annexer une Ville</French>
+		<German>Annex City</German>
+		<Italian>Annex City</Italian>
+		<Spanish>Annex City</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGEMISSION_DESTABILIZE</Tag>
+		<English>Incite Anarchy</English>
+		<French>Inciter à l'Anarchie</French>
+		<German>Incite Anarchy</German>
+		<Italian>Incite Anarchy</Italian>
+		<Spanish>Incite Anarchy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGEMISSION_POLITICAL_MARRIAGE</Tag>
+		<English>Political Marriage</English>
+		<French>Proposer une Union Politique</French>
+		<German>Political Marriage</German>
+		<Italian>Political Marriage</Italian>
+		<Spanish>Political Marriage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGEMISSION_CAUSE_INCIDENT</Tag>
+		<English>Cause Incident</English>
+		<French>Causer un Incident</French>
+		<German>Cause Incident</German>
+		<Italian>Cause Incident</Italian>
+		<Spanish>Cause Incident</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGEMISSION_DEN_SPIES</Tag>
+		<English>Establish Den of Spies</English>
+		<French>Implanter un repaire de Semuta</French>
+		<German>Establish Semuta Den</German>
+		<Italian>Establish Semuta Den</Italian>
+		<Spanish>Establish Semuta Den</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGEMISSION_SEDUCE_LEADERS</Tag>
+		<English>Seduce Leaders</English>
+		<French>Séduire les Leaders</French>
+		<German>Seduce Leaders</German>
+		<Italian>Seduce Leaders</Italian>
+		<Spanish>Seduce Leaders</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGEMISSION_EXERT_INFLUENCE</Tag>
+		<English>Exert Influence</English>
+		<French>Exercer de l'Influence</French>
+		<German>Exert Influence</German>
+		<Italian>Exert Influence</Italian>
+		<Spanish>Exert Influence</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGEMISSION_SPREAD_LIES</Tag>
+		<English>Spread Lies</English>
+		<French>Propager des Mensonges</French>
+		<German>Spread Lies</German>
+		<Italian>Spread Lies</Italian>
+		<Spanish>Spread Lies</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXTERNAL_INFLUENCE_STRATEGY</Tag>
+		<English>
+This temporary building is created by enemy espionage actions.  It will expire automatically.
+		</English>
+		<French>
+This temporary building is created by enemy espionage actions.  It will expire automatically.
+		</French>
+		<German>
+This temporary building is created by enemy espionage actions.  It will expire automatically.
+		</German>
+		<Italian>
+This temporary building is created by enemy espionage actions.  It will expire automatically.
+		</Italian>
+		<Spanish>
+This temporary building is created by enemy espionage actions.  It will expire automatically.
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SEDUCED_LEADERS_STRATEGY</Tag>
+		<English>
+This temporary building is created by enemy espionage actions.  It will expire automatically.
+		</English>
+		<French>
+This temporary building is created by enemy espionage actions.  It will expire automatically.
+		</French>
+		<German>
+This temporary building is created by enemy espionage actions.  It will expire automatically.
+		</German>
+		<Italian>
+This temporary building is created by enemy espionage actions.  It will expire automatically.
+		</Italian>
+		<Spanish>
+This temporary building is created by enemy espionage actions.  It will expire automatically.
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXTERNAL_INFLUENCE_PEDIA</Tag>
+		<English>Stub text for external influence pedia</English>
+		<French>Stub text for external influence pedia</French>
+		<German>Stub text for external influence pedia</German>
+		<Italian>Stub text for external influence pedia</Italian>
+		<Spanish>Stub text for external influence pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MISINFORMATION_PEDIA</Tag>
+		<English>Stub text for misinformation pedia</English>
+		<French>Stub text for misinformation pedia</French>
+		<German>Stub text for misinformation pedia</German>
+		<Italian>Stub text for misinformation pedia</Italian>
+		<Spanish>Stub text for misinformation pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SEDUCED_LEADERS_PEDIA</Tag>
+		<English>Stub text for seduced leaders pedia</English>
+		<French>Stub text for seduced leaders pedia</French>
+		<German>Stub text for seduced leaders pedia</German>
+		<Italian>Stub text for seduced leaders pedia</Italian>
+		<Spanish>Stub text for seduced leaders pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXTERNAL_INFLUENCE_PEDIA</Tag>
+		<English>Stub text for external influence pedia</English>
+		<French>Stub text for external influence pedia</French>
+		<German>Stub text for external influence pedia</German>
+		<Italian>Stub text for external influence pedia</Italian>
+		<Spanish>Stub text for external influence pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MISINFORMATION_PEDIA</Tag>
+		<English>Stub text for misinformation pedia</English>
+		<French>Stub text for misinformation pedia</French>
+		<German>Stub text for misinformation pedia</German>
+		<Italian>Stub text for misinformation pedia</Italian>
+		<Spanish>Stub text for misinformation pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SEDUCED_LEADERS_PEDIA</Tag>
+		<English>Stub text for seduced leaders pedia</English>
+		<French>Stub text for seduced leaders pedia</French>
+		<German>Stub text for seduced leaders pedia</German>
+		<Italian>Stub text for seduced leaders pedia</Italian>
+		<Spanish>Stub text for seduced leaders pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXTERNAL_INFLUENCE_PEDIA</Tag>
+		<English>Stub text for external influence pedia</English>
+		<French>Stub text for external influence pedia</French>
+		<German>Stub text for external influence pedia</German>
+		<Italian>Stub text for external influence pedia</Italian>
+		<Spanish>Stub text for external influence pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MISINFORMATION_PEDIA</Tag>
+		<English>Stub text for misinformation pedia</English>
+		<French>Stub text for misinformation pedia</French>
+		<German>Stub text for misinformation pedia</German>
+		<Italian>Stub text for misinformation pedia</Italian>
+		<Spanish>Stub text for misinformation pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SEDUCED_LEADERS_PEDIA</Tag>
+		<English>Stub text for seduced leaders pedia</English>
+		<French>Stub text for seduced leaders pedia</French>
+		<German>Stub text for seduced leaders pedia</German>
+		<Italian>Stub text for seduced leaders pedia</Italian>
+		<Spanish>Stub text for seduced leaders pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXTERNAL_INFLUENCE_PEDIA</Tag>
+		<English>Stub text for external influence pedia</English>
+		<French>Stub text for external influence pedia</French>
+		<German>Stub text for external influence pedia</German>
+		<Italian>Stub text for external influence pedia</Italian>
+		<Spanish>Stub text for external influence pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MISINFORMATION_PEDIA</Tag>
+		<English>Stub text for misinformation pedia</English>
+		<French>Stub text for misinformation pedia</French>
+		<German>Stub text for misinformation pedia</German>
+		<Italian>Stub text for misinformation pedia</Italian>
+		<Spanish>Stub text for misinformation pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NARCOTICS_DEALER_PEDIA</Tag>
+		<English>Stub text for narcotics dealer pedia</English>
+		<French>Stub text for narcotics dealer pedia</French>
+		<German>Stub text for narcotics dealer pedia</German>
+		<Italian>Stub text for narcotics dealer pedia</Italian>
+		<Spanish>Stub text for narcotics dealer pedia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SEDUCED_LEADERS_PEDIA</Tag>
+		<English>Stub text for seduced leaders pedia</English>
+		<French>Stub text for seduced leaders pedia</French>
+		<German>Stub text for seduced leaders pedia</German>
+		<Italian>Stub text for seduced leaders pedia</Italian>
+		<Spanish>Stub text for seduced leaders pedia</Spanish>
+	</TEXT>
+</Civ4GameText>
