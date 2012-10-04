@@ -6,7 +6,7 @@
 <!-- Building art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
-			<BuildingArtInfo>
+		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_VIDEO_GAMES_STUDIO</Type>
 			<LSystem>LSYSTEM_3x1</LSystem>
 			<bAnimated>1</bAnimated>
