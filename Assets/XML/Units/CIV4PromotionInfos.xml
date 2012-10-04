@@ -4512,8 +4512,7 @@
 			<iInterceptChange>0</iInterceptChange>
 			<iEvasionChange>0</iEvasionChange>
 			<iWithdrawalChange>0</iWithdrawalChange>
-			<iCargoCh
-			ange>0</iCargoChange>
+			<iCargoChange>0</iCargoChange>
 			<iCollateralDamageChange>0</iCollateralDamageChange>
 			<iBombardRateChange>0</iBombardRateChange>
 			<iFirstStrikesChange>0</iFirstStrikesChange>
@@ -5402,8 +5401,7 @@
 			<iKamikazePercent>0</iKamikazePercent>
 			<iRevoltProtection>0</iRevoltProtection>
 			<iCollateralDamageProtection>0</iCollateralDamageProtection>
-			<iPil
-			lageChange>0</iPillageChange>
+			<iPillageChange>0</iPillageChange>
 			<iUpgradeDiscount>10</iUpgradeDiscount>
 			<iExperiencePercent>0</iExperiencePercent>
 			<TerrainAttacks/>
