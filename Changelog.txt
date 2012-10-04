@@ -61,4 +61,5 @@ V0.8:
 - First to Discover Modern Espionage recieves a great Spy
 - Civlopedia entries cleaned up.
 - Renamed to DTM to allow for use with Github
+- Religious Victory added, Set at 65% to win.
 
