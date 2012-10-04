@@ -6,6 +6,16 @@
 <!-- Building art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
+			<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_VIDEO_GAMES_STUDIO</Type>
+			<LSystem>LSYSTEM_3x1</LSystem>
+			<bAnimated>1</bAnimated>
+			<fScale>1.66</fScale>
+			<fInterfaceScale>0.48</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Hollywood/Hollywood.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/Buildings/Hollywood.dds,Art/Interface/Buttons/Buildings_Atlas.dds,8,3</Button>
+		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_EMPIRE_STATE</Type>
 			<LSystem>LSYSTEM_2x2</LSystem>
