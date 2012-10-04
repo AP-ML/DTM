@@ -6,6 +6,18 @@
 <!-- Building Class Infos -->
 <Civ4BuildingClassInfos xmlns="x-schema:CIV4BuildingsSchema.xml">
 	<BuildingClassInfos>
+			<BuildingClassInfo>
+			<Type>BUILDINGCLASS_VIDEO_GAMES_STUDIO</Type>
+			<Description>TXT_KEY_BUILDING_VIDEO_GAMES_STUDIO</Description>
+			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_VIDEO_GAMES_STUDIO</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
 		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_EMPIRE_STATE</Type>
 			<Description>TXT_KEY_BUILDING_EMPIRE_STATE</Description>
