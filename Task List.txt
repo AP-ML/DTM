@@ -4,3 +4,32 @@ A brief list of current projects for the Dream Team Mod:
 - Add a Video Games Studio Wonder - Pretzle [In Progress] [Requires new graphics, bug fixes]
 - Add new Weapons of Mass Destruction, i.e Biological, Chemical, Nuclear and Conventional, with interchangable warheads loaded onto a general missile base. - thelastryan [Not Started]
 - Add new leader traits so that new leaders can be added - Pretzle [Planning]
+- Individual civs - Anquietas [Porting]
+
+---------------Potential projects--------------------
+
+- Fusion reactor (great engineer?) 
+- Collect traits from RoM/C2C
+- Bug?
+- New resources maybe the lost ones? And ROM ones
+- Maybe resources for Bio/Chem weapons
+- Improve nukes system, delayed launch? 
+- Stockpile nukes causes a relation hit
+- Spy satellites/maybe needs maintaining/shot down (communication?) 
+- New roads? (jump lanes) 
+- Stop ai's using unique civs
+- War justification mod? 
+- Manly trees event
+- Terraforming with workers
+- Domed cities
+- Late era health problems (obesity) 
+- More corporations/Rename existing into parodies (Kentucky fried mcburger king/20th century box/B.O/Google parody(impreggle)/Boxconn/Schnapple/Folks wagon/fagex/smokacola/Ball mart
+- New theaters (VR)
+- New civ audio files (oh no the Spanish are coming!/Waar is De bonk?/Omlette du fromaje)
+- L Ron Hubbard great profit
+- Channel tunnel (maybe limited up to 5 tiles away) 
+- Great citizens 
+- More air units 
+- Air refueling system
+- Drone aircraft? 
+- Custom dream team map generation script
