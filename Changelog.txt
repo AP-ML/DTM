@@ -63,3 +63,7 @@ V0.8:
 - Renamed to DTM to allow for use with Github
 - Religious Victory added, Set at 65% to win.
 - [Pz] Added Video Games Studio wonder, and matching Video Games bonus resource. Will need beautification later.
+
+V0.9:
+
+
