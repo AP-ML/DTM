@@ -7,6 +7,12 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<CivilizationArtInfos>
 		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_SALTIA</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Barbarian.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,4,5</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Skull.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_VALYRIA</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/APButton.dds</Button>
 			<Path>Art/Interface/TeamColor/APFlag.dds</Path>

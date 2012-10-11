@@ -245,7 +245,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GRENADIER_STRATEGY</Tag>
-		<English>Build this moderate-strength gunpowder unit as a counter to an enemy with lots of [COLOR_UNIT_TEXT]Rifleman[COLOR_REVERT].</English>
+		<English>Build this moderate-strength gunpowder unit as a counter to an enemy with lots of [COLOR_UNIT_TEXT]Riflemen[COLOR_REVERT].</English>
 		<French>Produisez cette unit&#233; de force moyenne et &#233;quip&#233;e d'une arme &#224; feu pour contrer un ennemi disposant de nombreux [COLOR_UNIT_TEXT]fusiliers[COLOR_REVERT].</French>
 		<German>Bilden Sie diese mittelstarke Schie&#223;pulver-Einheit aus, um Gegner mit vielen [COLOR_UNIT_TEXT]Sch&#252;tzen[COLOR_REVERT] aufzuhalten.</German>
 		<Italian>Realizza questa unit&#224; con armi da fuoco di forza moderata per contrastare i [COLOR_UNIT_TEXT]fucilieri[COLOR_REVERT].</Italian>
