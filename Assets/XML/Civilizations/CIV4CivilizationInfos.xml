@@ -3719,7 +3719,7 @@
 		<CivilizationInfo>
 			<Type>CIVILIZATION_VALYRIA</Type>
 			<Description>Valyrian Empire </Description>
-			<ShortDescription>Valryian</ShortDescription>
+			<ShortDescription>Valyrian</ShortDescription>
 			<Adjective>Valyria</Adjective>
 			<Civilopedia>[PlaceHolder]</Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_DARK_GRAY</DefaultPlayerColor>
