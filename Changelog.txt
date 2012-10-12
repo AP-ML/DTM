@@ -1,5 +1,9 @@
 CHANGELOG:
 
+Build #010 [Pz]:
+- Minor changes to buildings.
+- [ANQ] Minor changes to audio.
+
 Build #009 [Pz]:
 - Added Seafaring, Deceptive, Scientific, Humanitarian, Productuve and Commercial traits.
 - Changed some existing traits a smidge.
@@ -10,6 +14,7 @@ Build #009 [Pz]:
 - Unique graphics still not included for any of the above - 'tis my next goal.
 - Removed free commando promotion from spies in line with Super Spies mod.
 - Spellchecked Al.
+- [ANQ] [TLR] Added some new audio for the Modern Espionage tech.
 
 V0.8:
 - New Spy Missions Tied to new tech "Modern Espionage"
