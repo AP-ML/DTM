@@ -6,6 +6,80 @@
 <!-- Civilization Infos -->
 <Civ4CivilizationInfos xmlns="x-schema:CIV4CivilizationsSchema.xml">
 	<CivilizationInfos>
+	        <CivilizationInfo>
+			<Type>CIVILIZATION_ZAROS</Type>
+			<Description>Zarosian Empire</Description>
+			<ShortDescription>Zarosian</ShortDescription>
+			<Adjective>Zaros</Adjective>
+			<Civilopedia>Zaros, will have his civlopedia entry here.</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_PURPLE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_AMERICA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>Senntisten</City>
+				<City>Ghorrock</City>
+				<City>Annakarl</City>
+				<City>Carrallangar</City>
+				<City>Dareeyak</City>
+				<City>Lassar</City>
+				<City>Kharyrll</City>
+				<City>Paddewwa</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_SUPERMARKET</BuildingClassType>
+					<BuildingType>BUILDING_AMERICAN_MALL</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_SPY</UnitClassType>
+					<UnitType>UNIT_ZAROS_DECEIVER</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_MYSTICISM</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_AGRICULTURE</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_TRIBALISM</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_OCCULTUS</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>NONE</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_AMERICA_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_AMERICA_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_AMERICA</Type>
 			<Description>TXT_KEY_CIV_AMERICA_DESC</Description>
