@@ -19,7 +19,7 @@
 			<SeeInvisible>NONE</SeeInvisible>
 			<Description>Deceiver</Description>
 			<Civilopedia>Deceivers are elite spies handpicked by Occultus himself, renowed for their bravery and skill.</Civilopedia>
-			<Strategy>The Zarosian replacement for the Spy, a Deceiver has double movement and begins with the Deception 1 promotion. </Strategy>
+			<Strategy>The Zarosian replacement for the Spy, a Deceiver has double movement and begins with the Deception I promotion. </Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
 			<bAnimal>0</bAnimal>
 			<bFood>0</bFood>
@@ -97,7 +97,7 @@
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
 			<iMinAreaSize>-1</iMinAreaSize>
-			<iMoves>1</iMoves>
+			<iMoves>2</iMoves>
 			<bNoRevealMap>0</bNoRevealMap>
 			<iAirRange>0</iAirRange>
 			<iAirUnitCap>0</iAirUnitCap>
