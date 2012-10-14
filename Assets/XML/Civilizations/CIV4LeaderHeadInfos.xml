@@ -89,11 +89,11 @@
 			<VassalRefuseAttitudeThreshold>ATTITUDE_CAUTIOUS</VassalRefuseAttitudeThreshold>
 			<iVassalPowerModifier>0</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
-			<FavoriteCivic>CIVIC_CASTE_SYSTEM</FavoriteCivic>
+			<FavoriteCivic>CIVIC_NATIONHOOD</FavoriteCivic>
 			<FavoriteReligion>RELIGION_CONFUCIANISM</FavoriteReligion>
 			<Traits>
 				<Trait>
-					<TraitType>TRAIT_FINANCIAL</TraitType>
+					<TraitType>TRAIT_DECEPTIVE</TraitType>
 					<bTrait>1</bTrait>
 				</Trait>
 				<Trait>

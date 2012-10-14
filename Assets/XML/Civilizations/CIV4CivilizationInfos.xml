@@ -9,15 +9,15 @@
 	        <CivilizationInfo>
 			<Type>CIVILIZATION_ZAROS</Type>
 			<Description>Zarosian Empire</Description>
-			<ShortDescription>Zarosian</ShortDescription>
-			<Adjective>Zaros</Adjective>
-			<Civilopedia>Zaros, will have his civlopedia entry here.</Civilopedia>
+			<ShortDescription>Zaros</ShortDescription>
+			<Adjective>Zarosian</Adjective>
+			<Civilopedia>PLACEHOLDER</Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_PURPLE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_AMERICA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
-			<bAIPlayable>1</bAIPlayable>
+			<bAIPlayable>0</bAIPlayable>
 			<Cities>
 				<City>Senntisten</City>
 				<City>Ghorrock</City>
@@ -77,8 +77,8 @@
 				</Leader>
 			</Leaders>
 			<DerivativeCiv>NONE</DerivativeCiv>
-			<CivilizationSelectionSound>AS3D_AMERICA_SELECT</CivilizationSelectionSound>
-			<CivilizationActionSound>AS3D_AMERICA_ORDER</CivilizationActionSound>
+			<CivilizationSelectionSound>AS3D_ROME_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_ROME_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_AMERICA</Type>

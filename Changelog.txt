@@ -1,5 +1,12 @@
 CHANGELOG:
 
+Build #011 [Stinger]:
+-Added a new folder in Assets/Sounds called Diplomacy. This contains the piece of music I intend to use.
+-Added my own civ, the Zarosian Empire. Leader is called Occultus (Deceptive/Protective).
+UNIQUE UNIT: Deceiver - Spy with Double Movement Speed and starts with Deception 1 promotion.
+UNIQUE BUILDING: Den of Spies - Library with +2 espionage and 2 spy specialists.
+*NOTE: Coding for Espionage Units will need to be looked at, as currently they don't have any promotions.
+
 Build #010 [Pz]:
 - Minor changes to buildings.
 - [ANQ] Minor changes to audio.

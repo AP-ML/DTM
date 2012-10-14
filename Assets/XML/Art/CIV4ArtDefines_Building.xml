@@ -7,6 +7,16 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
 		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_ZAROSIAN_DENOFSPIES</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.8</fScale>
+			<fInterfaceScale>0.47</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Madrassa/Madrassa.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/Buildings/Library.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,1,2</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_VIDEO_GAMES_STUDIO</Type>
 			<LSystem>LSYSTEM_2x2</LSystem>
 			<bAnimated>1</bAnimated>

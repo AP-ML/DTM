@@ -17,9 +17,9 @@
 			<DefaultUnitAI>UNITAI_SPY</DefaultUnitAI>
 			<Invisible>NONE</Invisible>
 			<SeeInvisible>NONE</SeeInvisible>
-			<Description>Zaros the Deciever</Description>
-			<Civilopedia>Blah</Civilopedia>
-			<Strategy>TXT_KEY_UNIT_SPY_STRATEGY</Strategy>
+			<Description>Deceiver</Description>
+			<Civilopedia>Deceivers are elite spies handpicked by Occultus himself, renowed for their bravery and skill.</Civilopedia>
+			<Strategy>The Zarosian replacement for the Spy, a Deceiver has double movement and begins with the Deception 1 promotion. </Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
 			<bAnimal>0</bAnimal>
 			<bFood>0</bFood>
