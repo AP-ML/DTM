@@ -12,7 +12,7 @@
 			<UniqueNames/>
 			<Special>SPECIALUNIT_PEOPLE</Special>
 			<Capture>NONE</Capture>
-			<Combat>NONE</Combat>
+			<Combat>UNITCOMBAT_SPY</Combat>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_SPY</DefaultUnitAI>
 			<Invisible>NONE</Invisible>
@@ -1930,7 +1930,7 @@
 			<UniqueNames/>
 			<Special>SPECIALUNIT_PEOPLE</Special>
 			<Capture>NONE</Capture>
-			<Combat>NONE</Combat>
+			<Combat>UNITCOMBAT_SPY</Combat>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_SPY</DefaultUnitAI>
 			<Invisible>NONE</Invisible>
