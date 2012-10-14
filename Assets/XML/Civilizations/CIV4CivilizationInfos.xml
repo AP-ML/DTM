@@ -30,8 +30,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_SUPERMARKET</BuildingClassType>
-					<BuildingType>BUILDING_AMERICAN_MALL</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+					<BuildingType>BUILDING_ZAROSIAN_DENOFSPIES</BuildingType>
 				</Building>
 			</Buildings>
 			<Units>
