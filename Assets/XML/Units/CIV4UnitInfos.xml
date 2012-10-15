@@ -11550,7 +11550,7 @@
 		</UnitInfo>
 		<UnitInfo>
 			<Class>UNITCLASS_LONGBOWMAN</Class>
-			<Type>UNIT_PEARIAN_GUARDIAN</Type>
+			<Type>UNIT_LONGBOWMAN</Type>
 			<UniqueNames/>
 			<Special>NONE</Special>
 			<Capture>NONE</Capture>
