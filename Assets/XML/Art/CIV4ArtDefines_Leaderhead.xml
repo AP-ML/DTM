@@ -440,7 +440,7 @@
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_ADMIRAL_PRETZLE</Type>
-			<Button>,Art/interface/LeaderHeads/APButton.dds</Button>
+			<Button>,Art/interface/LeaderHeads/NaClMendeleevPhotoButton.dds</Button>
 			<NIF>art/interface/LeaderHeads/APLeader.dds</NIF>
 			<KFM/>
 			<NoShaderNIF/>
@@ -448,7 +448,7 @@
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_PRETZLE_REX</Type>
-			<Button>,Art/interface/LeaderHeads/APButton.dds</Button>
+			<Button>,Art/interface/LeaderHeads/NaClMendeleevPhotoButton.dds</Button>
 			<NIF>art/interface/LeaderHeads/APLeader.dds</NIF>
 			<KFM/>
 			<NoShaderNIF/>
