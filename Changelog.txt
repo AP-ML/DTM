@@ -1,5 +1,12 @@
 CHANGELOG:
 
+Build #012:
+- [TLR] Added Pearian Supremacy civ, General Pear leader.
+  - UB: Watch Tower (Castle that reduces city maintenance)
+  - UU: Guardian (Longbowman with extra movement points, first strikes)
+- [Pz] Added button, flag for Saltian Commonwealth civ.
+- [Pz] Minor Spellcheck.
+
 Build #011 [Stinger]:
 -Added a new folder in Assets/Sounds called Diplomacy. This contains the piece of music I intend to use.
 -Added my own civ, the Zarosian Empire. Leader is called Occultus (Deceptive/Protective).
