@@ -3873,9 +3873,9 @@
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_VALYRIA</Type>
-			<Description>Valyrian Empire </Description>
-			<ShortDescription>Valyrian</ShortDescription>
-			<Adjective>Valyria</Adjective>
+			<Description>Valyrian Freehold</Description>
+			<ShortDescription>Valyria</ShortDescription>
+			<Adjective>Valyrian</Adjective>
 			<Civilopedia>[PlaceHolder]</Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_DARK_GRAY</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_VALYRIA</ArtDefineTag>
@@ -3896,10 +3896,17 @@
 				<City>Mantarys</City>
 				<City>Elyria</City>
 				<City>Lorath</City>
+                <City>Tyria</City>
 				<City>Norvos</City>
-				<City>Myr</City>
 				<City>Tyrosh</City>
 				<City>Lys</City>
+				<City>Ny Sar</City>
+				<City>Velos</City>
+				<City>Myr</City>
+				<City>Bhorash</City>
+				<City>Sar Mell</City>
+                <City>Ghozai</City>
+				<City>Oros</City>
 			</Cities>
 			<Buildings>
 				<Building>
@@ -3910,7 +3917,7 @@
 			<Units>
 				<Unit>
 					<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
-					<UnitType>UNIT_ROME_PRAETORIAN</UnitType>
+					<UnitType>UNIT_KINGSGUARD</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>

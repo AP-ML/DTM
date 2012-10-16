@@ -959,9 +959,9 @@
 			<BuildingClass>BUILDINGCLASS_BIOLOGICAL_WARFARE_LAB</BuildingClass>
 			<Type>BUILDING_BIOLOGICAL_WARFARE_LAB</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
-			<Description>Biological Warefare Lab</Description>
+			<Description>Biological Warfare Lab</Description>
 			<Civilopedia>[TAB]Biological warfare is the use of biological toxins or infectious agents such as bacteria, viruses, and fungi with intent to kill or incapacitate humans, animals or plants as an act of war. Biological weapons (often termed "bio-weapons" or "bio-agents") are living organisms or replicating entities (viruses) that reproduce or replicate within their host victims.&#10;&#10;[TAB]Biological weapons may be employed in various ways to gain a strategic or tactical advantage over an adversary, either by threats or by actual deployments. Like some of the chemical weapons, biological weapons may also be useful as area denial weapons. These agents may be lethal or non-lethal, and may be targeted against a single individual, a group of people, or even an entire population. They may be developed, acquired, stockpiled or deployed by nation states or by non-national groups. In the latter case it may be considered bioterrorism.</Civilopedia>
-			<Strategy>Build this in order to produce Biological Warefare Missiles.</Strategy>
+			<Strategy>Build this in order to produce Biological Warfare Missiles.</Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_BIOLOGICAL_WARFARE_LAB</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>

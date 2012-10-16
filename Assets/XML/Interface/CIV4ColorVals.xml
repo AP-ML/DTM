@@ -504,6 +504,20 @@
 			<fAlpha>1.00</fAlpha>
 		</ColorVal>
 		<ColorVal>
+			<Type>COLOR_PLAYER_DARK_DARK_RED</Type>
+			<fRed>0.45</fRed>
+			<fGreen>0.00</fGreen>
+			<fBlue>0.00</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
+			<Type>COLOR_PLAYER_DARK_DARK_RED_TEXT</Type>
+			<fRed>0.62</fRed>
+			<fGreen>0.00</fGreen>
+			<fBlue>0.00</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
 			<Type>COLOR_PLAYER_DARK_RED_TEXT</Type>
 			<fRed>1.00</fRed>
 			<fGreen>0.22</fGreen>
