@@ -1,5 +1,12 @@
 CHANGELOG:
 
+Build #013: [Stinger]
+-Tidy up of the game text concerning the 4 buildings that can be created by spies.
+-Bribed Leaders, External Influence and Misinformation are classed as temporary buildings (10 turns).
+-Fifth Column is classed as permanent building (always has been this way in the code, I haven't edited this).
+-Fifth Column's bonuses have been changed from -gold/-production to -4 espionage/-10 espionage defence bonus. 
+I feel these bonuses are appropriate because spies working undercover in a city could broadcast enemy movements back to base.
+
 Build #012:
 - [TLR] Added Pearian Supremacy civ, General Pear leader.
   - UB: Watch Tower (Castle that reduces city maintenance)

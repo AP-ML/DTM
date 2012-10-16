@@ -70,7 +70,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_DEN_SPIES_HELP</Tag>
-		<English>[ICON_BULLET]Can only be built by a [COLOR_UNIT_TEXT]Spy[COLOR_REVERT].[NEWLINE][ICON_BULLET]Temporaily created for 10 turns.</English>
+		<English>[ICON_BULLET]Can only be built by a [COLOR_UNIT_TEXT]Spy[COLOR_REVERT].<!--[NEWLINE][ICON_BULLET]Temporaily created for 10 turns.--></English>
 		<French>[ICON_BULLET]Can only be built by a [COLOR_UNIT_TEXT]Spy[COLOR_REVERT].[NEWLINE][ICON_BULLET]Temporaily created for 10 turns.</French>
 		<German>[ICON_BULLET]Can only be built by a [COLOR_UNIT_TEXT]Spy[COLOR_REVERT].[NEWLINE][ICON_BULLET]Temporaily created for 10 turns.</German>
 		<Italian>[ICON_BULLET]Can only be built by a [COLOR_UNIT_TEXT]Spy[COLOR_REVERT].[NEWLINE][ICON_BULLET]Temporaily created for 10 turns.</Italian>
@@ -150,7 +150,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MISINFORMATION_STRATEGY</Tag>
-		<English>[COLOR_BUILDING_TEXT]Misiformation[COLOR_REVERT] reduces culture in a target city temporarily for 10 turns.</English>
+		<English>[COLOR_BUILDING_TEXT]Misinformation[COLOR_REVERT] reduces production and causes unhappiness in a target city temporarily for 10 turns.</English>
 		<French>This temporary building is created by enemy espionage actions.  It will expire automatically.</French>
 		<German>This temporary building is created by enemy espionage actions.  It will expire automatically.</German>
 		<Italian>This temporary building is created by enemy espionage actions.  It will expire automatically.</Italian>
