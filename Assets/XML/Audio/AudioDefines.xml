@@ -7,6 +7,13 @@
 <AudioDefines xmlns="x-schema:AudioDefinesSchema.xml">
 	<SoundDatas>
 			<SoundData>
+			<SoundID>SND_BUILD_POLICE_STATION</SoundID>
+			<Filename>Sounds/Buildings/PoliceStation</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+			<SoundData>
 			<SoundID>DIPLO_ANQUIETAS_EARLY</SoundID>
 			<Filename>Sounds/Diplomacy/Anquietas_Early</Filename>
 			<LoadType>STREAMED</LoadType>
