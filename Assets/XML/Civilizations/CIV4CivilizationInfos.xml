@@ -6,80 +6,6 @@
 <!-- Civilization Infos -->
 <Civ4CivilizationInfos xmlns="x-schema:CIV4CivilizationsSchema.xml">
 	<CivilizationInfos>
-	        <CivilizationInfo>
-			<Type>CIVILIZATION_ZAROS</Type>
-			<Description>Zarosian Empire</Description>
-			<ShortDescription>Zaros</ShortDescription>
-			<Adjective>Zarosian</Adjective>
-			<Civilopedia>PLACEHOLDER</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_PURPLE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_AMERICA</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
-			<bPlayable>1</bPlayable>
-			<bAIPlayable>0</bAIPlayable>
-			<Cities>
-				<City>Senntisten</City>
-				<City>Ghorrock</City>
-				<City>Annakarl</City>
-				<City>Carrallangar</City>
-				<City>Dareeyak</City>
-				<City>Lassar</City>
-				<City>Kharyrll</City>
-				<City>Paddewwa</City>
-			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
-					<BuildingType>BUILDING_ZAROSIAN_DENOFSPIES</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_SPY</UnitClassType>
-					<UnitType>UNIT_ZAROS_DECEIVER</UnitType>
-				</Unit>
-			</Units>
-			<FreeUnitClasses>
-				<FreeUnitClass>
-					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
-					<iFreeUnits>1</iFreeUnits>
-				</FreeUnitClass>
-			</FreeUnitClasses>
-			<FreeBuildingClasses>
-				<FreeBuildingClass>
-					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
-					<bFreeBuildingClass>1</bFreeBuildingClass>
-				</FreeBuildingClass>
-			</FreeBuildingClasses>
-			<FreeTechs>
-				<FreeTech>
-					<TechType>TECH_MYSTICISM</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
-					<TechType>TECH_AGRICULTURE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-			</FreeTechs>
-			<DisableTechs/>
-			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
-				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
-			</InitialCivics>
-			<Leaders>
-				<Leader>
-					<LeaderName>LEADER_OCCULTUS</LeaderName>
-					<bLeaderAvailability>1</bLeaderAvailability>
-				</Leader>
-			</Leaders>
-			<DerivativeCiv>NONE</DerivativeCiv>
-			<CivilizationSelectionSound>AS3D_ROME_SELECT</CivilizationSelectionSound>
-			<CivilizationActionSound>AS3D_ROME_ORDER</CivilizationActionSound>
-		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_AMERICA</Type>
 			<Description>TXT_KEY_CIV_AMERICA_DESC</Description>
@@ -3656,6 +3582,10 @@
 					<LeaderName>LEADER_PRETZLE_REX</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
+				<Leader>
+					<LeaderName>LEADER_PRETZLE_MAGNUS</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
 			</Leaders>
 			<DerivativeCiv>CIVILIZATION_VIKING</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_VIKING_SELECT</CivilizationSelectionSound>
@@ -4166,6 +4096,80 @@
 			<DerivativeCiv>NONE</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_ZULU_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_ZULU_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_ZAROS</Type>
+			<Description>Zarosian Empire</Description>
+			<ShortDescription>Zaros</ShortDescription>
+			<Adjective>Zarosian</Adjective>
+			<Civilopedia>PLACEHOLDER</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_PURPLE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_AMERICA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>0</bAIPlayable>
+			<Cities>
+				<City>Senntisten</City>
+				<City>Ghorrock</City>
+				<City>Annakarl</City>
+				<City>Carrallangar</City>
+				<City>Dareeyak</City>
+				<City>Lassar</City>
+				<City>Kharyrll</City>
+				<City>Paddewwa</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+					<BuildingType>BUILDING_ZAROSIAN_DENOFSPIES</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_SPY</UnitClassType>
+					<UnitType>UNIT_ZAROS_DECEIVER</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_MYSTICISM</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_AGRICULTURE</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_TRIBALISM</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_OCCULTUS</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>NONE</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_ROME_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_ROME_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_MINOR</Type>

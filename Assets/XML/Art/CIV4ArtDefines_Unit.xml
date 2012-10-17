@@ -6,7 +6,7 @@
 <!-- Unit art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<UnitArtInfos>
-	<UnitArtInfo>
+		<UnitArtInfo>
             <Type>ART_DEF_UNIT_DECEIVER</Type>
             <Button>Art/Interface/Buttons/Units/Deceiver.dds</Button>
             <fScale>0.48</fScale>
@@ -29,7 +29,7 @@
                 <AudioRunTypeEnd/>
             </AudioRunSounds>
         </UnitArtInfo>
-	        <UnitArtInfo>
+		<UnitArtInfo>
             <Type>ART_DEF_UNIT_KINGSGUARD</Type>
             <Button>Art/Interface/Buttons/Units/Champion.dds</Button>
             <fScale>0.42</fScale>
@@ -1069,7 +1069,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SALTIA_BOMBARDIER</Type>
-			<Button>,Art/Interface/Buttons/Units/Grenadier.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,6</Button>
+			<Button>,Art/Interface/Buttons/Units/Bombardier.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,6</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>

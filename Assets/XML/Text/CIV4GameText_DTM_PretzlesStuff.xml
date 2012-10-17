@@ -134,6 +134,30 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_LEADER_PRETZLE_MAGNUS</Tag>
+		<English>Pretzle Magnus</English>
+		<French>
+			<Text>Pretzle Magnus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Pretzle Magnus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Pretzle Magnus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pretzle Magnus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_LEADER_ADMIRAL_PRETZLE_PEDIA</Tag>
 		<English>[TAB]Filler.</English>
 		<French>[TAB]Mastic.</French>
@@ -143,6 +167,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_PRETZLE_REX_PEDIA</Tag>
+		<English>[TAB]Filler.</English>
+		<French>[TAB]Mastic.</French>
+		<German>[TAB]Füllstoff.</German>
+		<Italian>[TAB]Filler.</Italian>
+		<Spanish>[TAB]Relleno.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PRETZLE_MAGNUS_PEDIA</Tag>
 		<English>[TAB]Filler.</English>
 		<French>[TAB]Mastic.</French>
 		<German>[TAB]Füllstoff.</German>

@@ -455,6 +455,14 @@
 			<BackgroundKFM>art/LeaderHeads/Brennus/brennus_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_PRETZLE_MAGNUS</Type>
+			<Button>,Art/interface/LeaderHeads/NaClMendeleevPhotoButton.dds</Button>
+			<NIF>art/LeaderHeads/Brennus/brennus.nif</NIF>
+			<KFM>art/LeaderHeads/Brennus/brennus.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/Brennus/brennus_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/Brennus/brennus_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_PEAR</Type>
 			<Button>,Art/interface/LeaderHeads/Pear.dds</Button>
 			<NIF>art/interface/LeaderHeads/APLeader.dds</NIF>

@@ -330,7 +330,7 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<NIF>Art/Terrain/Resources/Wheat/Wheat.nif</NIF>
 			<KFM/>
-			<Button>,Art/Interface/Buttons/WorldBuilder/Music.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,16</Button>
+			<Button>,Art/Interface/Buttons/WorldBuilder/vgame.dds</Button>
 			<FontButtonIndex>43</FontButtonIndex>			
 		</BonusArtInfo>
 		<BonusArtInfo>
