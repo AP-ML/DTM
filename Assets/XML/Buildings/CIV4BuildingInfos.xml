@@ -11,8 +11,8 @@
 			<Type>BUILDING_POLICE_STATION</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>Police Station</Description>
-			<Civilopedia>Placeholder</Civilopedia>
-			<Strategy>Placeholder</Strategy>
+			<Civilopedia>[TAB]A police station is a building which serves as the headquarters of a police force or unit which serves a specific district. These buildings typically contain offices, various accommodations for their personnel and their vehicles such as locker rooms, temporary holding cells, and interview and interrogation rooms.</Civilopedia>
+			<Strategy>A Police Station increases a city's espionage and helps thwart rival spies. It also reduces War Weariness in the city.</Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_JAIL</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
@@ -29,7 +29,7 @@
 			<FreeStartEra>ERA_FUTURE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteTech>NONE</ObsoleteTech>
-			<PrereqTech>TECH_CONSTITUTION</PrereqTech>
+			<PrereqTech>TECH_FASCISM</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
