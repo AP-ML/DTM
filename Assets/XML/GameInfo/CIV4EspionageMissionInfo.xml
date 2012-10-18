@@ -644,7 +644,7 @@
 			<bIsTwoPhases>1</bIsTwoPhases>
 			<bTargetsCity>1</bTargetsCity>
 			<bSelectPlot>0</bSelectPlot>
-			<TechPrereq>TECH_MODERN_ESPIONAGE</TechPrereq>
+			<TechPrereq>TECH_CONTRACT_KILLING</TechPrereq>
 			<iVisibilityLevel>0</iVisibilityLevel>
 			<bInvestigateCity>0</bInvestigateCity>
 			<bSeeDemographics>0</bSeeDemographics>

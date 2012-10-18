@@ -7,6 +7,18 @@
 <Civ4BuildingClassInfos xmlns="x-schema:CIV4BuildingsSchema.xml">
 	<BuildingClassInfos>
 	<BuildingClassInfo>
+			<Type>BUILDINGCLASS_MERCENARY_HQ</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_MERCENARY_HQ</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+	<BuildingClassInfo>
 			<Type>BUILDINGCLASS_POLICE_STATION</Type>
 			<Description>TXT_KEY_BUILDING_POLICE_STATION</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>

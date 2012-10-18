@@ -6,6 +6,15 @@
 <!-- UnitClass Schema -->
 <Civ4UnitClassInfos xmlns="x-schema:CIV4UnitSchema.xml">
 	<UnitClassInfos>
+	<UnitClassInfo>
+			<Type>UNITCLASS_MERCENARY</Type>
+			<Description>Mercenary</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_MERCENARY</DefaultUnit>
+		</UnitClassInfo>
 	    <UnitClassInfo>
 			<Type>UNITCLASS_ANDROMEDA</Type>
 			<Description>TXT_KEY_UNIT_ANDROMEDA</Description>
