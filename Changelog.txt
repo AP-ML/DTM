@@ -1,6 +1,13 @@
 CHANGELOG:
 
-Build #013: [Stinger]
+Build #014:
+- [ANQ] Adjusted Valyrian civ
+  - UU: King's Guard (Praetorian carbon-copy)
+- [Stinger] Added Police Station building (requires Fascism tech)
+- [Pz] Added Video Games resource, Bombardier buttons (Bombardier button doesn't seem to work?)
+- [Stinger] Added Contract Killing tech (requires Code of Laws, IW), Mercenary unit, Mercenary HQ building
+
+Build #013 [Stinger]:
 -Tidy up of the game text concerning the 4 buildings that can be created by spies.
 -Bribed Leaders, External Influence and Misinformation are classed as temporary buildings (10 turns).
 -Fifth Column is classed as permanent building (always has been this way in the code, I haven't edited this).
