@@ -1092,7 +1092,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_SALTIA_BOMBARDIER</Type>
-			<Button>,Art/Interface/Buttons/Units/Bombardier.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,6</Button>
+			<Button>,Art/Interface/Buttons/Units/Bombardier.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
