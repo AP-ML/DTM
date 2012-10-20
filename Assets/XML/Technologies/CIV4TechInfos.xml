@@ -19,7 +19,7 @@
 			<iCost>400</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
-			<Era>ERA_CLASSICAL</Era>
+			<Era>ERA_MEDIEVAL</Era>
 			<FirstFreeUnitClass></FirstFreeUnitClass>
 			<iFeatureProductionModifier>0</iFeatureProductionModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
@@ -72,7 +72,7 @@
 			<Quote>One kills a man, one is an assassin; one kills millions, one is a conqueror; one kills everybody, one is a god. - Jean Roustand</Quote>
 			<Sound></Sound>
 			<SoundMP></SoundMP>
-			<Button>,Art/Interface/buttons/TechTree/contract_killing.dds</Button>
+			<Button>,Art/Interface/buttons/TechTree/contract_killingv2.dds</Button>
 		</TechInfo>
 	    <TechInfo>
 			<Type>TECH_MODERN_ESPIONAGE</Type>
