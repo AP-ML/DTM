@@ -70,8 +70,8 @@
 				<PrereqTech>TECH_IRON_WORKING</PrereqTech>
 			</AndPreReqs>
 			<Quote>One kills a man, one is an assassin; one kills millions, one is a conqueror; one kills everybody, one is a god. - Jean Roustand</Quote>
-			<Sound></Sound>
-			<SoundMP></SoundMP>
+			<Sound>AS2D_TECH_CONTRACT_KILLING</Sound>
+			<SoundMP>AS2D_TECH_MP_CONTRACT_KILLING</SoundMP>
 			<Button>,Art/Interface/buttons/TechTree/contract_killingv2.dds</Button>
 		</TechInfo>
 	    <TechInfo>

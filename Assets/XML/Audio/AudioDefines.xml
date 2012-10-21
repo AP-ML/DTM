@@ -6,14 +6,28 @@
 <!-- AudioDefines -->
 <AudioDefines xmlns="x-schema:AudioDefinesSchema.xml">
 	<SoundDatas>
-			<SoundData>
+		<SoundData>
+			<SoundID>SND_TECH_MP_CONTRACT_KILLING</SoundID>
+			<Filename>Sounds/Tech/TECH_MP_CONTRACT_KILLING</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>SND_TECH_CONTRACT_KILLING</SoundID>
+			<Filename>Sounds/Tech/Tech_CONTRACT_KILLING</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
 			<SoundID>SND_BUILD_POLICE_STATION</SoundID>
 			<Filename>Sounds/Buildings/PoliceStation</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
-			<SoundData>
+		<SoundData>
 			<SoundID>DIPLO_ANQUIETAS_EARLY</SoundID>
 			<Filename>Sounds/Diplomacy/Anquietas_Early</Filename>
 			<LoadType>STREAMED</LoadType>
@@ -6287,7 +6301,7 @@
 		</SoundData>
 		<SoundData>
 			<SoundID>SND_ICBM_SELECT</SoundID>
-			<Filename>Sounds/Units/ICBMSelect</Filename>
+			<Filename>Sounds/Units/ICBM</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>

@@ -1828,19 +1828,19 @@
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_RENAISSANCE</EraType>
-					<DiploScriptId>DIPLO_ANQUIETAS_MIDDLE</DiploScriptId>
+					<DiploScriptId>AS2D_DIPLO_ANQUIETAS_MIDDLE</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_INDUSTRIAL</EraType>
-					<DiploScriptId>DIPLO_ANQUIETAS_MIDDLE</DiploScriptId>
+					<DiploScriptId>AS2D_DIPLO_ANQUIETAS_MIDDLE</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_MODERN</EraType>
-					<DiploScriptId>DIPLO_ANQUIETAS_LATE</DiploScriptId>
+					<DiploScriptId>AS2D_DIPLO_ANQUIETAS_LATE</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_FUTURE</EraType>
-					<DiploScriptId>DIPLO_ANQUIETAS_LATE</DiploScriptId>
+					<DiploScriptId>AS2D_DIPLO_ANQUIETAS_LATE</DiploScriptId>
 				</DiploMusicPeaceEra>
 			</DiplomacyMusicPeace>
 			<DiplomacyIntroMusicWar>
