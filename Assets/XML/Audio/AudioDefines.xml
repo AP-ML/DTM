@@ -7,6 +7,20 @@
 <AudioDefines xmlns="x-schema:AudioDefinesSchema.xml">
 	<SoundDatas>
 		<SoundData>
+			<SoundID>DIPLO_OCCULTUS_LATE</SoundID>
+			<Filename>Sounds/Diplomacy/Occultus_Late</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>DIPLO_OCCULTUS_EARLY</SoundID>
+			<Filename>Sounds/Diplomacy/Occultus_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
 			<SoundID>SND_TECH_MP_CONTRACT_KILLING</SoundID>
 			<Filename>Sounds/Tech/TECH_MP_CONTRACT_KILLING</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
