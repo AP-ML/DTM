@@ -10,9 +10,9 @@
 			<BuildingClass>BUILDINGCLASS_HARBOR</BuildingClass>
 			<Type>BUILDING_PIRATE_PORT</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
-			<Description>Pirate Port</Description>
-			<Civilopedia>TXT_KEY_BUILDING_HARBOR_PEDIA</Civilopedia>
-			<Strategy>In addition to the bonuses provided by a Harbor, the Pirate Port provides 1 Rum and allows Water Units to be created +25% faster.</Strategy>
+			<Description>Pirate Bay</Description>
+			<Civilopedia></Civilopedia>
+			<Strategy>In addition to the bonuses provided by a Harbor, a Pirate Bay provides 1 Rum and allows Water Units to be created +25% faster.</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_VIKING_TRADING_POST</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
@@ -76,7 +76,7 @@
 			<bPrereqReligion>0</bPrereqReligion>
 			<bCenterInCity>0</bCenterInCity>
 			<iAIWeight>0</iAIWeight>
-			<iCost>-1</iCost>
+			<iCost>80</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -152,7 +152,7 @@
 			<FreeSpecialistCounts/>
 			<CommerceFlexibles/>
 			<CommerceChangeOriginalOwners/>
-			<ConstructSound>AS2D_BUILD_DRYDOCK</ConstructSound>
+			<ConstructSound>AS2D_BUILD_PIRATE_PORT</ConstructSound>
 			<BonusHealthChanges>
 				<BonusHealthChange>
 					<BonusType>BONUS_CLAM</BonusType>

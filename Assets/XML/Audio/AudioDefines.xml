@@ -6,6 +6,13 @@
 <!-- AudioDefines -->
 <AudioDefines xmlns="x-schema:AudioDefinesSchema.xml">
 	<SoundDatas>
+	<SoundData>
+			<SoundID>SND_BUILD_PIRATE_PORT</SoundID>
+			<Filename>Sounds/Buildings/PirateBay</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
 		<SoundData>
 			<SoundID>DIPLO_OCCULTUS_LATE</SoundID>
 			<Filename>Sounds/Diplomacy/Occultus_Late</Filename>
