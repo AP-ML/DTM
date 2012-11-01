@@ -1,5 +1,9 @@
 CHANGELOG:
 
+Build #017 [Stinger]:
+- Warrens Civ Updated
+- Frankies Civ Added
+
 Build #016 [Peary]:
 - Did some arty shit
 
