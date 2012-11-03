@@ -6,6 +6,12 @@
 <!-- Civilization art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<CivilizationArtInfos>
+	<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_ZAROS</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/ZarosianEmpire.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Star.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
 	    <CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_PEARIA</Type>
 			<Button>,Art/Interface/Buttons/PearButton.dds</Button>
