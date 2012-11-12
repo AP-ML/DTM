@@ -814,17 +814,17 @@
 			<bSound>0</bSound>
 		</MissionInfo>
 		<MissionInfo>
-		      	<Type>MISSION_ESPIONAGE_SLEEP</Type>
-		      	<Description>TXT_KEY_MISSION_ESPIONAGE_SLEEP</Description>
-		      	<Help></Help>
-		      	<Waypoint>NONE</Waypoint>
-		      	<EntityEventType>ENTITY_EVENT_SLEEP</EntityEventType>
-		      	<iTime>0</iTime>
-		      	<bTarget>0</bTarget>
-		      	<bBuild>0</bBuild>
-		      	<bSound>1</bSound>
-			<bVisible>1</bVisible>
-		      	<Button>Art/Interface/Buttons/Actions/spy_sleep_icon.dds</Button>
-	    	</MissionInfo>
+		    <Type>MISSION_ESPIONAGE_SLEEP</Type>
+		    <Description>TXT_KEY_MISSION_ESPIONAGE_SLEEP</Description>
+		    <Help></Help>
+		    <Waypoint>NONE</Waypoint>
+		    <EntityEventType>ENTITY_EVENT_SLEEP</EntityEventType>
+		    <iTime>0</iTime>
+		    <bTarget>0</bTarget>
+		    <bBuild>0</bBuild>
+		    <bSound>1</bSound>
+			<bVisible>0</bVisible>
+		    <Button>Art/Interface/Buttons/Actions/spy_sleep_icon.dds</Button>
+	    </MissionInfo>
 	</MissionInfos>
 </Civ4MissionInfos>

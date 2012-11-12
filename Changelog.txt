@@ -1,5 +1,16 @@
 CHANGELOG:
 
+Build 019 [ANQ]:
+- Frankies Ship model added.
+- Minor spelling corrections.
+- Notepad++ installer removed from package.
+- Transport Helicopter unit added.
+- More Valyrian Cities.
+- Gather Intel Button Disabled.
+
+Build #018 [Pz]:
+- OCD and other Tweaks
+
 Build #017 [Stinger]:
 - Warrens Civ Updated
 - Frankies Civ Added
