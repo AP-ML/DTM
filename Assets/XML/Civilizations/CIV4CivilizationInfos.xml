@@ -3148,7 +3148,7 @@
 			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
-			<bAIPlayable>1</bAIPlayable>
+			<bAIPlayable>0</bAIPlayable>
 			<Cities>
 				<City>Mos Le'Harmless</City>
 				<City>Brimhaven</City>
