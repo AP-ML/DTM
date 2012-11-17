@@ -10779,7 +10779,7 @@
 		<LeaderHeadInfo>
 			<Type>LEADER_GENERAL_PEAR</Type>
 			<Description>General Pear</Description>
-			<Civilopedia>TXT_KEY_LEADER_GENERAL_PEAR_PEDIA</Civilopedia>
+			<Civilopedia>General Pear is the leader to end all leaders, and is best known for walking around the streets of Pearia saying "I'M GENERAL PEAR, BITCHES, KNEEL BEFORE ME!". He was a totally magnificent bastard.</Civilopedia>
 			<ArtDefineTag>ART_DEF_LEADER_PEAR</ArtDefineTag>
 			<iWonderConstructRand>20</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
@@ -10860,7 +10860,7 @@
 			<iVassalPowerModifier>0</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
 			<FavoriteCivic>CIVIC_HEREDITARY_RULE</FavoriteCivic>
-			<FavoriteReligion>RELIGION_CHRISTIANITY</FavoriteReligion>
+			<FavoriteReligion>RELIGION_BUDDHISM</FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_SPIRITUAL</TraitType>
