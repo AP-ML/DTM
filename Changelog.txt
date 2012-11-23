@@ -1,5 +1,8 @@
 CHANGELOG:
 
+Build 020 [ANQ]:
+- Rebased to the BUG Mod Core.
+
 Build 019 [ANQ]:
 - Frankies Ship model added.
 - Minor spelling corrections.

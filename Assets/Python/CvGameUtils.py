@@ -6,9 +6,6 @@
 import CvUtil
 from CvPythonExtensions import *
 import CvEventInterface
-import GodsOfOld
-import Popup as PyPopup
-import PyHelpers
 
 # globals
 gc = CyGlobalContext()
@@ -201,6 +198,43 @@ class CvGameUtils:
 		eProject = argsList[1]
 		bContinue = argsList[2]
 		bTestVisible = argsList[3]
+
+## Spanish Inquisition Start ##
+
+		pPlayer = gc.getPlayer(pCity.getOwner())
+
+		iReligionCivicOption = CvUtil.findInfoTypeNum(gc.getCivicOptionInfo,gc.getNumCivicOptionInfos(),'CIVICOPTION_RELIGION')
+		iTheocracy = CvUtil.findInfoTypeNum(gc.getCivicInfo,gc.getNumCivicInfos(),'CIVIC_THEOCRACY')
+		iReligionCivic = pPlayer.getCivics(iReligionCivicOption)
+
+		religion = "NONE"
+
+		iTrait = CvUtil.findInfoTypeNum(gc.getTraitInfo,gc.getNumTraitInfos(),'TRAIT_CREATIVE')
+
+		if ( eProject == gc.getInfoTypeForString("PROJECT_SPANISH_INQUISITION") ):
+			
+			if (iReligionCivic != iTheocracy):
+				return True
+
+			if gc.getPlayer(pCity.getOwner()).getStateReligion() == gc.getInfoTypeForString(religion):
+				return True
+
+			if not gc.getPlayer(pCity.getOwner()).isHuman( ):
+
+				if (pPlayer.hasTrait(iTrait)):
+					return True
+
+				if gc.getPlayer(pCity.getOwner()).getStateReligion() != gc.getInfoTypeForString(religion):
+
+					iStateReligion = pPlayer.getStateReligion( )
+					iReligionLevel = gc.getGame().calculateReligionPercent(iStateReligion)
+
+					if iReligionLevel <= 30:
+			
+						return True
+
+## Spanish Inquisition End ##
+
 		return False
 
 	def canMaintain(self,argsList):
@@ -222,6 +256,28 @@ class CvGameUtils:
 
 	def AI_chooseProduction(self,argsList):
 		pCity = argsList[0]
+
+## Spanish Inquisition Start ##
+
+		iOwner = pCity.getOwner( )
+		pPlayer = gc.getPlayer( pCity.getOwner( ) )
+		iReligionCivicOption = CvUtil.findInfoTypeNum(gc.getCivicOptionInfo,gc.getNumCivicOptionInfos(),'CIVICOPTION_RELIGION')
+		iTheocracy = CvUtil.findInfoTypeNum(gc.getCivicInfo,gc.getNumCivicInfos(),'CIVIC_THEOCRACY')
+		iReligionCivic = pPlayer.getCivics(iReligionCivicOption)
+		iSpanish = gc.getInfoTypeForString("PROJECT_SPANISH_INQUISITION")
+		religion = "NONE"
+
+		if gc.getPlayer(pCity.getOwner()).getStateReligion() != gc.getInfoTypeForString(religion):
+			if (iReligionCivic == iTheocracy):
+				iStateReligion = pPlayer.getStateReligion( )
+				iReligionLevel = gc.getGame().calculateReligionPercent(iStateReligion)
+				if iReligionLevel >= 60:
+					if pCity.canCreate( iSpanish, 0, 0 ):
+						gc.getMap( ).plot( pCity.getX( ), pCity.getY( ) ).getPlotCity( ).pushOrder( OrderTypes.ORDER_CREATE, iSpanish, -1, False, False, False, True )
+						return True
+
+## Spanish Inquisition End ##
+
 		return False
 
 	def AI_unitUpdate(self,argsList):
@@ -368,21 +424,6 @@ class CvGameUtils:
 		
 	def canPickPlot(self, argsList):
 		pPlot = argsList[0]
-		pGodsOfOld=CvEventInterface.getEventManager()
-		if GodsOfOld.iPushButton == 2:
-			if pPlot.isCoastalLand():
-				return true
-			else:
-				return false
-		if GodsOfOld.iPushButton == 3:
-			if pPlot.isCity():
-				iCoords = ( pPlot.getX(), pPlot.getY() )
-				if pGodsOfOld.lPlagueCities.count( iCoords ) == 0:
-					return true
-				else:
-					return false
-			else:
-				return false				
 		return true
 		
 	def getUnitCostMod(self, argsList):
@@ -409,18 +450,7 @@ class CvGameUtils:
 		
 	def getWidgetHelp(self, argsList):
 		eWidgetType, iData1, iData2, bOption = argsList
-		if iData1 == 666:
-			return CyTranslator().getText("TXT_KEY_GODS_EARTHQUAKE_MOUSE_OVER_CHANGED", ())
-		if iData1 == 667:
-			return CyTranslator().getText("TXT_KEY_GODS_TSUNAMI_MOUSE_OVER_CHANGED", ())
-		if iData1 == 668:
-			return CyTranslator().getText("TXT_KEY_GODS_PLAGUE_MOUSE_OVER_CHANGED", ())
-		if iData1 == 669:
-			return CyTranslator().getText("TXT_KEY_GODS_METEOR_MOUSE_OVER_CHANGED_REDUX", ())
-		if iData1 == 670:
-			return CyTranslator().getText("TXT_KEY_GODS_BLIGHT_MOUSE_OVER_CHANGED", ())
-		if iData1 == 665:
-			return CyTranslator().getText("TXT_KEY_GODS_INQUISTOR_CLEANSE_MOUSE_OVER", ())		
+		
 		return u""
 		
 	def getUpgradePriceOverride(self, argsList):
