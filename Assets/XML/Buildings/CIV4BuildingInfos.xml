@@ -14257,7 +14257,7 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 		</BuildingInfo>
-		<BuildingInfo>
+		<!--<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_MERCENARY_HQ</BuildingClass>
 			<Type>BUILDING_MERCENARY_HQ</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
@@ -14437,7 +14437,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-		</BuildingInfo>
+		</BuildingInfo>-->
 		<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_POLICE_STATION</BuildingClass>
 			<Type>BUILDING_POLICE_STATION</Type>
@@ -31236,7 +31236,7 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 		</BuildingInfo>
-		<BuildingInfo>
+		<!--<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_DEN_SPIES</BuildingClass>
 			<Type>BUILDING_DEN_SPIES</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
@@ -31409,6 +31409,6 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-		</BuildingInfo>
+		</BuildingInfo>-->
 	</BuildingInfos>
 </Civ4BuildingInfos>

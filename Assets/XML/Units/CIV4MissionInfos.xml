@@ -813,7 +813,7 @@
 			<bBuild>0</bBuild>
 			<bSound>0</bSound>
 		</MissionInfo>
-		<MissionInfo>
+		<!--<MissionInfo>
 		    <Type>MISSION_ESPIONAGE_SLEEP</Type>
 		    <Description>TXT_KEY_MISSION_ESPIONAGE_SLEEP</Description>
 		    <Help></Help>
@@ -825,6 +825,6 @@
 		    <bSound>1</bSound>
 			<bVisible>0</bVisible>
 		    <Button>Art/Interface/Buttons/Actions/spy_sleep_icon.dds</Button>
-	    </MissionInfo>
+	    </MissionInfo> -->
 	</MissionInfos>
 </Civ4MissionInfos>

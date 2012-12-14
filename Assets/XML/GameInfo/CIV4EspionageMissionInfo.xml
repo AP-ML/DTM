@@ -636,7 +636,7 @@
 			<iCounterespionageNumTurns>10</iCounterespionageNumTurns>
 			<iCounterespionageMod>200</iCounterespionageMod>
 		</EspionageMissionInfo>
-		<EspionageMissionInfo>
+		<!--<EspionageMissionInfo>
 			<Type>ESPIONAGEMISSION_ASSASSINATE</Type>
 			<Description>TXT_KEY_MISSION_ASSASSIN</Description>
 			<iCost>500</iCost>
@@ -1163,6 +1163,6 @@
 			<iCounterespionageMod>0</iCounterespionageMod>
 			<iAttitudeModifier>0</iAttitudeModifier>
 			<iRemoveCorporationsCostFactor>250</iRemoveCorporationsCostFactor>
-		</EspionageMissionInfo>
+		</EspionageMissionInfo>-->
 	</EspionageMissionInfos>
 </Civ4EspionageMissionInfo>

@@ -434,7 +434,7 @@
 			<CreateSound/>
 			<MovieDefineTag/>
 		</ProjectInfo>
-		<ProjectInfo>
+		<!--<ProjectInfo>
 			<Type>PROJECT_SPANISH_INQUISITION</Type>
 			<Description>TXT_KEY_SPANISH_INQUISITION_PROJECT</Description>
 			<Civilopedia>TXT_KEY_SPANISH_INQUISITION_PROJECT_PEDIA</Civilopedia>
@@ -460,6 +460,6 @@
 			<BonusProductionModifiers/>
 			<CreateSound>AS2D_PLAGUE</CreateSound>
 			<MovieDefineTag>ART_DEF_MOVIE_SPANISH_INQUISITION</MovieDefineTag>
-		</ProjectInfo>
+		</ProjectInfo>-->
 	</ProjectInfos>
 </Civ4ProjectInfo>
