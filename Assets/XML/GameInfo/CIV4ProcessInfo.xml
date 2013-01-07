@@ -6,7 +6,7 @@
 <!-- Process -->
 <Civ4ProcessInfo xmlns="x-schema:CIV4GameInfoSchema.xml">
 	<ProcessInfos>
-		<ProcessInfo>
+	<ProcessInfo>
 			<Type>PROCESS_WEALTH</Type>
 			<Description>TXT_KEY_PROCESS_WEALTH</Description>
 			<Strategy>TXT_KEY_PROCESS_WEALTH_STRATEGY</Strategy>

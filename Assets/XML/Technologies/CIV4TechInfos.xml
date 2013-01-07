@@ -73,7 +73,7 @@
 			<Sound>AS2D_TECH_CONTRACT_KILLING</Sound>
 			<SoundMP>AS2D_TECH_MP_CONTRACT_KILLING</SoundMP>
 			<Button>,Art/Interface/buttons/TechTree/contract_killingv2.dds</Button>
-		</TechInfo>-->
+		</TechInfo> -->
 	    <!-- <TechInfo>
 			<Type>TECH_MODERN_ESPIONAGE</Type>
 			<Description>Modern Espionage</Description>

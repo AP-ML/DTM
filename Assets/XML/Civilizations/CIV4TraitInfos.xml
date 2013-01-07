@@ -7,6 +7,42 @@
 <Civ4TraitInfos xmlns="x-schema:CIV4CivilizationsSchema.xml">
 	<TraitInfos>
 		<TraitInfo>
+			<Type>TRAIT_EQUESTRIAN</Type>
+			<Description>Equestrian</Description>
+			<ShortDescription>Equ</ShortDescription>
+			<iHealth>0</iHealth>
+			<iHappiness>0</iHappiness>
+			<iMaxAnarchy>-1</iMaxAnarchy>
+			<iUpkeepModifier>0</iUpkeepModifier>
+			<iLevelExperienceModifier>0</iLevelExperienceModifier>
+			<iGreatPeopleRateModifier>0</iGreatPeopleRateModifier>
+			<iGreatGeneralRateModifier>0</iGreatGeneralRateModifier>
+			<iDomesticGreatGeneralRateModifier>0</iDomesticGreatGeneralRateModifier>
+			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
+			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
+			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
+			<ExtraYieldThresholds>
+				<iExtraYieldThreshold>0</iExtraYieldThreshold>
+				<iExtraYieldThreshold>0</iExtraYieldThreshold>
+				<iExtraYieldThreshold>0</iExtraYieldThreshold>
+			</ExtraYieldThresholds>
+			<TradeYieldModifiers/>
+			<CommerceChanges/>
+			<CommerceModifiers/>
+			<FreePromotions>
+				<FreePromotion>
+					<PromotionType>PROMOTION_MOBILITY</PromotionType>
+					<bFreePromotion>1</bFreePromotion>
+				</FreePromotion>
+			</FreePromotions>
+			<FreePromotionUnitCombats>
+				<FreePromotionUnitCombat>
+					<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+					<bFreePromotionUnitCombat>1</bFreePromotionUnitCombat>
+				</FreePromotionUnitCombat>
+			</FreePromotionUnitCombats>
+		</TraitInfo>
+		<TraitInfo>
 			<Type>TRAIT_PHILOSOPHICAL</Type>
 			<Description>TXT_KEY_TRAIT_PHILOSOPHICAL</Description>
 			<ShortDescription>TXT_KEY_TRAIT_PHILOSOPHICAL_SHORT</ShortDescription>
