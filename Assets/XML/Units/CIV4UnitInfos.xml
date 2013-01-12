@@ -1034,6 +1034,18 @@
 					<BuildType>BUILD_FOREST_PRESERVE</BuildType>
 					<bBuild>1</bBuild>
 				</Build>
+				<Build>
+					<BuildType>BUILD_FOREST</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
+					<BuildType>BUILD_HILL</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
+					<BuildType>BUILD_TERRAFORM</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
 			</Builds>
 			<ReligionSpreads/>
 			<CorporationSpreads/>
@@ -1286,6 +1298,18 @@
 				</Build>
 				<Build>
 					<BuildType>BUILD_FOREST_PRESERVE</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
+					<BuildType>BUILD_FOREST</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
+					<BuildType>BUILD_HILL</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
+					<BuildType>BUILD_TERRAFORM</BuildType>
 					<bBuild>1</bBuild>
 				</Build>
 			</Builds>

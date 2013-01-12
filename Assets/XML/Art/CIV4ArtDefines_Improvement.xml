@@ -249,5 +249,24 @@
 			<KFM/>
 			<Button>Art/Bridge Button.dds</Button>
 		</ImprovementArtInfo>
+		<!-- NEW Terraforming Code -->		
+		<ImprovementArtInfo>
+			<Type>ART_DEF_IMPROVEMENT_TREE_NURSERY</Type>
+			<bExtraAnimations>0</bExtraAnimations>
+			<fScale>0.65</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Structures/Improvements/Tree Nursery/spices.nif</NIF>
+			<KFM>Art/Structures/Improvements/Tree Nursery/spices.kfm</KFM>
+			<Button>Art/Interface/Buttons/btn_build_forest.dds</Button>
+		</ImprovementArtInfo>		
+		<ImprovementArtInfo>
+			<Type>ART_DEF_IMPROVEMENT_BIODOME</Type>
+			<bExtraAnimations>0</bExtraAnimations>
+			<fScale>9.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Structures/Improvements/Biodome/biodome.nif</NIF>
+			<KFM></KFM>
+			<Button>Art/Interface/Buttons/btn_terraform.dds</Button>
+		</ImprovementArtInfo>
 	</ImprovementArtInfos>
 </Civ4ArtDefines>

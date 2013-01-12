@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Michael Soracoe (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- GameText Civilopedia Units -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- UNIT INFOS -->
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_TERRAFORM_PEDIA</Tag>
+		<English>[TAB]The term 'Terraforming' is sometimes used more generally as a synonym for planetary engineering. The concept of terraforming developed from both science fiction and actual science. </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HILL_PEDIA</Tag>
+		<English>[TAB]Leveling the terrain, or creating a hill is now possible with modern wehicles.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_TREE_NURSERY_PEDIA</Tag>
+		<English>[TAB]Be it to increase the amount of land available for agriculture or to gain large amounts of timber - for example to build and maintain navies - humans have a long history of causing deforestation. However, this demise of woods often carried unwanted side effects, from increasing difficulties in supplying the industry with enough wood to soil erosion or even desertification. And while forests will often regenerate on their own, in some areas this is impossible without assistance. Thus the first reforestation programs were created. [PARAGRAPH:2]Tree Nurseries represent a controlled effort to plant and nurse seedlings with the goal to re-establish tree cover in an area.</English>
+		<French>[TAB]</French>
+		<German>[TAB]</German>
+		<Italian>[TAB]</Italian>
+		<Spanish>[TAB]</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jesse Smith (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Infos -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_TERRAFORMED_TERRAIN</Tag>
+		<English>Terraform Completed</English>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_TERRAFORM</Tag>
+		<English>Terraform</English>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_HILL</Tag>
+		<English>Elevate/Level Terrain</English>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_TREE_NURSERY</Tag>
+		<English>Plant a Forest</English>
+		<French>construire une plantation</French>
+		<German>Baumschule bauen</German>
+		<Italian>Costruisci una piantagione</Italian>
+		<Spanish>Construir una plantaci&#243;n</Spanish>
+	</TEXT>
+</Civ4GameText>
