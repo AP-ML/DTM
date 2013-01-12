@@ -12754,7 +12754,12 @@
 			<TechTypes/>
 			<BonusType>BONUS_HORSE</BonusType>
 			<PrereqBonuses/>
-			<ProductionTraits/>
+			<ProductionTraits>
+				<ProductionTrait>
+					<ProductionTraitType>TRAIT_EQUESTRIAN</ProductionTraitType>
+					<iProductionTrait>25</iProductionTrait>
+				</ProductionTrait>
+			</ProductionTraits>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
 			<iCost>30</iCost>
@@ -12939,7 +12944,12 @@
 			<TechTypes/>
 			<BonusType>BONUS_HORSE</BonusType>
 			<PrereqBonuses/>
-			<ProductionTraits/>
+			<ProductionTraits>
+				<ProductionTrait>
+					<ProductionTraitType>TRAIT_EQUESTRIAN</ProductionTraitType>
+					<iProductionTrait>25</iProductionTrait>
+				</ProductionTrait>
+			</ProductionTraits>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
 			<iCost>30</iCost>
@@ -13129,7 +13139,12 @@
 			<TechTypes/>
 			<BonusType>BONUS_HORSE</BonusType>
 			<PrereqBonuses/>
-			<ProductionTraits/>
+			<ProductionTraits>
+				<ProductionTrait>
+					<ProductionTraitType>TRAIT_EQUESTRIAN</ProductionTraitType>
+					<iProductionTrait>25</iProductionTrait>
+				</ProductionTrait>
+			</ProductionTraits>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
 			<iCost>30</iCost>
@@ -13328,7 +13343,12 @@
 			</TechTypes>
 			<BonusType>BONUS_HORSE</BonusType>
 			<PrereqBonuses/>
-			<ProductionTraits/>
+			<ProductionTraits>
+				<ProductionTrait>
+					<ProductionTraitType>TRAIT_EQUESTRIAN</ProductionTraitType>
+					<iProductionTrait>25</iProductionTrait>
+				</ProductionTrait>
+			</ProductionTraits>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
 			<iCost>50</iCost>
@@ -13526,7 +13546,12 @@
 			</TechTypes>
 			<BonusType>BONUS_HORSE</BonusType>
 			<PrereqBonuses/>
-			<ProductionTraits/>
+			<ProductionTraits>
+				<ProductionTrait>
+					<ProductionTraitType>TRAIT_EQUESTRIAN</ProductionTraitType>
+					<iProductionTrait>25</iProductionTrait>
+				</ProductionTrait>
+			</ProductionTraits>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
 			<iCost>50</iCost>
@@ -13730,7 +13755,12 @@
 			</TechTypes>
 			<BonusType>BONUS_HORSE</BonusType>
 			<PrereqBonuses/>
-			<ProductionTraits/>
+			<ProductionTraits>
+				<ProductionTrait>
+					<ProductionTraitType>TRAIT_EQUESTRIAN</ProductionTraitType>
+					<iProductionTrait>25</iProductionTrait>
+				</ProductionTrait>
+			</ProductionTraits>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
 			<iCost>50</iCost>

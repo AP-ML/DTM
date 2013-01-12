@@ -30,16 +30,8 @@
 			<CommerceChanges/>
 			<CommerceModifiers/>
 			<FreePromotions>
-				<FreePromotion>
-					<PromotionType>PROMOTION_MOBILITY</PromotionType>
-					<bFreePromotion>1</bFreePromotion>
-				</FreePromotion>
 			</FreePromotions>
 			<FreePromotionUnitCombats>
-				<FreePromotionUnitCombat>
-					<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
-					<bFreePromotionUnitCombat>1</bFreePromotionUnitCombat>
-				</FreePromotionUnitCombat>
 			</FreePromotionUnitCombats>
 		</TraitInfo>
 		<TraitInfo>

@@ -2388,7 +2388,7 @@
 			<Civilopedia></Civilopedia>
 			<Strategy></Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_MONGOL_GER</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_STABLE</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -2425,10 +2425,10 @@
 			</HappinessTraits>
 			<NoBonus>NONE</NoBonus>
 			<PowerBonus>NONE</PowerBonus>
-			<FreeBonus>BONUS_HORSE</FreeBonus>
-			<iNumFreeBonuses>1</iNumFreeBonuses>
+			<FreeBonus>NONE</FreeBonus>
+			<iNumFreeBonuses>0</iNumFreeBonuses>
 			<FreeBuilding>NONE</FreeBuilding>
-			<FreePromotion>NONE</FreePromotion>
+			<FreePromotion>PROMOTION_MOBILITY</FreePromotion>
 			<CivicOption>NONE</CivicOption>
 			<GreatPeopleUnitClass>NONE</GreatPeopleUnitClass>
 			<iGreatPeopleRateChange>0</iGreatPeopleRateChange>
