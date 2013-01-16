@@ -6,6 +6,26 @@
 <!-- Building art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
+	<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_RACECOURSE</Type>
+			<LSystem>LSYSTEM_3x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>2.64</fScale>
+			<fInterfaceScale>0.42</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/RaceCourse/NASCAR race course.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/RaceTrack.dds</Button>
+		</BuildingArtInfo>
+	<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_FORDBUILDING</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>1</bAnimated>
+			<fScale>0.25</fScale>
+			<fInterfaceScale>0.45</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/CorporationHQ/CorporationHQ_Construction.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/Ford.dds</Button>
+		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_ZAROSIAN_DENOFSPIES</Type>
 			<LSystem>LSYSTEM_2x2</LSystem>

@@ -7,6 +7,42 @@
 <Civ4BuildingClassInfos xmlns="x-schema:CIV4BuildingsSchema.xml">
 	<BuildingClassInfos>
 	<BuildingClassInfo>
+			<Type>BUILDINGCLASS_CARPLANT</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_CARPLANT</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+	<BuildingClassInfo>
+			<Type>BUILDINGCLASS_RACETRACK</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_RACETRACK</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+	<BuildingClassInfo>
+			<Type>BUILDINGCLASS_FORDBUILDING</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_FORDBUILDNG</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+	<BuildingClassInfo>
 			<Type>BUILDINGCLASS_MERCENARY_HQ</Type>
 			<Description></Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
