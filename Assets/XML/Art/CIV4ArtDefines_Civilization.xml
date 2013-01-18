@@ -20,9 +20,9 @@
 		</CivilizationArtInfo>
 	    <CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_PEARIA</Type>
-			<Button>,Art/Interface/Buttons/PearButton.dds</Button>
-			<Path>Art/Interface/TeamColor/PearianFlag.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
+			<Button>,Art/Interface/Buttons/PeariaButton.dds</Button>
+			<Path>Art/Interface/TeamColor/iconicallypeary.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_SALTIA</Type>

@@ -6,6 +6,21 @@
 <!-- Hints Infos -->
 <Civ4Hints xmlns="x-schema:CIV4GameInfoSchema.xml">
 	<HintInfos>
+	    <HintInfo>
+			<Description>If you're playing against Pretzle, try befriending him. Quickly.</Description>
+		</HintInfo>
+		<HintInfo>
+			<Description>If you're playing against Anquietas, he will be the one researching all of the religions. Congratulate him when he does with a friendly "Well Done, Martin!".</Description>
+		</HintInfo>
+		<HintInfo>
+			<Description>The top tactic of Anquietas is to go for the Oracle. Try beating him to it. It will be funny.</Description>
+		</HintInfo>
+		<HintInfo>
+			<Description>Points generally do not mean much in the game, but if Pretzle is at the top of the leaderboard he is likely much more powerful than you.</Description>
+		</HintInfo>
+		<HintInfo>
+			<Description>Just because you can see someone's research does not give you a total and clear advantage over them.</Description>
+		</HintInfo>
 		<HintInfo>
 			<Description>TXT_KEY_HINT_INTERFACE_1</Description>
 		</HintInfo>
