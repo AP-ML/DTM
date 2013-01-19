@@ -7,6 +7,13 @@
 <AudioDefines xmlns="x-schema:AudioDefinesSchema.xml">
 	<SoundDatas>
 	<SoundData>
+			<SoundID>SND_BUILD_ASPHALT_ROAD</SoundID>
+			<Filename>Sounds/Buildings/AsphaltRoad</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+	<SoundData>
 			<SoundID>SND_BUILD_CARPLANT</SoundID>
 			<Filename>Sounds/Buildings/AssemblyPlant</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
