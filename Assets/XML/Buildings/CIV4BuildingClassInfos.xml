@@ -51,7 +51,7 @@
 			<iExtraPlayerInstances>0</iExtraPlayerInstances>
 			<bNoLimit>0</bNoLimit>
 			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_FORDBUILDNG</DefaultBuilding>
+			<DefaultBuilding>BUILDING_FORDBUILDING</DefaultBuilding>
 			<VictoryThresholds/>
 		</BuildingClassInfo>
 	<BuildingClassInfo>
