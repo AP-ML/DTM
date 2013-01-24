@@ -32,7 +32,7 @@
 			<bAnimated>1</bAnimated>
 			<fScale>0.25</fScale>
 			<fInterfaceScale>0.45</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/CorporationHQ/CorporationHQ_Construction.nif</NIF>
+			<NIF>Art/Structures/Buildings/FordCorporation/newcorp2.nif</NIF>
 			<KFM/>
 			<Button>Art/Interface/Buttons/Buildings/Ford.dds</Button>
 		</BuildingArtInfo>
