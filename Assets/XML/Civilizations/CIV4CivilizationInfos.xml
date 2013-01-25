@@ -4014,8 +4014,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
-					<BuildingType>BUILDING_ROMAN_FORUM</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<BuildingType>BUILDING_VALYRIAN_PALACE</BuildingType>
 				</Building>
 			</Buildings>
 			<Units>
