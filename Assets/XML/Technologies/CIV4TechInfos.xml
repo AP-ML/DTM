@@ -7,7 +7,7 @@
 <!-- Tech Infos -->
 <Civ4TechInfos xmlns="x-schema:CIV4TechnologiesSchema.xml">
 	<TechInfos>
-	    <!--<TechInfo>
+	    <TechInfo>
 			<Type>TECH_CONTRACT_KILLING</Type>
 			<Description>Contract Killing</Description>
 			<Civilopedia></Civilopedia>
@@ -73,8 +73,8 @@
 			<Sound>AS2D_TECH_CONTRACT_KILLING</Sound>
 			<SoundMP>AS2D_TECH_MP_CONTRACT_KILLING</SoundMP>
 			<Button>,Art/Interface/buttons/TechTree/contract_killingv2.dds</Button>
-		</TechInfo> -->
-	    <!-- <TechInfo>
+		</TechInfo>
+	    <TechInfo>
 			<Type>TECH_MODERN_ESPIONAGE</Type>
 			<Description>Modern Espionage</Description>
 			<Civilopedia>Researching Modern Espionage will enable the following new spy missions:&#10;&#10;[ICON_BULLET]Create a Diplomatic Incident&#10;[ICON_BULLET]Incite Anarchy&#10;[ICON_BULLET]Setup Fifth Column&#10;[ICON_BULLET]Bribe Leaders&#10;[ICON_BULLET]Exert Influence&#10;[ICON_BULLET]Plant Nuclear Device&#10;[ICON_BULLET]Disable Power Grid&#10;[ICON_BULLET]Stage Anti-War Rally&#10;[ICON_BULLET]Sabotage Research</Civilopedia>
@@ -140,7 +140,7 @@
 			<Sound>AS2D_TECH_MODERN_ESPIONAGE</Sound>
 			<SoundMP>AS2D_TECH_MP_MODERN_ESPIONAGE</SoundMP>
 			<Button>,Art/Interface/buttons/TechTree/spy_sleep_icon.dds</Button>
-		</TechInfo> -->
+		</TechInfo>
 		<TechInfo>
 			<Type>TECH_MYSTICISM</Type>
 			<Description>TXT_KEY_TECH_MYSTICISM</Description>
