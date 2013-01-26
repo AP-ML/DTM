@@ -9695,7 +9695,7 @@
 			<Civilopedia>Even though Occultus sanctioned the use of spies within his empire, they required a headquarters to conceal their activities away from prying eyes. To accomplish this, hidden sanctums were built behind the hollow walls of the library.</Civilopedia>
 			<Strategy>Den of Spies, the Zarosian replacement for the Library allows the addition of two Spy specialists to your city, as well as providing a bonus to espionage.</Strategy>
 			<Advisor>ADVISOR_SCIENCE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_ARABIAN_MADRASSA</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_ZAROSIAN_DEN_OF_SPIES</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>

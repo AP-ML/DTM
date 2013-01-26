@@ -7,6 +7,16 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
 	<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_ZAROSIAN_DEN_OF_SPIES</Type>
+			<LSystem>LSYSTEM_1x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.58</fScale>
+			<fInterfaceScale>0.67</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/DenOfSpies/DoS.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/ZarosianDenOfSpies.dds</Button>
+		</BuildingArtInfo>
+	<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_IMPERIUM_VALYRIA</Type>
 			<LSystem>LSYSTEM_3x2</LSystem>
 			<bAnimated>0</bAnimated>
