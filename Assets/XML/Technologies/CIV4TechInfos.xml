@@ -11,7 +11,7 @@
 			<Type>TECH_CONTRACT_KILLING</Type>
 			<Description>Contract Killing</Description>
 			<Civilopedia></Civilopedia>
-			<Help>[ICON_BULLET]Enables new Spy Mission - Assassination</Help>
+			<Help>[ICON_BULLET]Enables Assassination Spy Mission</Help>
 			<Strategy></Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
 			<iAIWeight>0</iAIWeight>

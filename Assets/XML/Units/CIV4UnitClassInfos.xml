@@ -7,6 +7,15 @@
 <Civ4UnitClassInfos xmlns="x-schema:CIV4UnitSchema.xml">
 	<UnitClassInfos>
 	<UnitClassInfo>
+			<Type>UNITCLASS_MASKED_MERCENARY</Type>
+			<Description>Masked Mercenary</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>3</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_MASKED_MERCENARY</DefaultUnit>
+		</UnitClassInfo>
+	<UnitClassInfo>
 			<Type>UNITCLASS_PIRATE_SHIP</Type>
 			<Description>Black Pearl</Description>
 			<iMaxGlobalInstances>1</iMaxGlobalInstances>

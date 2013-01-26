@@ -15177,7 +15177,7 @@
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>Mercenary HQ</Description>
 			<Civilopedia>Even though Mercenaries were well known for their warlike disposition, the income they received from jobs allowed them to purchase large dwellings. One such dwelling was their HQ where mercenaries would gather forces, plan missions and train for the upcoming battle.</Civilopedia>
-			<Strategy>Allows the player to produce [LINK=literal]Mercenary[\LINK] units.</Strategy>
+			<Strategy>Allows the player to produce various Mercenary units.</Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_MILITARY_ACADEMY</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
@@ -15232,7 +15232,7 @@
 			<bPrereqReligion>0</bPrereqReligion>
 			<bCenterInCity>0</bCenterInCity>
 			<iAIWeight>0</iAIWeight>
-			<iCost>400</iCost>
+			<iCost>250</iCost>
 			<iHurryCostModifier>50</iHurryCostModifier>
 			<iAdvancedStartCost>-1</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -15284,7 +15284,7 @@
 			<iForeignTradeRouteModifier>0</iForeignTradeRouteModifier>
 			<iGlobalPopulationChange>0</iGlobalPopulationChange>
 			<iFreeTechs>0</iFreeTechs>
-			<iDefense>15</iDefense>
+			<iDefense>0</iDefense>
 			<iBombardDefense>0</iBombardDefense>
 			<iAllCityDefense>0</iAllCityDefense>
 			<iEspionageDefense>0</iEspionageDefense>
@@ -15300,7 +15300,7 @@
 				<iCommerce>0</iCommerce>
 				<iCommerce>0</iCommerce>
 				<iCommerce>0</iCommerce>
-				<iCommerce>3</iCommerce>
+				<iCommerce>5</iCommerce>
 			</ObsoleteSafeCommerceChanges>
 			<CommerceChangeDoubleTimes>
 				<iCommerce>0</iCommerce>
@@ -15321,10 +15321,6 @@
 			<BonusHealthChanges/>
 			<BonusHappinessChanges/>
 			<BonusProductionModifiers>
-				<BonusProductionModifier>
-					<BonusType>BONUS_STONE</BonusType>
-					<iProductonModifier>100</iProductonModifier>
-				</BonusProductionModifier>
 			</BonusProductionModifiers>
 			<UnitCombatFreeExperiences/>
 			<DomainFreeExperiences/>
