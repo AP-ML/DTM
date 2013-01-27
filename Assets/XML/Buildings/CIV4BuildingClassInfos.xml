@@ -6,6 +6,30 @@
 <!-- Building Class Infos -->
 <Civ4BuildingClassInfos xmlns="x-schema:CIV4BuildingsSchema.xml">
 	<BuildingClassInfos>
+	<BuildingClassInfo>
+			<Type>BUILDINGCLASS_SOLAR_FARM</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_SOLAR_FARM</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+	<BuildingClassInfo>
+			<Type>BUILDINGCLASS_RENEWABLE_ENERGY_LAB</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_RENEWABLE_ENERGY_LAB</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
 			<!--<BuildingClassInfo>
 			<Type>BUILDINGCLASS_VALYRIAN_PALACE</Type>
 			<Description>TXT_KEY_BUILDING_PALACE</Description>

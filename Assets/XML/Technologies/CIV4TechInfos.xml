@@ -7,6 +7,72 @@
 <!-- Tech Infos -->
 <Civ4TechInfos xmlns="x-schema:CIV4TechnologiesSchema.xml">
 	<TechInfos>
+	<TechInfo>
+			<Type>TECH_RENEWABLE_ENERGY</Type>
+			<Description>Renewable Energy</Description>
+			<Civilopedia>Renewable energy is energy that comes from natural resources such as sunlight, wind, rain, tides, waves and geothermal heat.</Civilopedia>
+			<Help></Help>
+			<Strategy></Strategy>
+			<Advisor>ADVISOR_SCIENCE</Advisor>
+			<iAIWeight>0</iAIWeight>
+			<iAITradeModifier>10</iAITradeModifier>
+			<iCost>7250</iCost>
+			<iAdvancedStartCost>100</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<Era>ERA_MODERN</Era>
+			<FirstFreeUnitClass></FirstFreeUnitClass>
+			<iFeatureProductionModifier>0</iFeatureProductionModifier>
+			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
+			<iTradeRoutes>0</iTradeRoutes>
+			<iHealth>0</iHealth>
+			<iHappiness>0</iHappiness>
+			<iFirstFreeTechs>0</iFirstFreeTechs>
+			<iAsset>48</iAsset>
+			<iPower>0</iPower>
+			<bRepeat>0</bRepeat>
+			<bTrade>1</bTrade>
+			<bDisable>0</bDisable>
+			<bGoodyTech>0</bGoodyTech>
+			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
+			<bMapCentering>0</bMapCentering>
+			<bMapVisible>0</bMapVisible>
+			<bMapTrading>0</bMapTrading>
+			<bTechTrading>0</bTechTrading>
+			<bGoldTrading>0</bGoldTrading>
+			<bOpenBordersTrading>0</bOpenBordersTrading>
+			<bDefensivePactTrading>0</bDefensivePactTrading>
+			<bPermanentAllianceTrading>0</bPermanentAllianceTrading>
+			<bVassalTrading>0</bVassalTrading>
+			<bBridgeBuilding>0</bBridgeBuilding>
+			<bIrrigation>0</bIrrigation>
+			<bIgnoreIrrigation>0</bIgnoreIrrigation>
+			<bWaterWork>0</bWaterWork>
+			<iGridX>19</iGridX>
+			<iGridY>7</iGridY>
+			<DomainExtraMoves/>
+			<CommerceFlexible/>
+			<TerrainTrades/>
+			<bRiverTrade>0</bRiverTrade>
+			<Flavors>
+				<Flavor>
+					<FlavorType>FLAVOR_SCIENCE</FlavorType>
+					<iFlavor>1</iFlavor>
+				</Flavor>
+				<Flavor>
+					<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+					<iFlavor>9</iFlavor>
+				</Flavor>
+			</Flavors>
+			<OrPreReqs>
+				<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			</OrPreReqs>
+			<AndPreReqs>
+			</AndPreReqs>
+			<Quote>"When properly harnessed, enough sunlight falls on the earth in just one hour to meet world energy demands for a whole year." - From a report, on renewable energy</Quote>
+			<Sound></Sound>
+			<SoundMP></SoundMP>
+			<Button>,Art/Interface/buttons/TechTree/renewable_energy.dds</Button>
+	</TechInfo>
 	    <TechInfo>
 			<Type>TECH_CONTRACT_KILLING</Type>
 			<Description>Contract Killing</Description>
@@ -69,7 +135,7 @@
 			<AndPreReqs>
 				<PrereqTech>TECH_IRON_WORKING</PrereqTech>
 			</AndPreReqs>
-			<Quote>One kills a man, one is an assassin; one kills millions, one is a conqueror; one kills everybody, one is a god. - Jean Roustand</Quote>
+			<Quote>"One kills a man, one is an assassin; one kills millions, one is a conqueror; one kills everybody, one is a god." - Jean Roustand</Quote>
 			<Sound>AS2D_TECH_CONTRACT_KILLING</Sound>
 			<SoundMP>AS2D_TECH_MP_CONTRACT_KILLING</SoundMP>
 			<Button>,Art/Interface/buttons/TechTree/contract_killingv2.dds</Button>
@@ -4341,7 +4407,7 @@
 			<bIgnoreIrrigation>0</bIgnoreIrrigation>
 			<bWaterWork>0</bWaterWork>
 			<iGridX>19</iGridX>
-			<iGridY>8</iGridY>
+			<iGridY>3</iGridY>
 			<DomainExtraMoves/>
 			<CommerceFlexible/>
 			<TerrainTrades/>
@@ -4407,7 +4473,7 @@
 			<bIgnoreIrrigation>0</bIgnoreIrrigation>
 			<bWaterWork>0</bWaterWork>
 			<iGridX>20</iGridX>
-			<iGridY>8</iGridY>
+			<iGridY>3</iGridY>
 			<DomainExtraMoves/>
 			<CommerceFlexible/>
 			<TerrainTrades/>

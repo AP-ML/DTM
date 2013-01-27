@@ -6,6 +6,26 @@
 <!-- Building art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_SOLAR_FARM</Type>
+			<LSystem>LSYSTEM_3x3</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.25</fScale>
+			<fInterfaceScale>0.35</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/SolarFarm/solar.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/SolarFarm.dds</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_CENTERS_FOR_DISEASE_CONTROL</Type>
+			<LSystem>LSYSTEM_3x3</LSystem>
+			<bAnimated>1</bAnimated>
+			<fScale>0.75</fScale>
+			<fInterfaceScale>0.35</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Center_for_Disease_Control/Center_for_Disease_Control.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/RenewableLab.dds</Button>
+		</BuildingArtInfo>
 	<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_ZAROSIAN_DEN_OF_SPIES</Type>
 			<LSystem>LSYSTEM_1x2</LSystem>
