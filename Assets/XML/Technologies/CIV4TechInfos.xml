@@ -8,6 +8,75 @@
 <Civ4TechInfos xmlns="x-schema:CIV4TechnologiesSchema.xml">
 	<TechInfos>
 	<TechInfo>
+			<Type>TECH_AQUACULTURE</Type>
+			<Description>Aquaculture</Description>
+			<Civilopedia>[TAB]Aquaculture is the practice of cultivating the produce of water for consumption. Humans have been harvesting the bounty of the seas for all of history; however, as human population has grown exponentially, by the late twentieth century, much greater emphasis has been placed on so-called "sustainable" aquaculture.  Indeed the Treaty of Iceland, signed in 2033, mandated that, "No fish or mammal may be harvested from the ocean unless an equal or greater number of the same species are released into the wild at the same time." Unfortunately, with the collapse of the One World Government this treaty lost much of its efficacy, and the world's once-boundless supply of food is again under grave and imminent peril. [PARAGRAPH:2]Facing this dwindling supply of animal protein, aquaculture has focused upon the cultivation of oceanic vegetation like kelp and seaweed. Although plentiful, the resulting food has met with mixed reviews: while certain island and coastal cultures claim that these foods are delicacies, the rest of humanity appears to be in general agreement that they taste "like salty rubber, but not as good."</Civilopedia>
+			<Help></Help>
+			<Strategy>[COLOR_TECH_TEXT]Aquaculture[COLOR_REVERT] increases the food production of [COLOR_HIGHLIGHT_TEXT]Fishing Boats[COLOR_REVERT] by +2.</Strategy>
+			<Advisor>ADVISOR_GROWTH</Advisor>
+			<iAIWeight>0</iAIWeight>
+			<iAITradeModifier>10</iAITradeModifier>
+			<iCost>6500</iCost>
+			<iAdvancedStartCost>100</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<Era>ERA_FUTURE</Era>
+			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
+			<iFeatureProductionModifier>0</iFeatureProductionModifier>
+			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
+			<iTradeRoutes>0</iTradeRoutes>
+			<iHealth>0</iHealth>
+			<iHappiness>0</iHappiness>
+			<iFirstFreeTechs>0</iFirstFreeTechs>
+			<iAsset>48</iAsset>
+			<iPower>0</iPower>
+			<bRepeat>0</bRepeat>
+			<bTrade>1</bTrade>
+			<bDisable>0</bDisable>
+			<bGoodyTech>0</bGoodyTech>
+			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
+			<bMapCentering>0</bMapCentering>
+			<bMapVisible>0</bMapVisible>
+			<bMapTrading>0</bMapTrading>
+			<bTechTrading>0</bTechTrading>
+			<bGoldTrading>0</bGoldTrading>
+			<bOpenBordersTrading>0</bOpenBordersTrading>
+			<bDefensivePactTrading>0</bDefensivePactTrading>
+			<bPermanentAllianceTrading>0</bPermanentAllianceTrading>
+			<bVassalTrading>0</bVassalTrading>
+			<bBridgeBuilding>0</bBridgeBuilding>
+			<bIrrigation>0</bIrrigation>
+			<bIgnoreIrrigation>0</bIgnoreIrrigation>
+			<bWaterWork>0</bWaterWork>
+			<iGridX>19</iGridX>
+			<iGridY>9</iGridY>
+			<DomainExtraMoves/>
+			<CommerceFlexible/>
+			<TerrainTrades/>
+			<bRiverTrade>0</bRiverTrade>
+			<Flavors>
+				<Flavor>
+					<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+					<iFlavor>2</iFlavor>
+				</Flavor>
+				<Flavor>
+					<FlavorType>FLAVOR_SCIENCE</FlavorType>
+					<iFlavor>4</iFlavor>
+				</Flavor>
+				<Flavor>
+					<FlavorType>FLAVOR_GROWTH</FlavorType>
+					<iFlavor>7</iFlavor>
+				</Flavor>
+			</Flavors>
+			<OrPreReqs>
+				<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			</OrPreReqs>
+			<AndPreReqs/>
+			<Quote>"Kelp - it's what's for breakfast!"[PARAGRAPH:1] - Advertisement for 'Kelp Krunchies' cereal </Quote>
+			<Sound></Sound>
+			<SoundMP></SoundMP>
+			<Button>,Art/Interface/Buttons/TechTree/Ecology.dds,Art/Interface/Buttons/NextWar_Atlas.dds,2,3</Button>
+		</TechInfo>
+	<TechInfo>
 			<Type>TECH_RENEWABLE_ENERGY</Type>
 			<Description>Renewable Energy</Description>
 			<Civilopedia>Renewable energy is energy that comes from natural resources such as sunlight, wind, rain, tides, waves and geothermal heat.</Civilopedia>
