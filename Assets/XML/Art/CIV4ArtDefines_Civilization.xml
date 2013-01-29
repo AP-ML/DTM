@@ -7,6 +7,12 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<CivilizationArtInfos>
 	<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_PALM</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/PalmEmpire.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Horse.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+	<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_PIRATE</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/PiratesEmpire.dds</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Skull.dds</Path>

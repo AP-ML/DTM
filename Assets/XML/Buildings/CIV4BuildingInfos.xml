@@ -3442,11 +3442,11 @@
 			<BuildingClass>BUILDINGCLASS_STABLE</BuildingClass>
 			<Type>BUILDING_HORSEMAN_TRAINING_GROUNDS</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
-			<Description>Horseman Training Grounds</Description>
+			<Description>Horse Encampment</Description>
 			<Civilopedia></Civilopedia>
 			<Strategy></Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_STABLE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_HORSE_ENCAMPMENT</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>

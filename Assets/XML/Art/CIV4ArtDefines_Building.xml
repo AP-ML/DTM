@@ -6,6 +6,16 @@
 <!-- Building art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
+	<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_HORSE_ENCAMPMENT</Type>
+			<LSystem>LSYSTEM_3x3</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>0.9</fScale>
+			<fInterfaceScale>0.75</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/HorseBarricade/Afro_Native_Stable.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/Buildings/Barracks.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,7,1</Button>
+		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_SOLAR_FARM</Type>
 			<LSystem>LSYSTEM_3x3</LSystem>

@@ -7,6 +7,14 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<LeaderheadArtInfos>
 	<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_PALM</Type>
+			<Button>,Art/interface/LeaderHeads/Btn_LH_America_Washington.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,3,7</Button>
+			<NIF>art/interface/LeaderHeads/PalmLeader/shaka.nif</NIF>
+			<KFM>art/interface/LeaderHeads/PalmLeader/shaka.kfm</KFM>
+			<NoShaderNIF>art/interface/LeaderHeads/PalmLeader/shaka_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/interface/LeaderHeads/PalmLeader/shaka_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_OCCULTUS</Type>
 			<Button>,Art/interface/LeaderHeads/OccultusButton.dds</Button>
 			<NIF>art/interface/LeaderHeads/Occultus.dds</NIF>
