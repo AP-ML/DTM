@@ -62,6 +62,7 @@
 		<ArtStyleType>ARTSTYLE_VIKING</ArtStyleType>
 		<ArtStyleType>ARTSTYLE_RUSSIA</ArtStyleType>
 		<ArtStyleType>ARTSTYLE_EAST_EUROPEAN</ArtStyleType>
+		<ArtStyleType>ARTSTYLE_PACIFIC</ArtStyleType>
 	</ArtStyleTypes>
 	<CitySizeTypes>
 		<CitySizeType>CITYSIZE_SMALL</CitySizeType>
