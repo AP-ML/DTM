@@ -18114,6 +18114,10 @@
 					<BuildType>BUILD_OFFSHORE_PLATFORM</BuildType>
 					<bBuild>1</bBuild>
 				</Build>
+				<Build>
+					<BuildType>BUILD_OFFSHORE_TURBINE</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
 			</Builds>
 			<ReligionSpreads/>
 			<CorporationSpreads/>

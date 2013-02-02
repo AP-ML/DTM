@@ -6,6 +6,25 @@
 <!-- Build Infos -->
 <Civ4BuildInfos xmlns="x-schema:CIV4UnitSchema.xml">
 	<BuildInfos>
+	<BuildInfo>
+			<Type>BUILD_OFFSHORE_TURBINE</Type>
+			<Description>Build Offshore Turbine</Description>
+			<Help/>
+			<PrereqTech>TECH_AQUACULTURE</PrereqTech>
+			<iTime>0</iTime>
+			<iCost>0</iCost>
+			<bKill>1</bKill>
+			<ImprovementType>IMPROVEMENT_OFFSHORE_TURBINE</ImprovementType>
+			<RouteType>NONE</RouteType>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<FeatureStructs/>
+			<HotKey>KB_F</HotKey>
+			<bAltDown>0</bAltDown>
+			<bShiftDown>0</bShiftDown>
+			<bCtrlDown>0</bCtrlDown>
+			<iHotKeyPriority>1</iHotKeyPriority>
+			<Button>,Art/Interface/Buttons/offshore_turbine.dds</Button>
+		</BuildInfo>
 		<BuildInfo>
 			<Type>BUILD_ROAD</Type>
 			<Description>TXT_KEY_BUILD_ROAD</Description>

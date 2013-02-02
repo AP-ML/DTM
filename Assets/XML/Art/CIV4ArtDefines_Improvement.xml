@@ -7,6 +7,15 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<ImprovementArtInfos>
 		<ImprovementArtInfo>
+			<Type>ART_DEF_IMPROVEMENT_OFFSHORE_TURBINE</Type>
+			<bExtraAnimations>0</bExtraAnimations>
+			<fScale>.66</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Structures/Improvements/WindMill/windmill_mod.nif</NIF>
+			<KFM>Art/Structures/Improvements/WindMill/windmill_mod.kfm</KFM>
+			<Button>,Art/Interface/Buttons/offshore_turbine.dds</Button>
+		</ImprovementArtInfo>
+		<ImprovementArtInfo>
 			<Type>ART_DEF_IMPROVEMENT_LAND_WORKED</Type>
 			<bExtraAnimations>0</bExtraAnimations>
 			<fScale>1.0</fScale>
