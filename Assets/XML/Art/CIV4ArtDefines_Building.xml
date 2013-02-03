@@ -6,6 +6,26 @@
 <!-- Building art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_BIOFUEL_REFINERY</Type>
+			<LSystem>LSYSTEM_3x3</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>2.0</fScale>
+			<fInterfaceScale>0.4</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/BiofuelRefinery/refinery.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/PetrolStation.dds</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_CURE_FOR_CANCER</Type>
+			<LSystem>LSYSTEM_1x1</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.0</fScale>
+			<fInterfaceScale>0.4</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/CureforCancer/CureStatue.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/cure_for_cancer.dds</Button>
+		</BuildingArtInfo>
 	<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_HORSE_ENCAMPMENT</Type>
 			<LSystem>LSYSTEM_3x3</LSystem>

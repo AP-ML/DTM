@@ -10692,8 +10692,13 @@
 				<PrereqTech>NONE</PrereqTech>
 				<PrereqTech>NONE</PrereqTech>
 			</TechTypes>
-			<BonusType>BONUS_OIL</BonusType>
-			<PrereqBonuses/>
+			<BonusType></BonusType>
+			<PrereqBonuses>
+				<BonusType>BONUS_OIL</BonusType>
+				<BonusType>BONUS_BIOFUEL</BonusType>
+				<BonusType>NONE</BonusType>
+				<BonusType>NONE</BonusType>
+			</PrereqBonuses>
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
@@ -15895,8 +15900,13 @@
 				<PrereqTech>NONE</PrereqTech>
 				<PrereqTech>NONE</PrereqTech>
 			</TechTypes>
-			<BonusType>BONUS_OIL</BonusType>
-			<PrereqBonuses/>
+			<BonusType></BonusType>
+			<PrereqBonuses>
+				<BonusType>BONUS_OIL</BonusType>
+				<BonusType>BONUS_BIOFUEL</BonusType>
+				<BonusType>NONE</BonusType>
+				<BonusType>NONE</BonusType>
+			</PrereqBonuses>
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
@@ -16084,8 +16094,11 @@
 				<PrereqTech>NONE</PrereqTech>
 				<PrereqTech>NONE</PrereqTech>
 			</TechTypes>
-			<BonusType>BONUS_OIL</BonusType>
-			<PrereqBonuses/>
+			<BonusType></BonusType>
+			<PrereqBonuses>
+				<BonusType>BONUS_OIL</BonusType>
+				<BonusType>BONUS_BIOFUEL</BonusType>
+			</PrereqBonuses>
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
@@ -16273,10 +16286,10 @@
 				<PrereqTech>NONE</PrereqTech>
 				<PrereqTech>NONE</PrereqTech>
 			</TechTypes>
-			<BonusType>BONUS_OIL</BonusType>
+			<BonusType>BONUS_ALUMINUM</BonusType>
 			<PrereqBonuses>
-				<BonusType>BONUS_ALUMINUM</BonusType>
-				<BonusType>NONE</BonusType>
+				<BonusType>BONUS_OIL</BonusType>
+				<BonusType>BONUS_BIOFUEL</BonusType>
 				<BonusType>NONE</BonusType>
 				<BonusType>NONE</BonusType>
 			</PrereqBonuses>
@@ -16647,8 +16660,11 @@
 			<PrereqBuilding>NONE</PrereqBuilding>
 			<PrereqTech>TECH_ADVANCED_FLIGHT</PrereqTech>
 			<TechTypes/>
-			<BonusType>BONUS_OIL</BonusType>
-			<PrereqBonuses/>
+			<BonusType></BonusType>
+			<PrereqBonuses>
+				<BonusType>BONUS_OIL</BonusType>
+				<BonusType>BONUS_BIOFUEL</BonusType>
+			</PrereqBonuses>
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
@@ -17937,8 +17953,11 @@
 				<PrereqTech>NONE</PrereqTech>
 				<PrereqTech>NONE</PrereqTech>
 			</TechTypes>
-			<BonusType>BONUS_OIL</BonusType>
-			<PrereqBonuses/>
+			<BonusType></BonusType>
+			<PrereqBonuses>
+				<BonusType>BONUS_OIL</BonusType>
+				<BonusType>BONUS_BIOFUEL</BonusType>
+			</PrereqBonuses>
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
@@ -22103,8 +22122,11 @@
 			<PrereqBuilding>NONE</PrereqBuilding>
 			<PrereqTech>TECH_FLIGHT</PrereqTech>
 			<TechTypes/>
-			<BonusType>BONUS_OIL</BonusType>
-			<PrereqBonuses/>
+			<BonusType></BonusType>
+			<PrereqBonuses>
+				<BonusType>BONUS_OIL</BonusType>
+				<BonusType>BONUS_BIOFUEL</BonusType>
+			</PrereqBonuses>
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
@@ -22274,10 +22296,10 @@
 			<PrereqBuilding>NONE</PrereqBuilding>
 			<PrereqTech>TECH_ADVANCED_FLIGHT</PrereqTech>
 			<TechTypes/>
-			<BonusType>BONUS_OIL</BonusType>
+			<BonusType>BONUS_ALUMINUM</BonusType>
 			<PrereqBonuses>
-				<BonusType>BONUS_ALUMINUM</BonusType>
-				<BonusType>NONE</BonusType>
+				<BonusType>BONUS_OIL</BonusType>
+				<BonusType>BONUS_BIOFUEL</BonusType>
 				<BonusType>NONE</BonusType>
 				<BonusType>NONE</BonusType>
 			</PrereqBonuses>
@@ -22455,8 +22477,11 @@
 				<PrereqTech>NONE</PrereqTech>
 				<PrereqTech>NONE</PrereqTech>
 			</TechTypes>
-			<BonusType>BONUS_OIL</BonusType>
-			<PrereqBonuses/>
+			<BonusType></BonusType>
+			<PrereqBonuses>
+				<BonusType>BONUS_OIL</BonusType>
+				<BonusType>BONUS_BIOFUEL</BonusType>
+			</PrereqBonuses>
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
@@ -22630,10 +22655,10 @@
 				<PrereqTech>TECH_ROBOTICS</PrereqTech>
 				<PrereqTech>NONE</PrereqTech>
 			</TechTypes>
-			<BonusType>BONUS_OIL</BonusType>
+			<BonusType>BONUS_ALUMINUM</BonusType>
 			<PrereqBonuses>
-				<BonusType>BONUS_ALUMINUM</BonusType>
-				<BonusType>NONE</BonusType>
+				<BonusType>BONUS_OIL</BonusType>
+				<BonusType>BONUS_BIOFUEL</BonusType>
 				<BonusType>NONE</BonusType>
 				<BonusType>NONE</BonusType>
 			</PrereqBonuses>
