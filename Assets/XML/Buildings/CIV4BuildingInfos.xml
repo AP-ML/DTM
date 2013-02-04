@@ -8806,7 +8806,12 @@
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
-			<ProductionTraits/>
+			<ProductionTraits>
+				<ProductionTrait>
+					<ProductionTraitType>TRAIT_PRODUCTIVE</ProductionTraitType>
+					<iProductionTrait>50</iProductionTrait>
+				</ProductionTrait>
+			</ProductionTraits>
 			<HappinessTraits/>
 			<NoBonus>NONE</NoBonus>
 			<PowerBonus>NONE</PowerBonus>
@@ -16271,7 +16276,12 @@
 					<iProductionTrait>50</iProductionTrait>
 				</ProductionTrait>
 			</ProductionTraits>
-			<HappinessTraits/>
+			<HappinessTraits>
+				<HappinessTrait>
+					<HappinessTraitType>TRAIT_PRODUCTIVE</HappinessTraitType>
+					<iHappinessTrait>1</iHappinessTrait>
+				</HappinessTrait>
+			</HappinessTraits>
 			<NoBonus>NONE</NoBonus>
 			<PowerBonus>NONE</PowerBonus>
 			<FreeBonus>NONE</FreeBonus>
