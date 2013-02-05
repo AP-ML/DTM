@@ -243,6 +243,78 @@
 			<CivilizationActionSound>AS3D_ARABIA_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
+			<Type>CIVILIZATION_ARROWPEAN</Type>
+			<Description>Arrowpean Empire</Description>
+			<ShortDescription>Arrow</ShortDescription>
+			<Adjective>Arrowpean</Adjective>
+			<Civilopedia>Christian's 2nd Civ</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_BLUE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_ARROWPEAN</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>0</bAIPlayable>
+			<Cities>
+				<City>Varrock</City>
+				<City>Prifdinnas</City>
+				<City>Isafdar</City>
+				<City>Arandar</City>
+				<City>Lletya</City>
+				<City>Tirannwn</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
+					<BuildingType>BUILDING_HORSEMAN_TRAINING_GROUNDS</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_HORSE_ARCHER</UnitClassType>
+					<UnitType>UNIT_ARROWPEAN_ARCHER</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_HUNTING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_MINING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_TRIBALISM</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_ARCHERKO</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>NONE</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_ENGLAND_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_ENGLAND_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
 			<Type>CIVILIZATION_AZTEC</Type>
 			<Description>TXT_KEY_CIV_AZTEC_DESC</Description>
 			<ShortDescription>TXT_KEY_CIV_AZTEC_SHORT_DESC</ShortDescription>

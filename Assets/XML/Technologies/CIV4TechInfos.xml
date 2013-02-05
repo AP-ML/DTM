@@ -8,6 +8,75 @@
 <Civ4TechInfos xmlns="x-schema:CIV4TechnologiesSchema.xml">
 	<TechInfos>
 	<TechInfo>
+			<Type>TECH_HYDROPONICS</Type>
+			<Description>Hydroponics</Description>
+			<Civilopedia>[TAB]Hydroponics is the science of growing vegetables in nutrient solutions rather than in soil. The earliest references to hydroponics date back to the seventeenth century, and while notable advances in research were seen over the following centuries, the first practical applications of hydroponics did not appear until the early twentieth century, and mass adoption didn't occur until the middle of the twenty-first century. There are two primary benefits to growing plants in nutrient solutions rather than in soil: the nutrient solution can be sterilized (unlike soil), greatly reducing the occurrence of disease and pests in the plants, and a much greater number of crops can be grown in a small area. [PARAGRAPH:2]The primary downside to this method of cultivation is that it requires a fair degree of technical know-how to install and maintain the complicated machines necessary to keep the "scum-ponds" healthy and productive. However, once education levels improved in rural populations across the world, this was no longer an impediment, and the practice has since spread rapidly, greatly increasing the world's food supply.</Civilopedia>
+			<Help/>
+			<Strategy>[COLOR_TECH_TEXT]Hydroponics[COLOR_REVERT] increases food production of [COLOR_HIGHLIGHT_TEXT]Farms[COLOR_REVERT] by +1. <!--It also allows construction of [COLOR_BUILDING_TEXT]Arcologies[COLOR_REVERT].--></Strategy>
+			<Advisor>ADVISOR_GROWTH</Advisor>
+			<iAIWeight>0</iAIWeight>
+			<iAITradeModifier>10</iAITradeModifier>
+			<iCost>6500</iCost>
+			<iAdvancedStartCost>100</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<Era>ERA_FUTURE</Era>
+			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
+			<iFeatureProductionModifier>0</iFeatureProductionModifier>
+			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
+			<iTradeRoutes>0</iTradeRoutes>
+			<iHealth>0</iHealth>
+			<iHappiness>0</iHappiness>
+			<iFirstFreeTechs>0</iFirstFreeTechs>
+			<iAsset>48</iAsset>
+			<iPower>0</iPower>
+			<bRepeat>0</bRepeat>
+			<bTrade>1</bTrade>
+			<bDisable>0</bDisable>
+			<bGoodyTech>0</bGoodyTech>
+			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
+			<bMapCentering>0</bMapCentering>
+			<bMapVisible>0</bMapVisible>
+			<bMapTrading>0</bMapTrading>
+			<bTechTrading>0</bTechTrading>
+			<bGoldTrading>0</bGoldTrading>
+			<bOpenBordersTrading>0</bOpenBordersTrading>
+			<bDefensivePactTrading>0</bDefensivePactTrading>
+			<bPermanentAllianceTrading>0</bPermanentAllianceTrading>
+			<bVassalTrading>0</bVassalTrading>
+			<bBridgeBuilding>0</bBridgeBuilding>
+			<bIrrigation>0</bIrrigation>
+			<bIgnoreIrrigation>0</bIgnoreIrrigation>
+			<bWaterWork>0</bWaterWork>
+			<iGridX>19</iGridX>
+			<iGridY>9</iGridY>
+			<DomainExtraMoves/>
+			<CommerceFlexible/>
+			<TerrainTrades/>
+			<bRiverTrade>0</bRiverTrade>
+			<Flavors>
+				<Flavor>
+					<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+					<iFlavor>2</iFlavor>
+				</Flavor>
+				<Flavor>
+					<FlavorType>FLAVOR_SCIENCE</FlavorType>
+					<iFlavor>4</iFlavor>
+				</Flavor>
+				<Flavor>
+					<FlavorType>FLAVOR_GROWTH</FlavorType>
+					<iFlavor>7</iFlavor>
+				</Flavor>
+			</Flavors>
+			<OrPreReqs>
+				<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			</OrPreReqs>
+			<AndPreReqs/>
+			<Quote>"All right. Maybe it DOES taste like wet cardboard - but it sure beats starving." [PARAGRAPH:1] - Dexter Ambrose, Agricultural Engineer</Quote>
+			<Sound></Sound>
+			<SoundMP></SoundMP>
+			<Button>,Art/Interface/Buttons/TechTree/Ecology.dds,Art/Interface/Buttons/NextWar_Atlas.dds,8,3</Button>
+		</TechInfo>
+	<TechInfo>
 			<Type>TECH_GENE_MANIPULATION</Type>
 			<Description>Gene Manipulation</Description>
 			<Civilopedia></Civilopedia>
@@ -111,7 +180,7 @@
 			<bIgnoreIrrigation>0</bIgnoreIrrigation>
 			<bWaterWork>0</bWaterWork>
 			<iGridX>19</iGridX>
-			<iGridY>9</iGridY>
+			<iGridY>7</iGridY>
 			<DomainExtraMoves/>
 			<CommerceFlexible/>
 			<TerrainTrades/>
@@ -180,7 +249,7 @@
 			<bIgnoreIrrigation>0</bIgnoreIrrigation>
 			<bWaterWork>0</bWaterWork>
 			<iGridX>19</iGridX>
-			<iGridY>7</iGridY>
+			<iGridY>5</iGridY>
 			<DomainExtraMoves/>
 			<CommerceFlexible/>
 			<TerrainTrades/>
