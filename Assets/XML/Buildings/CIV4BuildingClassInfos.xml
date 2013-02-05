@@ -6,210 +6,6 @@
 <!-- Building Class Infos -->
 <Civ4BuildingClassInfos xmlns="x-schema:CIV4BuildingsSchema.xml">
 	<BuildingClassInfos>
-	<BuildingClassInfo>
-			<Type>BUILDINGCLASS_BIOFUEL_REFINERY</Type>
-			<Description></Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_BIOFUEL_REFINERY</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-		<BuildingClassInfo>
-			<Type>BUILDINGCLASS_CURE_FOR_CANCER</Type>
-			<Description></Description>
-			<iMaxGlobalInstances>1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_CURE_FOR_CANCER</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-	<BuildingClassInfo>
-			<Type>BUILDINGCLASS_SOLAR_FARM</Type>
-			<Description></Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_SOLAR_FARM</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-	<BuildingClassInfo>
-			<Type>BUILDINGCLASS_RENEWABLE_ENERGY_LAB</Type>
-			<Description></Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_RENEWABLE_ENERGY_LAB</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-			<!--<BuildingClassInfo>
-			<Type>BUILDINGCLASS_VALYRIAN_PALACE</Type>
-			<Description>TXT_KEY_BUILDING_PALACE</Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>1</iExtraPlayerInstances>
-			<bNoLimit>1</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_PALACE</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>-->
-	<BuildingClassInfo>
-			<Type>BUILDINGCLASS_ASPHALT_ROAD</Type>
-			<Description></Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_ASPHALT_ROAD</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-	<BuildingClassInfo>
-			<Type>BUILDINGCLASS_CARPLANT</Type>
-			<Description></Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_CARPLANT</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-	<BuildingClassInfo>
-			<Type>BUILDINGCLASS_RACETRACK</Type>
-			<Description></Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_RACETRACK</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-	<BuildingClassInfo>
-			<Type>BUILDINGCLASS_FORDBUILDING</Type>
-			<Description></Description>
-			<iMaxGlobalInstances>1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_FORDBUILDING</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-	<BuildingClassInfo>
-			<Type>BUILDINGCLASS_MERCENARY_HQ</Type>
-			<Description></Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_MERCENARY_HQ</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-	<BuildingClassInfo>
-			<Type>BUILDINGCLASS_POLICE_STATION</Type>
-			<Description>TXT_KEY_BUILDING_POLICE_STATION</Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_POLICE_STATION</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-			<BuildingClassInfo>
-			<Type>BUILDINGCLASS_VIDEO_GAMES_STUDIO</Type>
-			<Description>TXT_KEY_BUILDING_VIDEO_GAMES_STUDIO</Description>
-			<iMaxGlobalInstances>1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_VIDEO_GAMES_STUDIO</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-		<BuildingClassInfo>
-			<Type>BUILDINGCLASS_EMPIRE_STATE</Type>
-			<Description>TXT_KEY_BUILDING_EMPIRE_STATE</Description>
-			<iMaxGlobalInstances>1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_EMPIRE_STATE</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-		<BuildingClassInfo>
-			<Type>BUILDINGCLASS_BRIDGE</Type>
-			<Description>TXT_KEY_BUILDING_BRIDGE</Description>
-			<iMaxGlobalInstances>1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_BRIDGE</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-		<BuildingClassInfo>
-			<Type>BUILDINGCLASS_SYDNEY_OPERA_HOUSE</Type>
-			<Description>TXT_KEY_BUILDING_SYDNEY_OPERA_HOUSE</Description>
-			<iMaxGlobalInstances>1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_SYDNEY_OPERA_HOUSE</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-		<BuildingClassInfo>
-			<Type>BUILDINGCLASS_BIOLOGICAL_WARFARE_LAB</Type>
-			<Description>TXT_KEY_BUILDING_BIOLOGICAL_WARFARE_LAB</Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_BIOLOGICAL_WARFARE_LAB</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
-	    <BuildingClassInfo>
-			<Type>BUILDINGCLASS_BICESTER_VILLAGE</Type>
-			<Description>TXT_KEY_BUILDING_BICESTER_VILLAGE</Description>
-			<iMaxGlobalInstances>1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iExtraPlayerInstances>0</iExtraPlayerInstances>
-			<bNoLimit>0</bNoLimit>
-			<bMonument>0</bMonument>
-			<DefaultBuilding>BUILDING_BICESTER_VILLAGE</DefaultBuilding>
-			<VictoryThresholds/>
-		</BuildingClassInfo>
 		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_PALACE</Type>
 			<Description>TXT_KEY_BUILDING_PALACE</Description>
@@ -222,6 +18,18 @@
 			<DefaultBuilding>BUILDING_PALACE</DefaultBuilding>
 			<VictoryThresholds/>
 		</BuildingClassInfo>
+		<!--<BuildingClassInfo>
+			<Type>BUILDINGCLASS_VALYRIAN_PALACE</Type>
+			<Description>TXT_KEY_BUILDING_PALACE</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>1</iExtraPlayerInstances>
+			<bNoLimit>1</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_PALACE</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>-->
 		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_GREAT_PALACE</Type>
 			<Description>TXT_KEY_BUILDING_GREAT_PALACE</Description>
@@ -427,6 +235,30 @@
 			<VictoryThresholds/>
 		</BuildingClassInfo>
 		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_ASPHALT_ROAD</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_ASPHALT_ROAD</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_RACETRACK</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_RACETRACK</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_FORGE</Type>
 			<Description>TXT_KEY_BUILDING_FORGE</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
@@ -583,6 +415,42 @@
 			<VictoryThresholds/>
 		</BuildingClassInfo>
 		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_RENEWABLE_ENERGY_LAB</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_RENEWABLE_ENERGY_LAB</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_SOLAR_FARM</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_SOLAR_FARM</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_BIOLOGICAL_WARFARE_LAB</Type>
+			<Description>TXT_KEY_BUILDING_BIOLOGICAL_WARFARE_LAB</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_BIOLOGICAL_WARFARE_LAB</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_THEATRE</Type>
 			<Description>TXT_KEY_BUILDING_THEATRE</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
@@ -688,6 +556,18 @@
 			<bNoLimit>0</bNoLimit>
 			<bMonument>0</bMonument>
 			<DefaultBuilding>BUILDING_JAIL</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_POLICE_STATION</Type>
+			<Description>TXT_KEY_BUILDING_POLICE_STATION</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_POLICE_STATION</DefaultBuilding>
 			<VictoryThresholds/>
 		</BuildingClassInfo>
 		<BuildingClassInfo>
@@ -1087,6 +967,18 @@
 			<VictoryThresholds/>
 		</BuildingClassInfo>
 		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_MERCENARY_HQ</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_MERCENARY_HQ</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_GLOBE_THEATRE</Type>
 			<Description>TXT_KEY_BUILDING_GLOBE_THEATRE</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
@@ -1423,6 +1315,42 @@
 			<VictoryThresholds/>
 		</BuildingClassInfo>
 		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_EMPIRE_STATE</Type>
+			<Description>TXT_KEY_BUILDING_EMPIRE_STATE</Description>
+			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_EMPIRE_STATE</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_BRIDGE</Type>
+			<Description>TXT_KEY_BUILDING_BRIDGE</Description>
+			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_BRIDGE</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_SYDNEY_OPERA_HOUSE</Type>
+			<Description>TXT_KEY_BUILDING_SYDNEY_OPERA_HOUSE</Description>
+			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_SYDNEY_OPERA_HOUSE</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_BROADWAY</Type>
 			<Description>TXT_KEY_BUILDING_BROADWAY</Description>
 			<iMaxGlobalInstances>1</iMaxGlobalInstances>
@@ -1456,6 +1384,54 @@
 			<bNoLimit>0</bNoLimit>
 			<bMonument>0</bMonument>
 			<DefaultBuilding>BUILDING_HOLLYWOOD</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_VIDEO_GAMES_STUDIO</Type>
+			<Description>TXT_KEY_BUILDING_VIDEO_GAMES_STUDIO</Description>
+			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_VIDEO_GAMES_STUDIO</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_FORDBUILDING</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_FORDBUILDING</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_CARPLANT</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_CARPLANT</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+	    <BuildingClassInfo>
+			<Type>BUILDINGCLASS_BICESTER_VILLAGE</Type>
+			<Description>TXT_KEY_BUILDING_BICESTER_VILLAGE</Description>
+			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_BICESTER_VILLAGE</DefaultBuilding>
 			<VictoryThresholds/>
 		</BuildingClassInfo>
 		<BuildingClassInfo>
@@ -1504,6 +1480,30 @@
 			<bNoLimit>0</bNoLimit>
 			<bMonument>0</bMonument>
 			<DefaultBuilding>BUILDING_SPACE_ELEVATOR</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_CURE_FOR_CANCER</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_CURE_FOR_CANCER</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_BIOFUEL_REFINERY</Type>
+			<Description></Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_BIOFUEL_REFINERY</DefaultBuilding>
 			<VictoryThresholds/>
 		</BuildingClassInfo>
 		<BuildingClassInfo>

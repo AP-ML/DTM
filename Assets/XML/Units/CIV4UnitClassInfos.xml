@@ -6,51 +6,6 @@
 <!-- UnitClass Schema -->
 <Civ4UnitClassInfos xmlns="x-schema:CIV4UnitSchema.xml">
 	<UnitClassInfos>
-	<UnitClassInfo>
-			<Type>UNITCLASS_MASKED_MERCENARY</Type>
-			<Description>Masked Mercenary</Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>3</iMaxPlayerInstances>
-			<iInstanceCostModifier>0</iInstanceCostModifier>
-			<DefaultUnit>UNIT_MASKED_MERCENARY</DefaultUnit>
-		</UnitClassInfo>
-	<UnitClassInfo>
-			<Type>UNITCLASS_PIRATE_SHIP</Type>
-			<Description>Black Pearl</Description>
-			<iMaxGlobalInstances>1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iInstanceCostModifier>0</iInstanceCostModifier>
-			<DefaultUnit>UNIT_PIRATE_SHIP</DefaultUnit>
-		</UnitClassInfo>
-	<UnitClassInfo>
-			<Type>UNITCLASS_MERCENARY</Type>
-			<Description>Mercenary</Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iInstanceCostModifier>0</iInstanceCostModifier>
-			<DefaultUnit>UNIT_MERCENARY</DefaultUnit>
-		</UnitClassInfo>
-	    <UnitClassInfo>
-			<Type>UNITCLASS_ANDROMEDA</Type>
-			<Description>TXT_KEY_UNIT_ANDROMEDA</Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>1</iMaxPlayerInstances>
-			<iInstanceCostModifier>0</iInstanceCostModifier>
-			<DefaultUnit>UNIT_ANDROMEDA</DefaultUnit>
-		</UnitClassInfo>
-	    <UnitClassInfo>
-			<Type>UNITCLASS_BIOLOGICAL_WARFARE_MISSILE</Type>
-			<Description>TXT_KEY_UNIT_BIOLOGICAL_WARFARE_MISSILE</Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
-			<iInstanceCostModifier>0</iInstanceCostModifier>
-			<DefaultUnit>UNIT_BIOLOGICAL_WARFARE_MISSILE</DefaultUnit>
-		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_LION</Type>
 			<Description>TXT_KEY_UNIT_LION</Description>
@@ -311,6 +266,24 @@
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
 			<iInstanceCostModifier>0</iInstanceCostModifier>
 			<DefaultUnit>UNIT_PIKEMAN</DefaultUnit>
+		</UnitClassInfo>
+		<UnitClassInfo>
+			<Type>UNITCLASS_MERCENARY</Type>
+			<Description>Mercenary</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_MERCENARY</DefaultUnit>
+		</UnitClassInfo>
+		<UnitClassInfo>
+			<Type>UNITCLASS_MASKED_MERCENARY</Type>
+			<Description>Masked Mercenary</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>3</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_MASKED_MERCENARY</DefaultUnit>
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_MUSKETMAN</Type>
@@ -727,6 +700,15 @@
 			<DefaultUnit>UNIT_CARRIER</DefaultUnit>
 		</UnitClassInfo>
 		<UnitClassInfo>
+			<Type>UNITCLASS_PIRATE_SHIP</Type>
+			<Description>Black Pearl</Description>
+			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_PIRATE_SHIP</DefaultUnit>
+		</UnitClassInfo>
+		<UnitClassInfo>
 			<Type>UNITCLASS_AIRSHIP</Type>
 			<Description>TXT_KEY_UNIT_AIRSHIP</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
@@ -797,6 +779,24 @@
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
 			<iInstanceCostModifier>0</iInstanceCostModifier>
 			<DefaultUnit>UNIT_TACTICAL_NUKE</DefaultUnit>
+		</UnitClassInfo>
+	    <UnitClassInfo>
+			<Type>UNITCLASS_BIOLOGICAL_WARFARE_MISSILE</Type>
+			<Description>TXT_KEY_UNIT_BIOLOGICAL_WARFARE_MISSILE</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_BIOLOGICAL_WARFARE_MISSILE</DefaultUnit>
+		</UnitClassInfo>
+	    <UnitClassInfo>
+			<Type>UNITCLASS_ANDROMEDA</Type>
+			<Description>TXT_KEY_UNIT_ANDROMEDA</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_ANDROMEDA</DefaultUnit>
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_PROPHET</Type>

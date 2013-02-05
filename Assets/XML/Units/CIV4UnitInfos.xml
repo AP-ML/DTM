@@ -9969,8 +9969,8 @@
 			<iEvasionProbability>0</iEvasionProbability>
 			<iWithdrawalProb>0</iWithdrawalProb>
 			<iCollateralDamage>50</iCollateralDamage>
-			<iCollateralDamageLimit>50</iCollateralDamageLimit>
-			<iCollateralDamageMaxUnits>6</iCollateralDamageMaxUnits>
+			<iCollateralDamageLimit>40</iCollateralDamageLimit>
+			<iCollateralDamageMaxUnits>5</iCollateralDamageMaxUnits>
 			<iCityAttack>0</iCityAttack>
 			<iCityDefense>0</iCityDefense>
 			<iAnimalCombat>0</iAnimalCombat>
@@ -9985,10 +9985,6 @@
 			<UnitClassAttackMods>
 				<UnitClassAttackMod>
 					<UnitClassType>UNITCLASS_LONGBOWMAN</UnitClassType>
-					<iUnitClassMod>25</iUnitClassMod>
-				</UnitClassAttackMod>
-				<UnitClassAttackMod>
-					<UnitClassType>UNITCLASS_GRENADIER</UnitClassType>
 					<iUnitClassMod>25</iUnitClassMod>
 				</UnitClassAttackMod>
 				<UnitClassAttackMod>
