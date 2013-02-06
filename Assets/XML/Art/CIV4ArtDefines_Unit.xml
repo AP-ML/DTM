@@ -4012,6 +4012,41 @@
 			<ActionSound>AS3D_UN_DESTROYER_FORT</ActionSound>
 		</UnitArtInfo>
 		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_DREADNOUGHT</Type>
+			<Button>,Art/Interface/Buttons/Units/Panzer.dds,Art/Interface/Buttons/NextWar_Atlas.dds,5,1</Button>
+			<fScale>0.75</fScale>
+			<fInterfaceScale>0.8</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Dreadnought/Dreadnought.nif</NIF>
+			<KFM>Art/Units/Dreadnought/Dreadnought.kfm</KFM>
+			<SHADERNIF>Art/Units/Dreadnought/Dreadnought_FX.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/PanzerShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/tanktread.dds</Texture>
+				<fWidth>1.0</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>0.0</fTaper>
+				<fFadeStartTime>0.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.5</fBattleDistance>
+			<fRangedDeathTime>0.12</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIQUE_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_DREAD</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_DREAD</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_DREAD_FORT</SelectionSound>
+			<ActionSound>AS3D_UN_DREAD_FORT</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_ARCHER_EGYPTIAN</Type>
 			<Button>,Art/Interface/Buttons/Units/Archer.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,1</Button>
 			<fScale>0.44</fScale>

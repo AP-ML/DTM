@@ -1788,6 +1788,16 @@
 			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,2,14</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_ARCOLOGY</Type>
+			<LSystem>LSYSTEM_ARCOLOGY</LSystem>
+			<bAnimated>1</bAnimated>
+			<fScale>0.6</fScale>
+			<fInterfaceScale>1</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Arcology/Arcology.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/Buildings/Colossus.dds,Art/Interface/Buttons/NextWar_Atlas.dds,2,4</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_DEN_SPIES</Type>
 			<LSystem>LSYSTEM_2x2</LSystem>
 			<bAnimated>0</bAnimated>

@@ -493,6 +493,15 @@
 			<DefaultUnit>UNIT_GUNSHIP</DefaultUnit>
 		</UnitClassInfo>
 		<UnitClassInfo>
+			<Type>UNITCLASS_DREADNOUGHT</Type>
+			<Description>TXT_KEY_UNIT_DREADNOUGHT</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>2</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_DREADNOUGHT</DefaultUnit>
+		</UnitClassInfo>
+		<UnitClassInfo>
 			<Type>UNITCLASS_CATAPULT</Type>
 			<Description>TXT_KEY_UNIT_CATAPULT</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>

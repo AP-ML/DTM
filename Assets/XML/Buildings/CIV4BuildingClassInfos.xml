@@ -175,6 +175,18 @@
 			<VictoryThresholds/>
 		</BuildingClassInfo>
 		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_ARCOLOGY</Type>
+			<Description>TXT_KEY_BUILDING_ARCOLOGY</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_ARCOLOGY</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_LIGHTHOUSE</Type>
 			<Description>TXT_KEY_BUILDING_LIGHTHOUSE</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>

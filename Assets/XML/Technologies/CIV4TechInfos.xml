@@ -78,7 +78,7 @@
 		</TechInfo>
 	<TechInfo>
 			<Type>TECH_GENE_MANIPULATION</Type>
-			<Description>Gene Manipulation</Description>
+			<Description>Genetic Manipulation</Description>
 			<Civilopedia></Civilopedia>
 			<Help/>
 			<Strategy></Strategy>
@@ -269,7 +269,7 @@
 			</OrPreReqs>
 			<AndPreReqs>
 			</AndPreReqs>
-			<Quote>"When properly harnessed, enough sunlight falls on the earth in just one hour to meet world energy demands for a whole year." - From a report, on renewable energy</Quote>
+			<Quote>The two most abundant forms of power on earth are solar and wind, and they're getting cheaper and cheaper… - Ed Begley, Jr.</Quote>
 			<Sound></Sound>
 			<SoundMP></SoundMP>
 			<Button>,Art/Interface/buttons/TechTree/renewable_energy.dds</Button>
