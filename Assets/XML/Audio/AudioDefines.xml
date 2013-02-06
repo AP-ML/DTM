@@ -125,6 +125,62 @@
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
+				<SoundData>
+			<SoundID>SND_TECH_MP_GENETIC_MANIPULATION</SoundID>
+			<Filename>Sounds/Tech/TECH_MP_GENETIC_MANIPULATION</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>SND_TECH_GENETIC_MANIPULATION</SoundID>
+			<Filename>Sounds/Tech/Tech_GENETIC_MANIPULATION</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+				<SoundData>
+			<SoundID>SND_TECH_MP_RENEWABLE_ENERGY</SoundID>
+			<Filename>Sounds/Tech/TECH_MP_RENEWABLE_ENERGY</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>SND_TECH_RENEWABLE_ENERGY</SoundID>
+			<Filename>Sounds/Tech/Tech_RENEWABLE_ENERGY</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+				<SoundData>
+			<SoundID>SND_TECH_MP_HYDROPONICS</SoundID>
+			<Filename>Sounds/Tech/TECH_MP_HYDROPONICS</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>SND_TECH_HYDROPONICS</SoundID>
+			<Filename>Sounds/Tech/Tech_HYDROPONICS</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+				<SoundData>
+			<SoundID>SND_TECH_MP_AQUACULTURE</SoundID>
+			<Filename>Sounds/Tech/TECH_MP_AQUACULTURE</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>SND_TECH_AQUACULTURE</SoundID>
+			<Filename>Sounds/Tech/Tech_AQUACULTURE</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
 		<SoundData>
 			<SoundID>SND_ERROR</SoundID>
 			<Filename>Sounds/Error</Filename>

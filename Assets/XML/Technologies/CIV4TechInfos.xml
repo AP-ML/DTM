@@ -7,7 +7,7 @@
 <!-- Tech Infos -->
 <Civ4TechInfos xmlns="x-schema:CIV4TechnologiesSchema.xml">
 	<TechInfos>
-	<TechInfo>
+	    <TechInfo>
 			<Type>TECH_HYDROPONICS</Type>
 			<Description>Hydroponics</Description>
 			<Civilopedia>[TAB]Hydroponics is the science of growing vegetables in nutrient solutions rather than in soil. The earliest references to hydroponics date back to the seventeenth century, and while notable advances in research were seen over the following centuries, the first practical applications of hydroponics did not appear until the early twentieth century, and mass adoption didn't occur until the middle of the twenty-first century. There are two primary benefits to growing plants in nutrient solutions rather than in soil: the nutrient solution can be sterilized (unlike soil), greatly reducing the occurrence of disease and pests in the plants, and a much greater number of crops can be grown in a small area. [PARAGRAPH:2]The primary downside to this method of cultivation is that it requires a fair degree of technical know-how to install and maintain the complicated machines necessary to keep the "scum-ponds" healthy and productive. However, once education levels improved in rural populations across the world, this was no longer an impediment, and the practice has since spread rapidly, greatly increasing the world's food supply.</Civilopedia>
@@ -72,11 +72,11 @@
 			</OrPreReqs>
 			<AndPreReqs/>
 			<Quote>"All right. Maybe it DOES taste like wet cardboard - but it sure beats starving." [PARAGRAPH:1] - Dexter Ambrose, Agricultural Engineer</Quote>
-			<Sound></Sound>
-			<SoundMP></SoundMP>
+			<Sound>AS2D_TECH_HYDROPONICS</Sound>
+			<SoundMP>AS2D_TECH_MP_HYDROPONICS</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Ecology.dds,Art/Interface/Buttons/NextWar_Atlas.dds,8,3</Button>
 		</TechInfo>
-	<TechInfo>
+	    <TechInfo>
 			<Type>TECH_GENE_MANIPULATION</Type>
 			<Description>Genetic Manipulation</Description>
 			<Civilopedia></Civilopedia>
@@ -135,11 +135,11 @@
 			<AndPreReqs>
 			</AndPreReqs>
 			<Quote>"The advance of genetic engineering makes it quite conceivable that we will begin to design our own evolutionary progress." - Isaac Asimov</Quote>
-			<Sound></Sound>
-			<SoundMP></SoundMP>
+			<Sound>AS2D_TECH_GENETIC_MANIPULATION</Sound>
+			<SoundMP>AS2D_TECH_MP_GENETIC_MANIPULATION</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/gene_manipulation.dds</Button>
 		</TechInfo>
-	<TechInfo>
+	    <TechInfo>
 			<Type>TECH_AQUACULTURE</Type>
 			<Description>Aquaculture</Description>
 			<Civilopedia>[TAB]Aquaculture is the practice of cultivating the produce of water for consumption. Humans have been harvesting the bounty of the seas for all of history; however, as human population has grown exponentially, by the late twentieth century, much greater emphasis has been placed on so-called "sustainable" aquaculture.  Indeed the Treaty of Iceland, signed in 2033, mandated that, "No fish or mammal may be harvested from the ocean unless an equal or greater number of the same species are released into the wild at the same time." Unfortunately, with the collapse of the One World Government this treaty lost much of its efficacy, and the world's once-boundless supply of food is again under grave and imminent peril. [PARAGRAPH:2]Facing this dwindling supply of animal protein, aquaculture has focused upon the cultivation of oceanic vegetation like kelp and seaweed. Although plentiful, the resulting food has met with mixed reviews: while certain island and coastal cultures claim that these foods are delicacies, the rest of humanity appears to be in general agreement that they taste "like salty rubber, but not as good."</Civilopedia>
@@ -204,11 +204,11 @@
 			</OrPreReqs>
 			<AndPreReqs/>
 			<Quote>"Kelp - it's what's for breakfast!"[PARAGRAPH:1] - Advertisement for 'Kelp Krunchies' cereal </Quote>
-			<Sound></Sound>
-			<SoundMP></SoundMP>
+			<Sound>AS2D_TECH_AQUACULTURE</Sound>
+			<SoundMP>AS2D_TECH_MP_AQUACULTURE</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Ecology.dds,Art/Interface/Buttons/NextWar_Atlas.dds,2,3</Button>
 		</TechInfo>
-	<TechInfo>
+	    <TechInfo>
 			<Type>TECH_RENEWABLE_ENERGY</Type>
 			<Description>Renewable Energy</Description>
 			<Civilopedia>Renewable energy is energy that comes from natural resources such as sunlight, wind, rain, tides, waves and geothermal heat.</Civilopedia>
@@ -270,10 +270,10 @@
 			<AndPreReqs>
 			</AndPreReqs>
 			<Quote>The two most abundant forms of power on earth are solar and wind, and they're getting cheaper and cheaper… - Ed Begley, Jr.</Quote>
-			<Sound></Sound>
-			<SoundMP></SoundMP>
+			<Sound>AS2D_TECH_RENEWABLE_ENERGY</Sound>
+			<SoundMP>AS2D_TECH_MP_RENEWABLE_ENERGY</SoundMP>
 			<Button>,Art/Interface/buttons/TechTree/renewable_energy.dds</Button>
-	</TechInfo>
+	    </TechInfo>
 	    <TechInfo>
 			<Type>TECH_CONTRACT_KILLING</Type>
 			<Description>Contract Killing</Description>
