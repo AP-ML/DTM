@@ -710,7 +710,7 @@
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Future_Workshop/Advanced_Factories.nif</Attribute>
 			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>   
-			<Scale>0.5</Scale>
+			<Scale>0.4</Scale>
 		</ArtRef>
 		
 		<!-- villages -->

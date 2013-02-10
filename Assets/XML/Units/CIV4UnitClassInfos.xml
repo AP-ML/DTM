@@ -357,6 +357,15 @@
 			<iInstanceCostModifier>0</iInstanceCostModifier>
 			<DefaultUnit>UNIT_MOBILE_SAM</DefaultUnit>
 		</UnitClassInfo>
+			<UnitClassInfo>
+			<Type>UNITCLASS_POLICE</Type>
+			<Description>Police Squad</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_POLICE</DefaultUnit>
+		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_MARINE</Type>
 			<Description>TXT_KEY_UNIT_MARINE</Description>
