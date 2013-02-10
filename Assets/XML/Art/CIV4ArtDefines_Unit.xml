@@ -7,6 +7,30 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<UnitArtInfos>
 	<UnitArtInfo>
+			<Type>ART_DEF_UNIT_CLONEWORKER</Type>
+			<Button>,Art/Interface/Buttons/Units/Worker.dds,Art/Interface/Buttons/NextWar_Atlas.dds,1,1</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/NextWar_CloneWorker/NextWar_CloneWorker.nif</NIF>
+			<KFM>Art/Units/NextWar_CloneWorker/NextWar_CloneWorker.kfm</KFM>
+			<SHADERNIF>Art/Units/NextWar_CloneWorker/NextWar_CloneWorker_FX.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+	<UnitArtInfo>
             <Type>ART_DEF_UNIT_MASKED_MERCENARY</Type>
             <Button>Art/Interface/Buttons/Units/Masked_Mercenary.dds</Button>
             <fScale>0.46</fScale>

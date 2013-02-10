@@ -701,6 +701,18 @@
 			<Scale>0.8</Scale>
 		</ArtRef>
 		
+			<!-- future workshop -->
+		<ArtRef Name="goal:IMPROVEMENT_WORKSHOP">
+			<Attribute Class="Improvement">IMPROVEMENT_WORKSHOP</Attribute>
+			<Attribute Class="Era">ERA_FUTURE</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Future_Workshop/Advanced_Factories.nif</Attribute>
+			<Attribute Class="Scalar">KFM:Art/Structures/Improvements/Workshop/Workshop.kfm</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>   
+			<Scale>0.5</Scale>
+		</ArtRef>
+		
 		<!-- villages -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT</Attribute>
@@ -3083,10 +3095,22 @@
 		</ArtRef>
 		<ArtRef Name="goal:IMPROVEMENT_FORT">
 			<Attribute Class="Improvement">IMPROVEMENT_FORT</Attribute>
-			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN,ERA_FUTURE</Attribute>
+			<Attribute Class="Era">ERA_INDUSTRIAL,ERA_MODERN</Attribute>
 			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
 			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Fort/eu_mod_fort.nif</Attribute>
+			<Attribute Class="Scalar">bCutTrees:1</Attribute>
+			<Attribute Class="Scalar">fCenterCut:70</Attribute>
+			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>
+			<Attribute Class="Scalar">bZMode_Ground:1</Attribute>
+			<Attribute Class="Scalar">szForceContourGeometry:shadow</Attribute>
+		</ArtRef>
+		<ArtRef Name="goal:IMPROVEMENT_FORT">
+			<Attribute Class="Improvement">IMPROVEMENT_FORT</Attribute>
+			<Attribute Class="Era">ERA_FUTURE</Attribute>
+			<Attribute Class="Scalar">bIsPartOfImprovement:1</Attribute>
+			<Attribute Class="Scalar">bApplyRotation:1</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Improvements/Future_Fort/fort.nif</Attribute>
 			<Attribute Class="Scalar">bCutTrees:1</Attribute>
 			<Attribute Class="Scalar">fCenterCut:70</Attribute>
 			<Attribute Class="Scalar">fTwist:-0.7853981633</Attribute>

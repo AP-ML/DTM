@@ -52,6 +52,15 @@
 			<DefaultUnit>UNIT_SETTLER</DefaultUnit>
 		</UnitClassInfo>
 		<UnitClassInfo>
+			<Type>UNITCLASS_CLONES</Type>
+			<Description>Clones</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_CLONES</DefaultUnit>
+		</UnitClassInfo>
+		<UnitClassInfo>
 			<Type>UNITCLASS_WORKER</Type>
 			<Description>TXT_KEY_UNIT_WORKER</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>

@@ -7,6 +7,16 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
 		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_CLONING_FACTORY</Type>
+			<LSystem>LSYSTEM_3x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>0.9</fScale>
+			<fInterfaceScale>0.45</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Advanced_Factories/Advanced_Factories.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/Buildings/Factory.dds,Art/Interface/Buttons/NextWar_Atlas.dds,6,4</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_BIOFUEL_REFINERY</Type>
 			<LSystem>LSYSTEM_3x3</LSystem>
 			<bAnimated>0</bAnimated>
