@@ -1,37 +1,34 @@
 A brief list of current projects for the Dream Team Mod:
 
 - Add an Improved Global warming System - Anquietas [In Progress]
+- New Civics - Anquietas [In Progress]
 - Individual Civ - Anquietas [Porting]
-- Individual Civ - Pretzle [In Progress - Graphicking]
-- Add a Video Games Studio Wonder - Pretzle [In Progress - Graphicking]
-- Add new corporations - Pretzle [Planning, Discussion]
+- Opium - Pretzle [Not Started]
 - Add new Weapons of Mass Destruction, i.e Biological, Chemical, Nuclear and Conventional, with interchangable warheads loaded onto a general missile base. - thelastryan [Not Started]
-- Add new leader traits so that new leaders can be added - Pretzle [Tentatively complete]
+- Individual Civ - Pretzle [Tentatively Complete, Requires Graphicking]
+- Add a Video Games Studio Wonder - Pretzle [Tentatively Complete, Requires Graphicking]
+- Add new leader traits so that new leaders can be added - Pretzle [Tentatively Complete]
 
 ---------------Potential projects--------------------
 
 - Fusion reactor (great engineer?) 
-- Collect traits from RoM/C2C
-- Bug?
-- New resources maybe the lost ones? And ROM ones
+- New resources (Unimplemented vanilla ones? ROM ones?)
 - Maybe resources for Bio/Chem weapons
 - Improve nukes system, delayed launch? 
 - Stockpile nukes causes a relation hit
 - Spy satellites/maybe needs maintaining/shot down (communication?) 
-- New roads? (jump lanes) 
-- Stop ai's using unique civs
-- War justification mod? 
+- New roads types (Jump Lanes? MagLev rails?) 
+- War justification mod
 - Manly trees event
-- Terraforming with workers
 - Domed cities
 - Late era health problems (obesity) 
-- More corporations/Rename existing into parodies (Kentucky fried mcburger king/20th century box/B.O/Google parody(impreggle)/Boxconn/Schnapple/Folks wagon/fagex/smokacola/Ball mart
-- New theaters (VR)
-- New civ audio files (oh no the Spanish are coming!/Waar is De bonk?/Omlette du fromaje)
-- L Ron Hubbard great profit
-- Channel tunnel (maybe limited up to 5 tiles away) 
+- More corporations/Rename existing into parodies (Kentucky Fried McBurger King/20th Century Box/B.O/Google Parody (Impreggle)/Boxconn/Schnapple/Folks Wagon/Fagex/Smokacola/Ball Mart)
+- VR theaters
+- New civ audio files (Oh no, the Spanish are coming!/Waar is de bank?/Omlette du fromage)
+- L Ron Hubbard, Great Profit
+- Underground Rail built by workboats
 - Great citizens 
 - More air units 
 - Air refueling system
-- Drone aircraft? 
+- Drone aircraft
 - Custom dream team map generation script
