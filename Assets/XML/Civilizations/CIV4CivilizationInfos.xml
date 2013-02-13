@@ -4046,7 +4046,7 @@
 			<ShortDescription>Valyria</ShortDescription>
 			<Adjective>Valyrian</Adjective>
 			<Civilopedia>[PlaceHolder]</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_DARK_GRAY</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_VALYRIA</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_VALYRIA</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>

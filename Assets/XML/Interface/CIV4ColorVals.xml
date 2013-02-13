@@ -909,5 +909,19 @@
 			<fBlue>0.392</fBlue>
 			<fAlpha>1.00</fAlpha>
 		</ColorVal>
+		<ColorVal>
+			<Type>COLOR_PLAYER_V_RED</Type>
+			<fRed>0.31</fRed>
+			<fGreen>0.00</fGreen>
+			<fBlue>0.00</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+		<ColorVal>
+			<Type>COLOR_PLAYER_V_RED_TEXT</Type>
+			<fRed>0.56</fRed>
+			<fGreen>0.00</fGreen>
+			<fBlue>0.00</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
 	</ColorVals>
 </Civ4ColorVals>
