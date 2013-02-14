@@ -513,4 +513,28 @@
 		<Italian>Timo</Italian>
 		<Spanish>Tomillo</Spanish>
 	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BROTHEL</Tag>
+		<English>Brothel</English>
+		<French>
+			<Text>Maison de Prostitution</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Bordell</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Bordello</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Burdel</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
 </Civ4GameText>

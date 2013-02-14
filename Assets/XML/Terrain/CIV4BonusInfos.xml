@@ -66,19 +66,23 @@
 			<FeatureTerrainBooleans/>
 		</BonusInfo>
 		<BonusInfo>
-			<Type>BONUS_AUTOMOBILE</Type>
-			<Description>Automobile</Description>
-			<Civilopedia>An automobile, autocar, motor car or car is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor. Most definitions of the term specify that automobiles are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods.</Civilopedia>
+			<Type>BONUS_BIOFUEL</Type>
+			<Description>Biofuel</Description>
+			<Civilopedia></Civilopedia>
 			<BonusClassType>BONUSCLASS_GENERAL</BonusClassType>
-			<ArtDefineTag>ART_DEF_BONUS_AUTOMOBILE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BONUS_BIOFUEL</ArtDefineTag>
 			<TechReveal>NONE</TechReveal>
 			<TechCityTrade>NONE</TechCityTrade>
 			<TechObsolete>NONE</TechObsolete>
-			<YieldChanges/>
+				<YieldChanges>
+				<iYieldChange>0</iYieldChange>
+				<iYieldChange>1</iYieldChange>
+				<iYieldChange>0</iYieldChange>
+			</YieldChanges>
 			<iAITradeModifier>0</iAITradeModifier>
 			<iAIObjective>0</iAIObjective>
-			<iHealth>0</iHealth>
-			<iHappiness>1</iHappiness>
+			<iHealth>1</iHealth>
+			<iHappiness>0</iHappiness>
 			<iPlacementOrder>-1</iPlacementOrder>
 			<iConstAppearance>0</iConstAppearance>
 			<iMinAreaSize>-1</iMinAreaSize>
@@ -1546,6 +1550,65 @@
 			</FeatureTerrainBooleans>
 		</BonusInfo>
 		<BonusInfo>
+			<Type>BONUS_OPIUM</Type>
+			<Description>TXT_KEY_BONUS_OPIUM</Description>
+			<Civilopedia>TXT_KEY_BONUS_OPIUM_PEDIA</Civilopedia>
+			<BonusClassType>BONUSCLASS_GENERAL</BonusClassType>
+			<ArtDefineTag>ART_DEF_BONUS_INCENSE</ArtDefineTag>
+			<TechReveal>NONE</TechReveal>
+			<TechCityTrade>TECH_CALENDAR</TechCityTrade>
+			<TechObsolete>NONE</TechObsolete>
+			<YieldChanges>
+				<iYieldChange>0</iYieldChange>
+				<iYieldChange>0</iYieldChange>
+				<iYieldChange>1</iYieldChange>
+			</YieldChanges>
+			<iAITradeModifier>0</iAITradeModifier>
+			<iAIObjective>0</iAIObjective>
+			<iHealth>-1</iHealth>
+			<iHappiness>1</iHappiness>
+			<iPlacementOrder>5</iPlacementOrder>
+			<iConstAppearance>50</iConstAppearance>
+			<iMinAreaSize>3</iMinAreaSize>
+			<iMinLatitude>0</iMinLatitude>
+			<iMaxLatitude>60</iMaxLatitude>
+			<Rands>
+				<iRandApp1>25</iRandApp1>
+				<iRandApp2>25</iRandApp2>
+				<iRandApp3>0</iRandApp3>
+				<iRandApp4>0</iRandApp4>
+			</Rands>
+			<iPlayer>100</iPlayer>
+			<iTilesPer>0</iTilesPer>
+			<iMinLandPercent>0</iMinLandPercent>
+			<iUnique>0</iUnique>
+			<iGroupRange>1</iGroupRange>
+			<iGroupRand>50</iGroupRand>
+			<bArea>1</bArea>
+			<bHills>0</bHills>
+			<bFlatlands>1</bFlatlands>
+			<bNoRiverSide>0</bNoRiverSide>
+			<bNormalize>1</bNormalize>
+			<TerrainBooleans>
+				<TerrainBoolean>
+					<TerrainType>TERRAIN_PLAINS</TerrainType>
+					<bTerrain>1</bTerrain>
+				</TerrainBoolean>
+			</TerrainBooleans>
+			<FeatureBooleans>
+				<FeatureBoolean>
+					<FeatureType>FEATURE_FOREST</FeatureType>
+					<bFeature>1</bFeature>
+				</FeatureBoolean>
+			</FeatureBooleans>
+			<FeatureTerrainBooleans>
+				<FeatureTerrainBoolean>
+					<TerrainType>TERRAIN_GRASS</TerrainType>
+					<bFeatureTerrain>1</bFeatureTerrain>
+				</FeatureTerrainBoolean>
+			</FeatureTerrainBooleans>
+		</BonusInfo>
+		<BonusInfo>
 			<Type>BONUS_RUM</Type>
 			<Description>Rum</Description>
 			<Civilopedia>Rum is a distilled alcoholic beverage made from sugarcane byproducts such as molasses, or directly from sugarcane juice, by a process of fermentation and distillation. The distillate, a clear liquid, is then usually aged in oak barrels. Rum can be referred to in Spanish by descriptors such as ron viejo ("old rum") and ron añejo ("aged rum").</Civilopedia>
@@ -2073,23 +2136,19 @@
 			<FeatureTerrainBooleans/>
 		</BonusInfo>
 		<BonusInfo>
-			<Type>BONUS_BIOFUEL</Type>
-			<Description>Biofuel</Description>
-			<Civilopedia></Civilopedia>
+			<Type>BONUS_AUTOMOBILE</Type>
+			<Description>Automobile</Description>
+			<Civilopedia>An automobile, autocar, motor car or car is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor. Most definitions of the term specify that automobiles are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods.</Civilopedia>
 			<BonusClassType>BONUSCLASS_GENERAL</BonusClassType>
-			<ArtDefineTag>ART_DEF_BONUS_BIOFUEL</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BONUS_AUTOMOBILE</ArtDefineTag>
 			<TechReveal>NONE</TechReveal>
 			<TechCityTrade>NONE</TechCityTrade>
 			<TechObsolete>NONE</TechObsolete>
-				<YieldChanges>
-				<iYieldChange>0</iYieldChange>
-				<iYieldChange>1</iYieldChange>
-				<iYieldChange>0</iYieldChange>
-			</YieldChanges>
+			<YieldChanges/>
 			<iAITradeModifier>0</iAITradeModifier>
 			<iAIObjective>0</iAIObjective>
-			<iHealth>1</iHealth>
-			<iHappiness>0</iHappiness>
+			<iHealth>0</iHealth>
+			<iHappiness>1</iHappiness>
 			<iPlacementOrder>-1</iPlacementOrder>
 			<iConstAppearance>0</iConstAppearance>
 			<iMinAreaSize>-1</iMinAreaSize>

@@ -4590,6 +4590,30 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_BONUS_OPIUM</Tag>
+		<English>Opium</English>
+		<French>
+			<Text>Opium</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Opium</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Oppio</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Opio</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_BONUS_SILK</Tag>
 		<English>Silk</English>
 		<French>

@@ -1860,6 +1860,14 @@
 		<Spanish>Las [COLOR_BUILDING_TEXT]Delegaciones[COLOR_REVERT] reducen los costes de mantenimiento de la ciudad y permiten construir la maravilla nacional de la [COLOR_BUILDING_TEXT]Ciudad Prohibida[COLOR_REVERT]. Tambi&#233;n ayudan a gestionar el coste que supone controlar un gran imperio. </Spanish>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BROTHEL_STRATEGY</Tag>
+		<English>[COLOR_BUILDING_TEXT]Brothels[COLOR_REVERT]</English>
+		<French>Null</French>
+		<German>Null</German>
+		<Italian>Null</Italian>
+		<Spanish>Null</Spanish>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_BUILDING_JAIL_STRATEGY</Tag>
 		<English>[COLOR_BUILDING_TEXT]Jails[COLOR_REVERT] lower a city's [COLOR_HIGHLIGHT_TEXT]War Weariness[COLOR_REVERT]. Build them if you are involved in a long war and your citizens are starting to complain.</English>
 		<French>Les [COLOR_BUILDING_TEXT]prisons[COLOR_REVERT] r&#233;duisent le [COLOR_HIGHLIGHT_TEXT]m&#233;contentement d&#251; &#224; la guerre[COLOR_REVERT] dans les villes. Construisez-les si vous &#234;tes en guerre depuis longtemps et si vos citoyens commencent &#224; se plaindre.</French>
