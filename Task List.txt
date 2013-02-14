@@ -3,10 +3,12 @@ A brief list of current projects for the Dream Team Mod:
 - Add an Improved Global warming System - Anquietas [In Progress]
 - New Civics - Anquietas [In Progress]
 - Individual Civ - Anquietas [Porting]
-- Opium - Pretzle [Not Started]
+- Boozahol - Pretzle [Not Started]
 - Add new Weapons of Mass Destruction, i.e Biological, Chemical, Nuclear and Conventional, with interchangable warheads loaded onto a general missile base. - thelastryan [Not Started]
-- Individual Civ - Pretzle [Tentatively Complete, Requires Graphicking]
-- Add a Video Games Studio Wonder - Pretzle [Tentatively Complete, Requires Graphicking]
+
+- Individual Civ - Pretzle [Tentatively Complete, Requires Unique Graphics]
+- Add a Video Games Studio Wonder - Pretzle [Tentatively Complete, Requires Unique Graphics]
+- Opium and Brothels - Pretzle [Tentatively Complete, Requires Unique Graphics]
 - Add new leader traits so that new leaders can be added - Pretzle [Tentatively Complete]
 
 ---------------Potential projects--------------------
