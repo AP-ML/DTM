@@ -698,7 +698,7 @@
 			<Description>Censorship</Description>
 			<Civilopedia>[PLACEHOLDER]</Civilopedia>
 			<Strategy>TXT_KEY_CIVIC_BARBARISM_STRATEGY</Strategy>
-			<Button>NONE</Button>
+			<Button>Art/Interface/Buttons/Civics/Censorship.dds</Button>
 			<TechPrereq>TECH_FASCISM</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
 			<Upkeep>UPKEEP_HIGH</Upkeep>
@@ -728,7 +728,7 @@
 			<iExpInBorderModifier>0</iExpInBorderModifier>
 			<bBuildingOnlyHealthy>0</bBuildingOnlyHealthy>
 			<iLargestCityHappiness>0</iLargestCityHappiness>
-			<iWarWearinessModifier>0</iWarWearinessModifier>
+			<iWarWearinessModifier>-25</iWarWearinessModifier>
 			<iFreeSpecialist>0</iFreeSpecialist>
 			<iTradeRoutes>0</iTradeRoutes>
 			<bNoForeignTrade>0</bNoForeignTrade>
@@ -745,7 +745,12 @@
 			<YieldModifiers/>
 			<CapitalYieldModifiers/>
 			<TradeYieldModifiers/>
-			<CommerceModifiers/>
+			<CommerceModifiers>
+				<iCommerce>0</iCommerce>
+				<iCommerce>0</iCommerce>
+				<iCommerce>0</iCommerce>
+				<iCommerce>100</iCommerce>  
+			</CommerceModifiers>
 			<CapitalCommerceModifiers/>
 			<SpecialistExtraCommerces/>
 			<Hurrys/>
@@ -1211,7 +1216,7 @@
 			<Description>Eugenics</Description>
 			<Civilopedia>TXT_KEY_CIVIC_TRIBALISM_PEDIA</Civilopedia>
 			<Strategy>[PLACEHOLDER]</Strategy>
-			<Button>Art\Interface\buttons\Eugenics.dds</Button>
+			<Button>Art\Interface\buttons\civics\Eugenics.dds</Button>
 			<TechPrereq>TECH_GENETICS</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
 			<Upkeep>UPKEEP_LOW</Upkeep>
@@ -1989,7 +1994,7 @@
 			<Description>Atheism</Description>
 			<Civilopedia>[PLACEHOLDER]</Civilopedia>
 			<Strategy>[PLACEHOLDER]</Strategy>
-			<Button>NONE</Button>
+			<Button>,Art/Interface/Buttons/Civics/Atheist2.dds,Art/Interface/Buttons/RoM_Civic_Atlas.dds,2,1</Button>
 			<TechPrereq>TECH_SCIENTIFIC_METHOD</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
 			<Upkeep>UPKEEP_HIGH</Upkeep>
@@ -2107,8 +2112,8 @@
 			<TradeYieldModifiers/>
 			<CommerceModifiers>
 				<iCommerce>0</iCommerce>
-				<iCommerce>10</iCommerce>
 				<iCommerce>0</iCommerce>
+				<iCommerce>10</iCommerce>
 			</CommerceModifiers>
 			<CapitalCommerceModifiers/>
 			<SpecialistExtraCommerces/>

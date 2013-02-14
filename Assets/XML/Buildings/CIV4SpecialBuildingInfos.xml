@@ -12,7 +12,7 @@
 			<ObsoleteTech>NONE</ObsoleteTech>
 			<TechPrereq>TECH_GENETICS</TechPrereq>
 			<TechPrereqAnyone>NONE</TechPrereqAnyone>
-			<bValid>0</bValid>
+			<bValid>1</bValid>
 			<ProductionTraits/>
 			<Button>,Art/Interface/Buttons/Buildings/genetic_engineering666,Art/Interface/Buttons/NextWar_Atlas.dds,5,4</Button>
 		</SpecialBuildingInfo>
