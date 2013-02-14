@@ -7,7 +7,7 @@
 <!-- Tech Infos -->
 <Civ4TechInfos xmlns="x-schema:CIV4TechnologiesSchema.xml">
 	<TechInfos>
-	<TechInfo>
+	    <TechInfo>
 			<Type>TECH_CLONING</Type>
 			<Description>Cloning</Description>
 			<Civilopedia>TXT_KEY_TECH_CLONING_PEDIA</Civilopedia>
@@ -4674,7 +4674,7 @@
 			<bIrrigation>0</bIrrigation>
 			<bIgnoreIrrigation>0</bIgnoreIrrigation>
 			<bWaterWork>0</bWaterWork>
-			<iGridX>20</iGridX>
+			<iGridX>18</iGridX>
 			<iGridY>12</iGridY>
 			<DomainExtraMoves/>
 			<CommerceFlexible/>
@@ -4692,9 +4692,10 @@
 			</Flavors>
 			<OrPreReqs>
 				<PrereqTech>TECH_COMPUTERS</PrereqTech>
-				<PrereqTech>TECH_LASER</PrereqTech>
 			</OrPreReqs>
-			<AndPreReqs/>
+			<AndPreReqs>
+				<PrereqTech>TECH_LASER</PrereqTech>
+			</AndPreReqs>
 			<Quote>TXT_KEY_TECH_FIBER_OPTICS_QUOTE</Quote>
 			<Sound>AS2D_TECH_FIBER_OPTICS</Sound>
 			<SoundMP>AS2D_TECH_MP_FIBER_OPTICS</SoundMP>
