@@ -558,6 +558,56 @@ class CvEventManager:
 		'Project Completed'
 		pCity, iProjectType = argsList
 		game = gc.getGame()
+
+## Spanish Inquisition Start ##
+
+		iPlayer = pCity.getOwner()
+		pPlayer = gc.getPlayer(iPlayer)
+		pPID = pPlayer.getID()
+		pTID = pPlayer.getTeam()
+		iX = pCity.getX()
+		iY = pCity.getY()
+
+		if iProjectType == gc.getInfoTypeForString('PROJECT_SPANISH_INQUISITION'):
+
+			for pyCity in PyPlayer(iPlayer).getCityList():
+				pCity2 = pyCity.GetCy()
+				StateBelief = pPlayer.getStateReligion()
+				for iTarget in range(gc.getNumReligionInfos()):
+
+## NOTE: To allow it to remove Holy Cities remove "and pCity2.isHolyCityByType(iTarget) == False)" from the following line: ##
+
+					if (StateBelief != iTarget and pCity2.isHasReligion(iTarget) and pCity2.isHolyCityByType(iTarget) == False):
+						pCity2.setHasReligion(iTarget, False, True, True)
+
+## NOTE: To prevent it from removing buildings comment out or delete the following lines: ##
+
+						for i in range(gc.getNumBuildingInfos()):
+							if gc.getBuildingInfo(i).getPrereqReligion() == iTarget:
+								pCity2.setNumRealBuilding(i, 0)
+
+			CyInterface().addMessage(pPID,false,15,CyTranslator().getText("TXT_KEY_SPANISH_INQUISITION_PYTHON",()),'',0,'Art/Inquisition.dds',ColorTypes(44), iX, iY, True,True)
+
+		if iProjectType == gc.getInfoTypeForString('PROJECT_SPANISH_INQUISITION'):
+
+			pPlayer = gc.getPlayer(pCity.plot().getOwner())
+
+			for iLoopPlayer in range(gc.getMAX_CIV_PLAYERS()):
+				loopPlayer = gc.getPlayer(iLoopPlayer)
+
+				if loopPlayer.isAlive() and loopPlayer.getStateReligion() == pPlayer.getStateReligion():
+					loopPlayer.AI_changeAttitudeExtra(iPlayer, +3)
+					pPlayer.AI_changeAttitudeExtra(iLoopPlayer, +3)
+
+				if loopPlayer.isAlive() and loopPlayer.getStateReligion() != pPlayer.getStateReligion():
+					loopPlayer.AI_changeAttitudeExtra(iPlayer, -1)
+					pPlayer.AI_changeAttitudeExtra(iLoopPlayer, -1)
+
+			DeathEffect = CvUtil.findInfoTypeNum( gc.getEffectInfo, gc.getNumEffectInfos( ), "EFFECT_GODS_PLAGUE" )
+			CyEngine( ).triggerEffect( DeathEffect, gc.getMap( ).plot( pCity.getX() + 0, pCity.getY() + 0 ).getPoint( ) )
+
+## Spanish Inquisition End ##
+
 		if ((not gc.getGame().isNetworkMultiPlayer()) and (pCity.getOwner() == gc.getGame().getActivePlayer())):
 			popupInfo = CyPopupInfo()
 			popupInfo.setButtonPopupType(ButtonPopupTypes.BUTTONPOPUP_PYTHON_SCREEN)

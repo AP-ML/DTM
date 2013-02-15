@@ -14975,7 +14975,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_BROTHEL_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_BROTHEL_STRATEGY</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_ROMAN_FORUM</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_BROTHEL</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
