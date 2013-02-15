@@ -6,6 +6,12 @@
 <!-- Civilization art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<CivilizationArtInfos>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_DEADMEN</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/DeadmenEmpire.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Dot.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
 	<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_ARROWPEAN</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/ArrowpeanEmpire.dds</Button>

@@ -7,6 +7,13 @@
 <AudioDefines xmlns="x-schema:AudioDefinesSchema.xml">
 	<SoundDatas>
 	<SoundData>
+			<SoundID>DIPLO_DEADMEN</SoundID>
+			<Filename>Sounds/Diplomacy/Deadmen_All_Eras</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+	<SoundData>
 			<SoundID>DIPLO_PALM_LATE</SoundID>
 			<Filename>Sounds/Diplomacy/Palm_Late</Filename>
 			<LoadType>STREAMED</LoadType>

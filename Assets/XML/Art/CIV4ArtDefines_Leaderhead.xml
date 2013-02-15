@@ -7,6 +7,14 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<LeaderheadArtInfos>
 	<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_JOHNDEE</Type>
+			<Button>,Art/interface/LeaderHeads/JohnDeeButton.dds</Button>
+			<NIF>art/interface/LeaderHeads/DrJohnDee.dds</NIF>
+			<KFM></KFM>
+			<NoShaderNIF></NoShaderNIF>
+			<BackgroundKFM></BackgroundKFM>
+	</LeaderheadArtInfo>
+	<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_ARCHERKO</Type>
 			<Button>,Art/interface/buttons/Civilizations/ArrowpeanEmpire.dds</Button>
 			<NIF>art/interface/LeaderHeads/Beowulf/beowulf.nif</NIF>
