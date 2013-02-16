@@ -903,8 +903,8 @@
 			<Invisible>NONE</Invisible>
 			<SeeInvisible>NONE</SeeInvisible>
 			<Description>Clones</Description>
-			<Civilopedia>TXT_KEY_UNIT_CLONES_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_UNIT_CLONES_STRATEGY</Strategy>
+			<Civilopedia>[TAB]While animal cloning has been around for decades, for many years all attempts to clone Humans were unsuccessful. Technological advances eventually allowed scientists to "grow" Human clones; however, while physically similar to "natural" Humans, these unfortunate creatures seem incapable of developing any higher mental functions. The clones' organs and limbs could be harvested for replacement parts, but the clones themselves were totally useless. Until recently, that is.[PARAGRAPH:1]Recent advancements in medicine and bioengineering have allowed Human clones to be "jacked" into fairly sophisticated computer networks able to direct them to perform simple tasks. Clone laborers are now deployed worldwide, building roads, digging trenches, plowing fields, and so forth. While the initial outlay for the zombie-like workers is high, it's not actually much higher than the cost of feeding, clothing and educating a Human worker for some eighteen years before you can put him to work. And when a clone wears out, you don't have to provide for its retirement: instead you can sell the creature to an organ bank for "decommissioning."</Civilopedia>
+			<Strategy>Like [COLOR_UNIT_TEXT]Workers[COLOR_REVERT], [COLOR_UNIT_TEXT]Clones[COLOR_REVERT] improve the land around your cities and build roads that help establish trade routes. (They are faster than [COLOR_UNIT_TEXT]Workers[COLOR_REVERT]).</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
 			<bAnimal>0</bAnimal>
 			<bFood>1</bFood>

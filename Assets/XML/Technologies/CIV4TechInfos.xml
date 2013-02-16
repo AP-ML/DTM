@@ -10,9 +10,9 @@
 	    <TechInfo>
 			<Type>TECH_CLONING</Type>
 			<Description>Cloning</Description>
-			<Civilopedia>TXT_KEY_TECH_CLONING_PEDIA</Civilopedia>
+			<Civilopedia>[TAB]While the first animals were successfully cloned in the late twentieth century, human cloning was not perfected until decades later. And then only if one uses the term "perfected" in the loosest sense. After much research it became possible to create a physical clone of a human being, identical to the original model down to the smallest detail; however, the clones remain frustratingly incapable of rational thought. All attempts to educate these creatures have failed miserably, and the "smartest" clone remains little more than a drooling moron whose needs must be constantly attended to. So while clones remain excellent organ and limb donors, up until recently little else could be done with them. [PARAGRAPH:2]Recent scientific advances have allowed clones to be equipped with sophisticated computer systems capable of controlling the clones' movement. While the computers are not yet sophisticated enough to allow for the creation of "clone warriors," the zombie-like beings are capable of performing simple, repetitive actions like building roads, tilling farmland, and so forth, doing so more efficiently than purely human workers.</Civilopedia>
 			<Help/>
-			<Strategy>TXT_KEY_TECH_CLONING_STRATEGY</Strategy>
+			<Strategy>[COLOR_TECH_TEXT]Cloning[COLOR_REVERT] permits construction of [COLOR_BUILDING_TEXT]Clone Factories[COLOR_REVERT] and then [COLOR_UNIT_TEXT]Clones[COLOR_REVERT].</Strategy>
 			<Advisor>ADVISOR_SCIENCE</Advisor>
 			<iAIWeight>0</iAIWeight>
 			<iAITradeModifier>10</iAITradeModifier>
@@ -69,7 +69,7 @@
 			<AndPreReqs>
 				<PrereqTech>TECH_HYDROPONICS</PrereqTech>
 			</AndPreReqs>
-			<Quote>TXT_KEY_TECH_CLONING_QUOTE</Quote>
+			<Quote>"All in all you're just another brick in the wall." - Pink Floyd, 'The Wall'</Quote>
 			<Sound></Sound>
 			<SoundMP></SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Robotics.dds,Art/Interface/Buttons/NextWar_Atlas.dds,5,3</Button>

@@ -353,8 +353,8 @@
 			<CivicOptionType>CIVICOPTION_GOVERNMENT</CivicOptionType>
 			<Type>CIVIC_TECHNOCRACY</Type>
 			<Description>Technocracy</Description>
-			<Civilopedia>[PLACEHOLDER]</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_DESPOTISM_STRATEGY</Strategy>
+			<Civilopedia>[TAB]Technocracy is a form of government in which engineers, scientists, and other technical experts are in control of decision making in their respective fields. Technocracy is a governmental or organizational system where decision makers are selected based upon how highly knowledgeable they are, rather than how much political capital they hold. Technocrats are individuals with technical training and occupations who perceive many important societal problems as being solvable, often while proposing technology-focused solutions.</Civilopedia>
+			<Strategy>Increased scientific research in all cities</Strategy>
 			<Button>,Art/Interface/Buttons/Units/Transport.dds,Art/Interface/Buttons/FinalFrontier2_Atlas.dds,4,5</Button>
 			<TechPrereq>TECH_ROBOTICS</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -696,8 +696,8 @@
 			<CivicOptionType>CIVICOPTION_LEGAL</CivicOptionType>
 			<Type>CIVIC_CENSORSHIP</Type>
 			<Description>Censorship</Description>
-			<Civilopedia>[PLACEHOLDER]</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_BARBARISM_STRATEGY</Strategy>
+			<Civilopedia>[TAB]Censorship is the suppression of speech or other public communication which may be considered objectionable, harmful, sensitive, or inconvenient as determined by a government, media outlet, or other controlling body. It can be done by governments and private organizations or by individuals who engage in self-censorship. It occurs in a variety of different contexts including speech, books, music, films, and other arts, the press, radio, television, and the Internet.</Civilopedia>
+			<Strategy>Increased espionage output; less war weariness</Strategy>
 			<Button>Art/Interface/Buttons/Civics/Censorship.dds</Button>
 			<TechPrereq>TECH_FASCISM</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -1214,8 +1214,8 @@
 			<CivicOptionType>CIVICOPTION_LABOR</CivicOptionType>
 			<Type>CIVIC_EUGENICS</Type>
 			<Description>Eugenics</Description>
-			<Civilopedia>TXT_KEY_CIVIC_TRIBALISM_PEDIA</Civilopedia>
-			<Strategy>[PLACEHOLDER]</Strategy>
+			<Civilopedia>[TAB]Eugenics is the applied science of the bio-social movement which advocates practices that improve the genetic composition of a population, usually a human population. It is a social philosophy advocating the improvement of human hereditary traits through the promotion of higher reproduction of more desired people and traits, and reduced reproduction of less desired people and traits.</Civilopedia>
+			<Strategy>Can build biological warfare missiles without biological warfare lab; increased great person birth rate</Strategy>
 			<Button>Art\Interface\buttons\civics\Eugenics.dds</Button>
 			<TechPrereq>TECH_GENETICS</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -1349,8 +1349,8 @@
 			<CivicOptionType>CIVICOPTION_ECONOMY</CivicOptionType>
 			<Type>CIVIC_BARTER</Type>
 			<Description>Barter Economy</Description>
-			<Civilopedia>[PLACEHOLDER]</Civilopedia>
-			<Strategy>[PLACEHOLDER]</Strategy>
+			<Civilopedia>[TAB]Barter is a system of exchange by which goods or services are directly exchanged for other goods or services without using a medium of exchange, such as money.</Civilopedia>
+			<Strategy>Extra food, production and commerce from trade routes</Strategy>
 			<Help/>
 			<Button>,Art/Interface/Buttons/Civics/Environmentalism.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,5,12</Button>
 			<TechPrereq>TECH_COMPASS</TechPrereq>
@@ -1992,8 +1992,8 @@
 			<CivicOptionType>CIVICOPTION_RELIGION</CivicOptionType>
 			<Type>CIVIC_ATHEISM</Type>
 			<Description>Atheism</Description>
-			<Civilopedia>[PLACEHOLDER]</Civilopedia>
-			<Strategy>[PLACEHOLDER]</Strategy>
+			<Civilopedia>[TAB]Atheism represents a society with a distrust of all religions and atheism set as the state religion. Religions are not allowed to hold public displays nor try to convert others to their religion, which angers anyone who practices a religion.</Civilopedia>
+			<Strategy>No state religion nor spread of religion, unhappiness from religion in cities, increased scientific output</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Atheist2.dds,Art/Interface/Buttons/RoM_Civic_Atlas.dds,2,1</Button>
 			<TechPrereq>TECH_SCIENTIFIC_METHOD</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>

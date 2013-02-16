@@ -6467,8 +6467,8 @@
 			<Type>BUILDING_CLONING_FACTORY</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>Cloning Factory</Description>
-			<Civilopedia>TXT_KEY_BUILDING_CLONING_FACTORY_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_BUILDING_CLONING_FACTORY_STRATEGY</Strategy>
+			<Civilopedia>[TAB]A cloning factory is a massive building containing hundreds (and sometimes thousands) of vats of murky and disgusting liquid, in which float human clones in varying stages of development. Humans and computers monitor each vat closely, ensuring that the clone within is getting the proper amount of nutrients, heat, light and oxygen necessary for successful maturation. [PARAGRAPH:1]In earlier experiments scientists were unable to grow clones any faster than humans themselves grow, but as technology has increased, so has the speed with which clones mature. At present, a clone's body will reach full maturity in just over six years, while a human requires eighteen to twenty years to achieve the same development. [PARAGRAPH:1]While a clone's mental capacity is negligible, their organs and other parts are identical to human and can be transplanted into a human body with ease. Further, advances in technology have allowed computers to interface with clones' underdeveloped brains, creating zombie-like creatures capable of rudimentary physical labor.</Civilopedia>
+			<Strategy>[COLOR_BUILDING_TEXT]Cloning Factories[COLOR_REVERT] permit training of [COLOR_UNIT_TEXT]Clones, Automatons,[COLOR_REVERT] and [COLOR_UNIT_TEXT]Cyborgs.[COLOR_REVERT]</Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_CLONING_FACTORY</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>

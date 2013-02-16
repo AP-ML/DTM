@@ -829,7 +829,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_UTOPIA_STRATEGY</Tag>
-		<English>[COLOR_TECH_TEXT]Communism[COLOR_REVERT] enables the [COLOR_HIGHLIGHT_TEXT]State Property[COLOR_REVERT] civic and [COLOR_HIGHLIGHT_TEXT]Permanent Alliances[COLOR_REVERT]. It also allows construction of the [COLOR_BUILDING_TEXT]Kremlin[COLOR_REVERT] world wonder and [COLOR_BUILDING_TEXT]Scotland Yard[COLOR_REVERT] national wonder.</English>
+		<English>[COLOR_TECH_TEXT]Communism[COLOR_REVERT] enables the [COLOR_HIGHLIGHT_TEXT]State Property[COLOR_REVERT] civic and [COLOR_HIGHLIGHT_TEXT]Permanent Alliances[COLOR_REVERT]. It also allows construction of the [COLOR_BUILDING_TEXT]Kremlin[COLOR_REVERT] world wonder.</English>
 		<French>Le [COLOR_TECH_TEXT]communisme[COLOR_REVERT] permet d'instaurer la [COLOR_HIGHLIGHT_TEXT]nationalisation[COLOR_REVERT] et les [COLOR_HIGHLIGHT_TEXT]alliances permanentes[COLOR_REVERT]. Il permet aussi de construire le [COLOR_BUILDING_TEXT]Kremlin[COLOR_REVERT] et [COLOR_BUILDING_TEXT]Scotland Yard[COLOR_REVERT].</French>
 		<German>Der [COLOR_TECH_TEXT]Kommunismus[COLOR_REVERT] ist die Voraussetzung f&#252;r die Staatsform [COLOR_HIGHLIGHT_TEXT]Staatseigentum[COLOR_REVERT]. Er erm&#246;glicht die Bildung von [COLOR_HIGHLIGHT_TEXT]Allianzen[COLOR_REVERT] sowie den Bau eines Weltwunders ([COLOR_BUILDING_TEXT]Kreml[COLOR_REVERT]) und eines Nationalen Wunders ([COLOR_BUILDING_TEXT]Scotland Yard[COLOR_REVERT]).</German>
 		<Italian>Il [COLOR_TECH_TEXT]Comunismo[COLOR_REVERT] permette la realizzazione della forma di governo [COLOR_HIGHLIGHT_TEXT]Propriet&#224; statale[COLOR_REVERT] e delle [COLOR_HIGHLIGHT_TEXT]alleanze permanenti[COLOR_REVERT]. Inoltre, permette la costruzione della Grande Meraviglia [COLOR_BUILDING_TEXT]Cremlino[COLOR_REVERT] e della Meraviglia Nazionale [COLOR_BUILDING_TEXT]Scotland Yard[COLOR_REVERT].</Italian>
@@ -2181,7 +2181,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_SCOTLAND_YARD_STRATEGY</Tag>
-		<English>[COLOR_BUILDING_TEXT]Scotland Yard[COLOR_REVERT] allows you to train the special [COLOR_UNIT_TEXT]Spy[COLOR_REVERT] unit, which is good for scouting out enemy cities and territory. It increases its city's odds of generating a [COLOR_UNIT_TEXT]Great Scientist[COLOR_REVERT].</English>
+		<English>[COLOR_BUILDING_TEXT]Scotland Yard[COLOR_REVERT] greatly increases the espionage output of the city in which it is built.</English>
 		<French>[COLOR_BUILDING_TEXT]Scotland Yard[COLOR_REVERT] permet de former des [COLOR_UNIT_TEXT]espions[COLOR_REVERT] pour explorer territoire et villes ennemis et augmente les chances d'apparition d'un [COLOR_UNIT_TEXT]savant illustre[COLOR_REVERT].</French>
 		<German>[COLOR_BUILDING_TEXT]Scotland Yard[COLOR_REVERT] erm&#246;glicht Ihnen die Ausbildung von [COLOR_UNIT_TEXT]Spionen[COLOR_REVERT]. Diese eignen sich perfekt f&#252;r die Erkundung feindlicher St&#228;dte und Gebiete. Dar&#252;ber hinaus erh&#246;hen sich die Chancen der Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en Wissenschaftler[COLOR_REVERT] hervorzubringen.</German>
 		<Italian>[COLOR_BUILDING_TEXT]Scotland Yard[COLOR_REVERT] permette la realizzazione di una speciale unit&#224; [COLOR_UNIT_TEXT]spia[COLOR_REVERT], indicata per esplorare le citt&#224; e il territorio dei nemici. Inoltre, aumenta la probabilit&#224; di generare un [COLOR_UNIT_TEXT]Grande Scienziato[COLOR_REVERT].</Italian>
