@@ -1683,6 +1683,10 @@
 			<Type>INTERFACE_BUTTON_NULL</Type>
 			<Path>Art/BUG/Null.dds</Path>
 		</InterfaceArtInfo>
-
+<!-- Inquisition -->		
+		<InterfaceArtInfo>
+			<Type>INTERFACE_GODS_PERSICUTION</Type>
+			<Path>,Art/Interface/Buttons/Buildings/Temple_Jewish.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,7,15</Path>
+		</InterfaceArtInfo>
 	</InterfaceArtInfos>
 </Civ4ArtDefines>

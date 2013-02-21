@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<mod id="BasicInquisition" 
+	 name="BasicInquisition"
+	 module="BasicInquisition"
+	 author="modifieda4" 
+	 version="1.0" 
+	 date="12272011"
+	 url="-">	
+	
+	<events module="BasicInquisition" class="BasicInquisitionEvent"/>
+
+	<gameutils/>
+       	
+</mod>

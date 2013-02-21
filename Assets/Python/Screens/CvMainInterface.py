@@ -2435,7 +2435,28 @@ class CvMainInterface:
 						screen.show( "BottomButtonContainer" )
 						
 						iCount = iCount + 1
-
+#inquisitor mod start#
+					###### Unit Buttons ######
+					pUnit = g_pSelectedUnit
+					iUnitType = pUnit.getUnitType()
+					pUnitOwner = gc.getPlayer( pUnit.getOwner( ))					
+					if pUnitOwner.isTurnActive( ):	
+						# Inquisitor
+						if iUnitType == CvUtil.findInfoTypeNum(gc.getUnitInfo, gc.getNumUnitInfos(), "UNIT_INQUISITOR") and gc.getMap().plot( g_pSelectedUnit.getX(), g_pSelectedUnit.getY() ).isCity() and pUnitOwner.getCivics(gc.getInfoTypeForString('CIVICOPTION_RELIGION')) == gc.getInfoTypeForString('CIVIC_THEOCRACY'):
+							pCity = gc.getMap().plot( g_pSelectedUnit.getX(), g_pSelectedUnit.getY() ).getPlotCity( )
+							pCityPlayer = gc.getPlayer( pCity.getOwner( ) )
+							if ( pCity.getOwner( ) == pUnit.getOwner( ) ) or ( gc.getTeam( pCityPlayer.getTeam( ) ).isVassal( gc.getPlayer( pUnit. getOwner( ) ).getTeam( ) ) ): 
+								iStateReligion = gc.getPlayer( pUnit.getOwner( ) ).getStateReligion( )
+								if iStateReligion != -1:
+									if pCity.isHasReligion( iStateReligion ):
+										for iReligionLoop in range(gc.getNumReligionInfos( )):
+											if pCity.isHasReligion( iReligionLoop ):
+												if iReligionLoop != iStateReligion:
+													screen.appendMultiListButton( "BottomButtonContainer", ArtFileMgr.getInterfaceArtInfo("INTERFACE_GODS_PERSICUTION").getPath(), 0, WidgetTypes.WIDGET_GENERAL, 665, 665, False )
+													screen.show( "BottomButtonContainer" )
+													iCount = iCount + 1
+													return	
+#inquisitor mod end#						
 		elif (CyInterface().getShowInterface() != InterfaceVisibility.INTERFACE_HIDE_ALL and CyInterface().getShowInterface() != InterfaceVisibility.INTERFACE_MINIMAP_ONLY):
 		
 			self.setMinimapButtonVisibility(True)
@@ -5398,6 +5419,18 @@ class CvMainInterface:
 
 	# Will handle the input for this screen...
 	def handleInput (self, inputClass):
+		# INQUISITION mod start#		
+		# Eliminates Religion from city
+		if (inputClass.getNotifyCode() == 11 and inputClass.getData1() == 665 and inputClass.getData2() == 665):
+			pPlot = CyMap( ).plot( g_pSelectedUnit.getX( ), g_pSelectedUnit.getY( ) )			
+			iMessageID = 665
+			iPlotX = pPlot.getX()
+			iPlotY = pPlot.getY()
+			iOwner = g_pSelectedUnit.getOwner()
+			iUnitID = g_pSelectedUnit.getID()			
+			CyMessageControl( ).sendModNetMessage( iMessageID, iPlotX, iPlotY, iOwner, iUnitID )
+		# INQUISITION mod end#
+
 #		BugUtil.debugInput(inputClass)
 # BUG - PLE - start
 		if  (inputClass.getNotifyCode() == NotifyCode.NOTIFY_CURSOR_MOVE_ON) or \

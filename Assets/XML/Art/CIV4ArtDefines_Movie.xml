@@ -223,5 +223,9 @@
 			<Type>ART_DEF_MOVIE_BRIDGE</Type>
 			<Path>Art/Movies/Wonders/GoldenGate.bik</Path>
 		</MovieArtInfo>
+		<MovieArtInfo>
+			<Type>ART_DEF_MOVIE_EMPIRE_STATE</Type>
+			<Path>Art/Movies/Wonders/EmpireState.bik</Path>
+		</MovieArtInfo>
 	</MovieArtInfos>
 </Civ4ArtDefines>
