@@ -270,7 +270,7 @@
 			</Buildings>
 			<Units>
 				<Unit>
-					<UnitClassType>UNITCLASS_HORSE_ARCHER</UnitClassType>
+					<UnitClassType>UNITCLASS_ARCHER</UnitClassType>
 					<UnitType>UNIT_ARROWPEAN_ARCHER</UnitType>
 				</Unit>
 			</Units>
@@ -3809,7 +3809,7 @@
 			<Civilopedia>TXT_KEY_CIV_SALTIA_PEDIA</Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_CYAN_AND_GRAY</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_SALTIA</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_VIKING</ArtStyleType>
+			<ArtStyleType>ARTSTYLE_SOUTH_AMERICA</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>0</bAIPlayable>
@@ -3854,8 +3854,8 @@
 			</Buildings>
 			<Units>
 				<Unit>
-					<UnitClassType>UNITCLASS_GRENADIER</UnitClassType>
-					<UnitType>UNIT_SALTIA_BOMBARDIER</UnitType>
+					<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
+					<UnitType>UNIT_SALTIA_CAVALRY</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>

@@ -54,6 +54,30 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_UNIT_SALTIA_CAVALRY</Tag>
+		<English>Saltian Cavalry</English>
+		<French>
+			<Text>Saltian Cavalry</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Saltian Cavalry</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Saltian Cavalry:Saltian Cavalry</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Saltian Cavalry:Saltian Cavalry</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_BUILDING_SALTIA_REFINERY_PEDIA</Tag>
 		<English>[TAB]Filler.</English>
 		<French>[TAB]Mastic.</French>
@@ -63,6 +87,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_SALTIA_BOMBARDIER_PEDIA</Tag>
+		<English>[TAB]Currently disabled.</English>
+		<French>[TAB]Mastic.</French>
+		<German>[TAB]Füllstoff.</German>
+		<Italian>[TAB]Filler.</Italian>
+		<Spanish>[TAB]Relleno.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SALTIA_CAVALRY_PEDIA</Tag>
 		<English>[TAB]Filler.</English>
 		<French>[TAB]Mastic.</French>
 		<German>[TAB]Füllstoff.</German>
@@ -84,6 +116,14 @@
 		<German>Erstellen Sie dieses moderate Festigkeit Schießpulver-Einheit in die Städte, die von Bogenschießen Einheiten oder Schießpulver-Einheiten verteidigt werden angreifen.</German>
 		<Italian>Costruire questa moderata-forza dell'unità polvere da sparo per attaccare le città che sono difesi da unità tiro con l'arco o polvere da sparo unità.</Italian>
 		<Spanish>Construya esta unidad pólvora moderada fuerza para atacar las ciudades que son defendidos por las unidades de tiro con arco o unidades de pólvora.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SALTIA_CAVALRY_STRATEGY</Tag>
+		<English>This most powerful mounted unit is particularly effective in open terrain and can withdraw from combat. It receives a bonus when attacking [COLOR_UNIT_TEXT]Cannons[COLOR_REVERT] but receives no terrain bonuses when defending.</English>
+		<French>Cette unit&#233; mont&#233;e tr&#232;s puissante est particuli&#232;rement efficace en terrain d&#233;couvert et peut rompre le combat. Elle b&#233;n&#233;ficie d'un bonus contre les [COLOR_UNIT_TEXT]canons[COLOR_REVERT], mais d'aucun bonus de terrain en d&#233;fense.</French>
+		<German>Diese &#252;beraus effektive berittene Einheit ist auf offenem Gel&#228;nde sehr effektiv und kann sich aus einer Schlacht jederzeit zur&#252;ckziehen. Im Kampf gegen [COLOR_UNIT_TEXT]Kanonen[COLOR_REVERT] haben Kavalleristen einen Bonus. Als Verteidiger erhalten sie allerdings keine Gel&#228;ndeboni.</German>
+		<Italian>Questa potente unit&#224; montata &#232; particolarmente efficace in campo aperto e pu&#242; ritirarsi dal combattimento. Riceve un bonus quando attacca i [COLOR_UNIT_TEXT]cannoni[COLOR_REVERT], ma non ottiene bonus difensivi dal terreno.</Italian>
+		<Spanish>Esta unidad montada, la m&#225;s poderosa, es especialmente eficaz en terreno abierto y puede retirarse del combate. Recibe una bonificaci&#243;n cuando ataca [COLOR_UNIT_TEXT]Ca&#241;ones[COLOR_REVERT], pero no se beneficia del terreno cuando defiende.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_ADMIRAL_PRETZLE</Tag>
