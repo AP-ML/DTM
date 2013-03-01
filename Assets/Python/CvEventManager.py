@@ -537,6 +537,167 @@ class CvEventManager:
 		'Building Completed'
 		pCity, iBuildingType = argsList
 		game = gc.getGame()
+
+## Bridge Start ##
+
+		if iBuildingType == gc.getInfoTypeForString( 'BUILDING_BRIDGE' ):
+
+			pPlayer = gc.getPlayer(pCity.plot().getOwner())
+			pPID = pPlayer.getID()
+			pTID = pPlayer.getTeam()
+			iX = pCity.getX()
+			iY = pCity.getY()
+			tt_ocean = gc.getInfoTypeForString( 'TERRAIN_OCEAN' )
+			tt_coast = gc.getInfoTypeForString( 'TERRAIN_COAST' )
+
+			pPlotX1 = CyMap().plot(iX +1, iY +0)
+			pPlotX2 = CyMap().plot(iX +2, iY +0)
+			pPlotX3 = CyMap().plot(iX +3, iY +0)
+			pPlotX4 = CyMap().plot(iX +4, iY +0)
+			pPlotX5 = CyMap().plot(iX +5, iY +0)
+
+			pPlotNX1 = CyMap().plot(iX -1, iY +0)
+			pPlotNX2 = CyMap().plot(iX -2, iY +0)
+			pPlotNX3 = CyMap().plot(iX -3, iY +0)
+			pPlotNX4 = CyMap().plot(iX -4, iY +0)
+			pPlotNX5 = CyMap().plot(iX -5, iY +0)
+
+			pPlotY1 = CyMap().plot(iX +0, iY +1)
+			pPlotY2 = CyMap().plot(iX +0, iY +2)
+			pPlotY3 = CyMap().plot(iX +0, iY +3)
+			pPlotY4 = CyMap().plot(iX +0, iY +4)
+			pPlotY5 = CyMap().plot(iX +0, iY +5)
+
+			pPlotNY1 = CyMap().plot(iX +0, iY -1)
+			pPlotNY2 = CyMap().plot(iX +0, iY -2)
+			pPlotNY3 = CyMap().plot(iX +0, iY -3)
+			pPlotNY4 = CyMap().plot(iX +0, iY -4)
+			pPlotNY5 = CyMap().plot(iX +0, iY -5)
+
+			if ( pPlotX1.getTeam()==pTID ) or ( pPlotX1.getTeam()!=pTID ):
+				if ( pPlotX1.getTerrainType()==tt_coast ) or ( pPlotX1.getTerrainType()==tt_ocean ):
+					if ( pPlotX2.getTeam()==pTID ) or ( pPlotX2.getTeam()!=pTID ):
+						if ( pPlotX2.getTerrainType()!=tt_coast ) and ( pPlotX2.getTerrainType()!=tt_ocean ):
+							pPlotX1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+						elif ( pPlotX2.getTerrainType()==tt_coast ) or ( pPlotX2.getTerrainType()==tt_ocean ):
+								if ( pPlotX3.getTeam()==pTID ) or ( pPlotX3.getTeam()!=pTID ):
+									if ( pPlotX3.getTerrainType()!=tt_coast ) and ( pPlotX3.getTerrainType()!=tt_ocean ):
+										pPlotX1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+										pPlotX2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+									elif ( pPlotX3.getTerrainType()==tt_coast ) or ( pPlotX3.getTerrainType()==tt_ocean ):
+										if ( pPlotX4.getTeam()==pTID ) or ( pPlotX4.getTeam()!=pTID ):
+											if ( pPlotX4.getTerrainType()!=tt_coast ) and ( pPlotX4.getTerrainType()!=tt_ocean ):
+												pPlotX1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+												pPlotX2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+												pPlotX3.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+											elif ( pPlotX4.getTerrainType()==tt_coast ) or ( pPlotX4.getTerrainType()==tt_ocean ):
+												if ( pPlotX5.getTeam()==pTID ) or ( pPlotX5.getTeam()!=pTID ):
+													if ( pPlotX5.getTerrainType()!=tt_coast ) and ( pPlotX5.getTerrainType()!=tt_ocean ):
+														pPlotX1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+														pPlotX2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+														pPlotX3.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+														pPlotX4.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+													elif ( pPlotX5.getTerrainType()==tt_coast ) or ( pPlotX5.getTerrainType()==tt_ocean ):
+														CyInterface().addMessage(pPID,false,15,CyTranslator().getText("TXT_KEY_BRIDGE_FAIL_PYTHON",()),'',0,'Art/Bridge Button.dds',ColorTypes(44), iX, iY, True,True)
+
+			if ( pPlotNX1.getTeam()==pTID ) or ( pPlotNX1.getTeam()!=pTID ):
+				if ( pPlotNX1.getTerrainType()==tt_coast ) or ( pPlotNX1.getTerrainType()==tt_ocean ):
+					if ( pPlotNX2.getTeam()==pTID ) or ( pPlotNX2.getTeam()!=pTID ):
+						if ( pPlotNX2.getTerrainType()!=tt_coast ) and ( pPlotNX2.getTerrainType()!=tt_ocean ):
+							pPlotNX1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+						elif ( pPlotNX2.getTerrainType()==tt_coast ) or ( pPlotNX2.getTerrainType()==tt_ocean ):
+								if ( pPlotNX3.getTeam()==pTID ) or ( pPlotNX3.getTeam()!=pTID ):
+									if ( pPlotNX3.getTerrainType()!=tt_coast ) and ( pPlotNX3.getTerrainType()!=tt_ocean ):
+										pPlotNX1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+										pPlotNX2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+									elif ( pPlotNX3.getTerrainType()==tt_coast ) or ( pPlotNX3.getTerrainType()==tt_ocean ):
+										if ( pPlotNX4.getTeam()==pTID ) or ( pPlotNX4.getTeam()!=pTID ):
+											if ( pPlotNX4.getTerrainType()!=tt_coast ) and ( pPlotNX4.getTerrainType()!=tt_ocean ):
+												pPlotNX1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+												pPlotNX2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+												pPlotNX3.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+											elif ( pPlotNX4.getTerrainType()==tt_coast ) or ( pPlotNX4.getTerrainType()==tt_ocean ):
+												if ( pPlotNX5.getTeam()==pTID ) or ( pPlotNX5.getTeam()!=pTID ):
+													if ( pPlotNX5.getTerrainType()!=tt_coast ) and ( pPlotNX5.getTerrainType()!=tt_ocean ):
+														pPlotNX1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+														pPlotNX2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+														pPlotNX3.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+														pPlotNX4.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_WATER_BRIDGE_WEST' ))
+													elif ( pPlotNX5.getTerrainType()==tt_coast ) or ( pPlotNX5.getTerrainType()==tt_ocean ):
+														CyInterface().addMessage(pPID,false,15,CyTranslator().getText("TXT_KEY_BRIDGE_FAIL_PYTHON",()),'',0,'Art/Bridge Button.dds',ColorTypes(44), iX, iY, True,True)
+
+			if ( pPlotY1.getTeam()==pTID ) or ( pPlotY1.getTeam()!=pTID ):
+				if ( pPlotY1.getTerrainType()==tt_coast ) or ( pPlotY1.getTerrainType()==tt_ocean ):
+					if ( pPlotY2.getTeam()==pTID ) or ( pPlotY2.getTeam()!=pTID ):
+						if ( pPlotY2.getTerrainType()!=tt_coast ) and ( pPlotY2.getTerrainType()!=tt_ocean ):
+							pPlotY1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+						elif ( pPlotY2.getTerrainType()==tt_coast ) or ( pPlotY2.getTerrainType()==tt_ocean ):
+								if ( pPlotY3.getTeam()==pTID ) or ( pPlotY3.getTeam()!=pTID ):
+									if ( pPlotY3.getTerrainType()!=tt_coast ) and ( pPlotY3.getTerrainType()!=tt_ocean ):
+										pPlotY1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+										pPlotY2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+									elif ( pPlotY3.getTerrainType()==tt_coast ) or ( pPlotY3.getTerrainType()==tt_ocean ):
+										if ( pPlotY4.getTeam()==pTID ) or ( pPlotY4.getTeam()!=pTID ):
+											if ( pPlotY4.getTerrainType()!=tt_coast ) and ( pPlotY4.getTerrainType()!=tt_ocean ):
+												pPlotY1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+												pPlotY2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+												pPlotY3.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+											elif ( pPlotY4.getTerrainType()==tt_coast ) or ( pPlotY4.getTerrainType()==tt_ocean ):
+												if ( pPlotY5.getTeam()==pTID ) or ( pPlotY5.getTeam()!=pTID ):
+													if ( pPlotY5.getTerrainType()!=tt_coast ) and ( pPlotY5.getTerrainType()!=tt_ocean ):
+														pPlotY1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+														pPlotY2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+														pPlotY3.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+														pPlotY4.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+													elif ( pPlotY5.getTerrainType()==tt_coast ) or ( pPlotY5.getTerrainType()==tt_ocean ):
+														CyInterface().addMessage(pPID,false,15,CyTranslator().getText("TXT_KEY_BRIDGE_FAIL_PYTHON",()),'',0,'Art/Bridge Button.dds',ColorTypes(44), iX, iY, True,True)
+
+			if ( pPlotNY1.getTeam()==pTID ) or ( pPlotNY1.getTeam()!=pTID ):
+				if ( pPlotNY1.getTerrainType()==tt_coast ) or ( pPlotNY1.getTerrainType()==tt_ocean ):
+					if ( pPlotNY2.getTeam()==pTID ) or ( pPlotNY2.getTeam()!=pTID ):
+						if ( pPlotNY2.getTerrainType()!=tt_coast ) and ( pPlotNY2.getTerrainType()!=tt_ocean ):
+							pPlotNY1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+						elif ( pPlotNY2.getTerrainType()==tt_coast ) or ( pPlotNY2.getTerrainType()==tt_ocean ):
+								if ( pPlotNY3.getTeam()==pTID ) or ( pPlotNY3.getTeam()!=pTID ):
+									if ( pPlotNY3.getTerrainType()!=tt_coast ) and ( pPlotNY3.getTerrainType()!=tt_ocean ):
+										pPlotNY1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+										pPlotNY2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+									elif ( pPlotNY3.getTerrainType()==tt_coast ) or ( pPlotNY3.getTerrainType()==tt_ocean ):
+										if ( pPlotNY4.getTeam()==pTID ) or ( pPlotNY4.getTeam()!=pTID ):
+											if ( pPlotNY4.getTerrainType()!=tt_coast ) and ( pPlotNY4.getTerrainType()!=tt_ocean ):
+												pPlotNY1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+												pPlotNY2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+												pPlotNY3.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+											elif ( pPlotNY4.getTerrainType()==tt_coast ) or ( pPlotNY4.getTerrainType()==tt_ocean ):
+												if ( pPlotNY5.getTeam()==pTID ) or ( pPlotNY5.getTeam()!=pTID ):
+													if ( pPlotNY5.getTerrainType()!=tt_coast ) and ( pPlotNY5.getTerrainType()!=tt_ocean ):
+														pPlotNY1.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+														pPlotNY2.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+														pPlotNY3.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+														pPlotNY4.setImprovementType(gc.getInfoTypeForString( 'IMPROVEMENT_BRIDGE' ))
+													elif ( pPlotNY5.getTerrainType()==tt_coast ) or ( pPlotNY5.getTerrainType()==tt_ocean ):
+														CyInterface().addMessage(pPID,false,15,CyTranslator().getText("TXT_KEY_BRIDGE_FAIL_PYTHON",()),'',0,'Art/Bridge Button.dds',ColorTypes(44), iX, iY, True,True)
+			
+			CyInterface().addMessage(pPID,false,15,CyTranslator().getText("TXT_KEY_BRIDGE_PYTHON",()),'',0,'Art/Bridge Button.dds',ColorTypes(44), iX, iY, True,True)
+
+		if iBuildingType == gc.getInfoTypeForString( 'BUILDING_BRIDGE' ):
+
+			pPlayer = gc.getPlayer(pCity.plot().getOwner())
+			pPID = pPlayer.getID()
+			pCityName = pCity.getName()
+			iX = pCity.getX()
+			iY = pCity.getY()
+
+			pCC = pCity.getCulture(pPID)
+			pCC = pCC / 5
+			pCC = int(pCC + 0.5)
+
+			pCity.changeCulture(pPID, pCC, true)
+
+			CyInterface().addMessage(pPID,false,15,CyTranslator().getText("TXT_KEY_GOLDEN_GATE_CULTURE",(pCC, pCityName)),'',0,'Art/Bridge Button.dds',ColorTypes(24), -1, -1,True,True)
+
+## Bridge End ##
+
 		if ((not gc.getGame().isNetworkMultiPlayer()) and (pCity.getOwner() == gc.getGame().getActivePlayer()) and isWorldWonderClass(gc.getBuildingInfo(iBuildingType).getBuildingClassType())):
 			# If this is a wonder...
 			popupInfo = CyPopupInfo()

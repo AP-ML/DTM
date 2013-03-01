@@ -30,7 +30,7 @@
 	</Define>
 	<Define>
 		<DefineName>USE_CANNOT_CONSTRUCT_CALLBACK</DefineName>
-		<iDefineIntVal>1</iDefineIntVal>
+		<iDefineIntVal>0</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>USE_CAN_CONSTRUCT_CALLBACK</DefineName>
@@ -38,11 +38,11 @@
 	</Define>
 	<Define>
 		<DefineName>USE_CAN_DECLARE_WAR_CALLBACK</DefineName>
-		<iDefineIntVal>1</iDefineIntVal>
+		<iDefineIntVal>0</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>USE_CANNOT_RESEARCH_CALLBACK</DefineName>
-		<iDefineIntVal>1</iDefineIntVal>
+		<iDefineIntVal>0</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>USE_GET_UNIT_COST_MOD_CALLBACK</DefineName>
@@ -50,7 +50,7 @@
 	</Define>
 	<Define>
 		<DefineName>USE_GET_BUILDING_COST_MOD_CALLBACK</DefineName>
-		<iDefineIntVal>1</iDefineIntVal>
+		<iDefineIntVal>0</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>USE_GET_CITY_FOUND_VALUE_CALLBACK</DefineName>
@@ -64,21 +64,23 @@
 		<DefineName>USE_CAN_BUILD_CALLBACK</DefineName>
 		<iDefineIntVal>0</iDefineIntVal>
 	</Define>
+<!--START BASIC INQUISITION ENABLED FOR PREVENT TRAINING EXCEPT FOR THEOCRACY-->
 	<Define>
 		<DefineName>USE_CANNOT_TRAIN_CALLBACK</DefineName>
 		<iDefineIntVal>1</iDefineIntVal>
 	</Define>
+<!--END BASIC INQUISITION-->
 	<Define>
 		<DefineName>USE_CAN_TRAIN_CALLBACK</DefineName>
-		<iDefineIntVal>1</iDefineIntVal>
+		<iDefineIntVal>0</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>USE_UNIT_CANNOT_MOVE_INTO_CALLBACK</DefineName>
 		<iDefineIntVal>0</iDefineIntVal>
 	</Define>
 	<Define>
-		<DefineName>USE_USE_CANNOT_SPREAD_RELIGION_CALLBACK</DefineName>
-		<iDefineIntVal>1</iDefineIntVal>
+		<DefineName>USE_CANNOT_SPREAD_RELIGION_CALLBACK</DefineName>
+		<iDefineIntVal>0</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>USE_FINISH_TEXT_CALLBACK</DefineName>

@@ -12,6 +12,7 @@
 	
 	<load mod="BUG Config"/>
 	<load mod="BUG Core"/>
+    <load mod="Basic Inquisition"/>
 	
 	
 	<!-- Civilization Core -->
