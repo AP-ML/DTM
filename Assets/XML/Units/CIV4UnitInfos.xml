@@ -10088,7 +10088,7 @@
 			<LeaderPromotion>NONE</LeaderPromotion>
 			<iLeaderExperience>0</iLeaderExperience>
 		</UnitInfo>
-		<UnitInfo>
+	<!--<UnitInfo>
 			<Class>UNITCLASS_GRENADIER</Class>
 			<Type>UNIT_SALTIA_BOMBARDIER</Type>
 			<UniqueNames/>
@@ -10292,7 +10292,7 @@
 			<FreePromotions/>
 			<LeaderPromotion>NONE</LeaderPromotion>
 			<iLeaderExperience>0</iLeaderExperience>
-		</UnitInfo>
+		</UnitInfo>-->
 		<UnitInfo>
 			<Class>UNITCLASS_AT_INFANTRY</Class>
 			<Type>UNIT_AT_INFANTRY</Type>
