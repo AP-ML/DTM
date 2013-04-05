@@ -6,16 +6,6 @@
 <!-- Building art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
-	<BuildingArtInfo>
-			<Type>ART_DEF_BUILDING_PROPAGANDA</Type>
-			<LSystem>LSYSTEM_2x2</LSystem>
-			<bAnimated>0</bAnimated>
-			<fScale>0.8</fScale>
-			<fInterfaceScale>0.38</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/BroadcastTower/BroadcastTower.nif</NIF>
-			<KFM/>
-			<Button>Art/Interface/Buttons/Buildings/propaganda.dds</Button>
-		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_BROTHEL</Type>
 			<LSystem>LSYSTEM_2x3</LSystem>
