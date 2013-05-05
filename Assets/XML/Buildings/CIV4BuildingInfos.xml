@@ -3074,7 +3074,7 @@
 			<BuildingClass>BUILDINGCLASS_AQUEDUCT</BuildingClass>
 			<Type>BUILDING_AQUEDUCT</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
-			<Description>Adequate</Description>
+			<Description>TXT_KEY_BUILDING_AQUEDUCT</Description>
 			<Civilopedia>TXT_KEY_BUILDING_AQUEDUCT_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_AQUEDUCT_STRATEGY</Strategy>
 			<Advisor>ADVISOR_GROWTH</Advisor>

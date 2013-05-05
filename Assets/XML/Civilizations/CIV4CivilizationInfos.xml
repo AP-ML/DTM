@@ -4148,6 +4148,7 @@
 				<City>Ny Sar</City>
 				<City>Velos</City>
 				<City>Myr</City>
+				<City>Driftmark</City>
 				<City>Chroyane</City>
 				<City>Bhorash</City>
 				<City>Sar Mell</City>
@@ -4159,6 +4160,12 @@
 				<City>Qhoyne</City>
 				<City>Ghoyan Drohe</City>
 				<City>Oros</City>
+				<City>Astapor</City>
+				<City>Yunkai</City>
+				<City>Meereen</City>
+				<City>Ghiscar</City>
+				<City>Vaes Tolorro</City>
+				<City>Ashemark</City>
 			</Cities>
 			<Buildings>
 				<Building>
