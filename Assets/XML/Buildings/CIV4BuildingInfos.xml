@@ -16445,7 +16445,7 @@
 			<FreeBonus>NONE</FreeBonus>
 			<iNumFreeBonuses>0</iNumFreeBonuses>
 			<FreeBuilding>NONE</FreeBuilding>
-			<FreePromotion>PROMOTION_SECURITY1</FreePromotion>
+			<FreePromotion><!--PROMOTION_SECURITY1--></FreePromotion>
 			<CivicOption>NONE</CivicOption>
 			<GreatPeopleUnitClass>NONE</GreatPeopleUnitClass>
 			<iGreatPeopleRateChange>0</iGreatPeopleRateChange>
@@ -28640,7 +28640,7 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 		</BuildingInfo>
-		<BuildingInfo>
+		<!--<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_BRIDGE</BuildingClass>
 			<Type>BUILDING_BRIDGE</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
@@ -28841,8 +28841,8 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-		</BuildingInfo>	
-	    <BuildingInfo>
+		</BuildingInfo>	 -->
+	    <!--<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_SYDNEY_OPERA_HOUSE</BuildingClass>
 			<Type>BUILDING_SYDNEY_OPERA_HOUSE</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
@@ -29031,7 +29031,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-		</BuildingInfo>
+		</BuildingInfo> -->
 		<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_GREAT_DAM</BuildingClass>
 			<Type>BUILDING_GREAT_DAM</Type>
@@ -33091,7 +33091,7 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 		</BuildingInfo>
-		<BuildingInfo>
+		<!--<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_SEDUCED_LEADERS</BuildingClass>
 			<Type>BUILDING_SEDUCED_LEADERS</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
@@ -33580,7 +33580,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-		</BuildingInfo>
+		</BuildingInfo> -->
 		<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_PALACE</BuildingClass>
 			<Type>BUILDING_VALYRIAN_PALACE</Type>
