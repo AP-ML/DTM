@@ -535,5 +535,8 @@
 		<HintInfo>
 			<Description>TXT_KEY_BUG_HINT_22</Description>
 		</HintInfo>
+		<HintInfo>
+			<Description>Points do not make prizes. Unless time victory is on. Go fix that if it is.</Description>
+		</HintInfo>
 	</HintInfos>
 </Civ4Hints>

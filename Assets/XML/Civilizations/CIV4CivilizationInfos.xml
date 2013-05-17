@@ -3190,11 +3190,12 @@
 				<City>Matterhorn IX</City>
 				<City>Matterhorn X</City>
 				<City>Mountain City</City>
+				<City>Big Point Place</City>
 				</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
-					<BuildingType>BUILDING_PEARIAN_WATCHTOWER</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_OBSERVATORY</BuildingClassType>
+					<BuildingType>BUILDING_PEARIAN_SWT</BuildingType>
 				</Building>
 			</Buildings>
 			<Units>

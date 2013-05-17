@@ -648,6 +648,16 @@
 			<Button>,Art/Interface/Buttons/Buildings/Observatory.dds,Art/Interface/Buttons/Buildings_Atlas.dds,2,5</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_PEARIAN_SWT</Type>
+			<LSystem>LSYSTEM_1x1</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.33</fScale>
+			<fInterfaceScale>0.83</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Observatory/Observatory.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/Buildings/Observatory.dds,Art/Interface/Buttons/Buildings_Atlas.dds,2,5</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_FRENCH_SALON</Type>
 			<LSystem>LSYSTEM_2x1</LSystem>
 			<bAnimated>0</bAnimated>
