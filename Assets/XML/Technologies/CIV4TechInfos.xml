@@ -70,8 +70,8 @@
 				<PrereqTech>TECH_HYDROPONICS</PrereqTech>
 			</AndPreReqs>
 			<Quote>"All in all you're just another brick in the wall." - Pink Floyd, 'The Wall'</Quote>
-			<Sound></Sound>
-			<SoundMP></SoundMP>
+			<Sound>AS2D_TECH_HYDROPONICS</Sound>
+			<SoundMP>AS2D_TECH_MP_HYDROPONICS</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Robotics.dds,Art/Interface/Buttons/NextWar_Atlas.dds,5,3</Button>
 		</TechInfo>
 	    <TechInfo>

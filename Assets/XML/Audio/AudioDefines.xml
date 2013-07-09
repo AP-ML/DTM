@@ -174,7 +174,7 @@
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
-				<SoundData>
+		<SoundData>
 			<SoundID>SND_TECH_MP_AQUACULTURE</SoundID>
 			<Filename>Sounds/Tech/TECH_MP_AQUACULTURE</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
@@ -183,6 +183,20 @@
 		</SoundData>
 		<SoundData>
 			<SoundID>SND_TECH_AQUACULTURE</SoundID>
+			<Filename>Sounds/Tech/Tech_AQUACULTURE</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>SND_TECH_MP_CLONING</SoundID>
+			<Filename>Sounds/Tech/TECH_MP_AQUACULTURE</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>SND_TECH_CLONING</SoundID>
 			<Filename>Sounds/Tech/Tech_AQUACULTURE</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
