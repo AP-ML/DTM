@@ -538,7 +538,7 @@
 			<bRiverArt>0</bRiverArt>
 			<TileArtType>TILE_ART_TYPE_NONE</TileArtType>
 			<LightType>LIGHT_TYPE_SUN</LightType>
-			<fScale>1.0</fScale>
+			<fScale>0.4</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<Button>Art/Interface/Buttons/TerrainFeatures/kaktus.dds</Button>
 			<FeatureVariety>
