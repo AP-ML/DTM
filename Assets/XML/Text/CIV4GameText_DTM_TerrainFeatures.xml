@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_CORAL</Tag>
+		<English>Coral</English>
+		<French>
+			<Text>Coral</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Coral</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Coral:Coral</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Coral:Coral</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_KELP</Tag>
+		<English>Kelp</English>
+		<French>
+			<Text>Kelp</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Kelp</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Kelp:Kelp</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Kelp:Kelp</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_KAKTUS</Tag>
+		<English>Cactus</English>
+			<Text>Cactus:Cacti</Text>
+			<Plural>0:1</Plural>
+		<French>
+			<Text>Cactus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Cactus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Cactus:Cacti</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cactus:Cacti</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_CORAL_PEDIA</Tag>
+		<English>[TAB]Coral.</English>
+		<French>[TAB]Le Coral.</French>
+		<German>[TAB]Das Coral.</German>
+		<Italian>[TAB]Itsa me-a! Coral-a!</Italian>
+		<Spanish>[TAB]Uno Coral.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_KELP_PEDIA</Tag>
+		<English>[TAB]Kelp.</English>
+		<French>[TAB]Le Kelp.</French>
+		<German>[TAB]Das Kelp.</German>
+		<Italian>[TAB]Itsa me-a! Kelp-a!</Italian>
+		<Spanish>[TAB]Uno Kelp.</Spanish>	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_KAKTUS_PEDIA</Tag>
+		<English>[TAB]Cactus.</English>
+		<French>[TAB]Le Cactus.</French>
+		<German>[TAB]Das Cactus.</German>
+		<Italian>[TAB]Itsa me-a! Cactus-a!</Italian>
+		<Spanish>[TAB]Uno Cactus.</Spanish>	</TEXT>
+</Civ4GameText>
