@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_JUNGLE_CAMP</Tag>
+		<English>Jungle Camp</English>
+		<French>
+			<Text>Jungle Camp</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dschungel Lager</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Giungla Campo:Giungle Campi</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Selva Campamento:Selvas Campamentos</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_JUNGLE_CAMP_PEDIA</Tag>
+		<English>[TAB]Jungle Camp.</English>
+		<French>[TAB]Le Cactus.</French>
+		<German>[TAB]Dschungel Lager.</German>
+		<Italian>[TAB]Giungla Campo.</Italian>
+		<Spanish>[TAB]Selva Campamento.</Spanish>
+	</TEXT>
+</Civ4GameText>
