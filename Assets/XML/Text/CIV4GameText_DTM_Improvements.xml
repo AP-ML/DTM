@@ -37,4 +37,12 @@
 		<Italian>[TAB]Giungla Campo.</Italian>
 		<Spanish>[TAB]Selva Campamento.</Spanish>
 	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_JUNGLE_CAMP</Tag>
+		<English>Build a Jungle Camp</English>
+		<French>construire une Jungle Camp</French>
+		<German>Baumschule bauen</German>
+		<Italian>Costruisci unaGiungla Campo</Italian>
+		<Spanish>Construir una Selva Campamento</Spanish>
+	</TEXT>
 </Civ4GameText>
