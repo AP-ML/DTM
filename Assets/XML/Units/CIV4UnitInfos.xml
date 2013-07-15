@@ -940,6 +940,9 @@
 			<bSuicide>0</bSuicide>
 			<bHiddenNationality>0</bHiddenNationality>
 			<bAlwaysHostile>0</bAlwaysHostile>
+			<!-- Afforess Advanced Diplomacy -->
+			<bWorkerTrade>1</bWorkerTrade>
+			<!-- Afforess Advanced Diplomacy -->
 			<UnitClassUpgrades/>
 			<UnitClassTargets/>
 			<UnitCombatTargets/>
@@ -1205,6 +1208,9 @@
 			<bSuicide>0</bSuicide>
 			<bHiddenNationality>0</bHiddenNationality>
 			<bAlwaysHostile>0</bAlwaysHostile>
+			<!-- Afforess Advanced Diplomacy -->
+			<bWorkerTrade>1</bWorkerTrade>
+			<!-- Afforess Advanced Diplomacy -->
 			<UnitClassUpgrades/>
 			<UnitClassTargets/>
 			<UnitCombatTargets/>
@@ -17823,6 +17829,9 @@
 			<bSuicide>0</bSuicide>
 			<bHiddenNationality>0</bHiddenNationality>
 			<bAlwaysHostile>0</bAlwaysHostile>
+			<!-- Afforess Advanced Diplomacy -->
+			<bMilitaryTrade>1</bMilitaryTrade>
+			<!-- Afforess Advanced Diplomacy -->
 			<UnitClassUpgrades>
 				<UnitClassUpgrade>
 					<UnitClassUpgradeType>UNITCLASS_CANNON</UnitClassUpgradeType>
@@ -18004,6 +18013,9 @@
 			<bSuicide>0</bSuicide>
 			<bHiddenNationality>0</bHiddenNationality>
 			<bAlwaysHostile>0</bAlwaysHostile>
+			<!-- Afforess Advanced Diplomacy -->
+			<bMilitaryTrade>1</bMilitaryTrade>
+			<!-- Afforess Advanced Diplomacy -->
 			<UnitClassUpgrades>
 				<UnitClassUpgrade>
 					<UnitClassUpgradeType>UNITCLASS_CANNON</UnitClassUpgradeType>
@@ -18194,6 +18206,9 @@
 			<bSuicide>0</bSuicide>
 			<bHiddenNationality>0</bHiddenNationality>
 			<bAlwaysHostile>0</bAlwaysHostile>
+			<!-- Afforess Advanced Diplomacy -->
+			<bMilitaryTrade>1</bMilitaryTrade>
+			<!-- Afforess Advanced Diplomacy -->
 			<UnitClassUpgrades>
 				<UnitClassUpgrade>
 					<UnitClassUpgradeType>UNITCLASS_CANNON</UnitClassUpgradeType>
@@ -18380,6 +18395,9 @@
 			<bSuicide>0</bSuicide>
 			<bHiddenNationality>0</bHiddenNationality>
 			<bAlwaysHostile>0</bAlwaysHostile>
+			<!-- Afforess Advanced Diplomacy -->
+			<bMilitaryTrade>1</bMilitaryTrade>
+			<!-- Afforess Advanced Diplomacy -->
 			<UnitClassUpgrades>
 				<UnitClassUpgrade>
 					<UnitClassUpgradeType>UNITCLASS_ARTILLERY</UnitClassUpgradeType>
@@ -18747,6 +18765,9 @@
 			<bSuicide>0</bSuicide>
 			<bHiddenNationality>0</bHiddenNationality>
 			<bAlwaysHostile>0</bAlwaysHostile>
+			<!-- Afforess Advanced Diplomacy -->
+			<bMilitaryTrade>1</bMilitaryTrade>
+			<!-- Afforess Advanced Diplomacy -->
 			<UnitClassUpgrades>
 				<UnitClassUpgrade>
 					<UnitClassUpgradeType>UNITCLASS_MOBILE_ARTILLERY</UnitClassUpgradeType>
@@ -18933,6 +18954,9 @@
 			<bSuicide>0</bSuicide>
 			<bHiddenNationality>0</bHiddenNationality>
 			<bAlwaysHostile>0</bAlwaysHostile>
+			<!-- Afforess Advanced Diplomacy -->
+			<bMilitaryTrade>1</bMilitaryTrade>
+			<!-- Afforess Advanced Diplomacy -->
 			<UnitClassUpgrades/>
 			<UnitClassTargets/>
 			<UnitCombatTargets/>

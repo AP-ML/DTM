@@ -1610,6 +1610,7 @@
 			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
+			<bPOWTrading>1</bPOWTrading>
 			<bDisable>0</bDisable>
 			<bGoodyTech>0</bGoodyTech>
 			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
@@ -2419,6 +2420,7 @@
 			<iPower>4</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
+			<bLimitedBordersTrading>1</bLimitedBordersTrading>
 			<bDisable>0</bDisable>
 			<bGoodyTech>1</bGoodyTech>
 			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
@@ -2792,6 +2794,9 @@
 			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
+			<!--Afforess Advanced Diplomacy-->
+			<bEmbassyTrading>1</bEmbassyTrading>
+			<!--Afforess Advanced Diplomacy-->
 			<bDisable>0</bDisable>
 			<bGoodyTech>1</bGoodyTech>
 			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
@@ -2940,6 +2945,7 @@
 			<iPower>4</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
+			<bNonAggressionTrading>1</bNonAggressionTrading>
 			<bDisable>0</bDisable>
 			<bGoodyTech>0</bGoodyTech>
 			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
@@ -3304,6 +3310,7 @@
 			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
+			<bFreeTradeAgreementTrading>1</bFreeTradeAgreementTrading>
 			<bDisable>0</bDisable>
 			<bGoodyTech>0</bGoodyTech>
 			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>

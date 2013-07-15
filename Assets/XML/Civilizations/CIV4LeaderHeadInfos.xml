@@ -62,6 +62,16 @@
 			<iBonusTradeAttitudeChangeLimit>0</iBonusTradeAttitudeChangeLimit>
 			<iOpenBordersAttitudeDivisor>0</iOpenBordersAttitudeDivisor>
 			<iOpenBordersAttitudeChangeLimit>0</iOpenBordersAttitudeChangeLimit>
+			<!-- Advanced Diplomacy-->
+			<iLimitedBordersAttitudeDivisor>25</iLimitedBordersAttitudeDivisor>
+			<iLimitedBordersAttitudeChangeLimit>2</iLimitedBordersAttitudeChangeLimit>
+			<iEmbassyAttitudeDivisor>25</iEmbassyAttitudeDivisor>
+			<iEmbassyAttitudeChangeLimit>2</iEmbassyAttitudeChangeLimit>
+			<iFreeTradeAgreementAttitudeDivisor>25</iFreeTradeAgreementAttitudeDivisor>
+			<iFreeTradeAgreementAttitudeChangeLimit>2</iFreeTradeAgreementAttitudeChangeLimit>
+			<iNonAggressionAttitudeDivisor>25</iNonAggressionAttitudeDivisor>
+			<iNonAggressionAttitudeChangeLimit>2</iNonAggressionAttitudeChangeLimit>
+			<!-- Advanced Diplomacy-->
 			<iDefensivePactAttitudeDivisor>0</iDefensivePactAttitudeDivisor>
 			<iDefensivePactAttitudeChangeLimit>0</iDefensivePactAttitudeChangeLimit>
 			<iShareWarAttitudeChange>0</iShareWarAttitudeChange>
@@ -87,6 +97,18 @@
 			<DefensivePactRefuseAttitudeThreshold>NONE</DefensivePactRefuseAttitudeThreshold>
 			<PermanentAllianceRefuseAttitudeThreshold>NONE</PermanentAllianceRefuseAttitudeThreshold>
 			<VassalRefuseAttitudeThreshold>NONE</VassalRefuseAttitudeThreshold>
+			<!-- Advanced Diplomacy-->
+			<ContactRefuseAttitudeThreshold>ATTITUDE_ANNOYED</ContactRefuseAttitudeThreshold>
+			<MilitaryUnitRefuseAttitudeThreshold>ATTITUDE_ANNOYED</MilitaryUnitRefuseAttitudeThreshold>
+			<WorkerRefuseAttitudeThreshold>ATTITUDE_ANNOYED</WorkerRefuseAttitudeThreshold>
+			<CorporationRefuseAttitudeThreshold>ATTITUDE_CAUTIOUS</CorporationRefuseAttitudeThreshold>
+			<EmbassyRefuseAttitudeThreshold>ATTITUDE_ANNOYED</EmbassyRefuseAttitudeThreshold>
+			<SecretaryGeneralVoteRefuseAttitudeThreshold>ATTITUDE_ANNOYED</SecretaryGeneralVoteRefuseAttitudeThreshold>
+			<LimitedBordersRefuseAttitudeThreshold>ATTITUDE_ANNOYED</LimitedBordersRefuseAttitudeThreshold>
+			<FreeTradeAgreementRefuseAttitudeThreshold>ATTITUDE_ANNOYED</FreeTradeAgreementRefuseAttitudeThreshold>
+			<NonAggressionRefuseAttitudeThreshold>ATTITUDE_CAUTIOUS</NonAggressionRefuseAttitudeThreshold>
+			<POWRefuseAttitudeThreshold>ATTITUDE_ANNOYED</POWRefuseAttitudeThreshold>
+			<!-- Advanced Diplomacy-->
 			<iVassalPowerModifier>0</iVassalPowerModifier>
 			<iFreedomAppreciation>0</iFreedomAppreciation>
 			<FavoriteCivic>NONE</FavoriteCivic>
@@ -5850,6 +5872,16 @@
 			<iBonusTradeAttitudeChangeLimit>2</iBonusTradeAttitudeChangeLimit>
 			<iOpenBordersAttitudeDivisor>25</iOpenBordersAttitudeDivisor>
 			<iOpenBordersAttitudeChangeLimit>2</iOpenBordersAttitudeChangeLimit>
+			<!-- Advanced Diplomacy-->
+			<iLimitedBordersAttitudeDivisor>25</iLimitedBordersAttitudeDivisor>
+			<iLimitedBordersAttitudeChangeLimit>2</iLimitedBordersAttitudeChangeLimit>
+			<iEmbassyAttitudeDivisor>25</iEmbassyAttitudeDivisor>
+			<iEmbassyAttitudeChangeLimit>2</iEmbassyAttitudeChangeLimit>
+			<iFreeTradeAgreementAttitudeDivisor>25</iFreeTradeAgreementAttitudeDivisor>
+			<iFreeTradeAgreementAttitudeChangeLimit>2</iFreeTradeAgreementAttitudeChangeLimit>
+			<iNonAggressionAttitudeDivisor>25</iNonAggressionAttitudeDivisor>
+			<iNonAggressionAttitudeChangeLimit>2</iNonAggressionAttitudeChangeLimit>
+			<!-- Advanced Diplomacy--> 
 			<iDefensivePactAttitudeDivisor>12</iDefensivePactAttitudeDivisor>
 			<iDefensivePactAttitudeChangeLimit>2</iDefensivePactAttitudeChangeLimit>
 			<iShareWarAttitudeChange>1</iShareWarAttitudeChange>
@@ -5875,6 +5907,18 @@
 			<DefensivePactRefuseAttitudeThreshold>ATTITUDE_CAUTIOUS</DefensivePactRefuseAttitudeThreshold>
 			<PermanentAllianceRefuseAttitudeThreshold>ATTITUDE_PLEASED</PermanentAllianceRefuseAttitudeThreshold>
 			<VassalRefuseAttitudeThreshold>ATTITUDE_ANNOYED</VassalRefuseAttitudeThreshold>
+			<!-- Advanced Diplomacy-->
+			<ContactRefuseAttitudeThreshold>ATTITUDE_ANNOYED</ContactRefuseAttitudeThreshold>
+			<MilitaryUnitRefuseAttitudeThreshold>ATTITUDE_ANNOYED</MilitaryUnitRefuseAttitudeThreshold>
+			<WorkerRefuseAttitudeThreshold>ATTITUDE_ANNOYED</WorkerRefuseAttitudeThreshold>
+			<CorporationRefuseAttitudeThreshold>ATTITUDE_CAUTIOUS</CorporationRefuseAttitudeThreshold>
+			<EmbassyRefuseAttitudeThreshold>ATTITUDE_ANNOYED</EmbassyRefuseAttitudeThreshold>
+			<SecretaryGeneralVoteRefuseAttitudeThreshold>ATTITUDE_ANNOYED</SecretaryGeneralVoteRefuseAttitudeThreshold>
+			<LimitedBordersRefuseAttitudeThreshold>ATTITUDE_ANNOYED</LimitedBordersRefuseAttitudeThreshold>
+			<FreeTradeAgreementRefuseAttitudeThreshold>ATTITUDE_PLEASED</FreeTradeAgreementRefuseAttitudeThreshold>
+			<NonAggressionRefuseAttitudeThreshold>ATTITUDE_CAUTIOUS</NonAggressionRefuseAttitudeThreshold>
+			<POWRefuseAttitudeThreshold>ATTITUDE_ANNOYED</POWRefuseAttitudeThreshold>
+			<!-- Advanced Diplomacy-->
 			<iVassalPowerModifier>-20</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
 			<FavoriteCivic>CIVIC_HEREDITARY_RULE</FavoriteCivic>

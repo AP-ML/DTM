@@ -175,6 +175,13 @@
 			<bVisible>1</bVisible>
 		</GameOptionInfo>
 		<GameOptionInfo>
+			<Type>GAMEOPTION_ADVANCED_DIPLOMACY</Type>
+			<Description>TXT_KEY_GAMEOPTION_ADVANCED_DIPLOMACY</Description>
+			<Help>TXT_KEY_GAMEOPTION_ADVANCED_DIPLOMACY_HELP</Help>
+			<bDefault>1</bDefault>
+			<bVisible>1</bVisible>
+		</GameOptionInfo>
+		<GameOptionInfo>
 			<Type>GAMEOPTION_SPIES_RETURN_TO_NEAREST_CITY</Type>
 			<Description>TXT_KEY_GAME_OPTION_SPIES_RETURN_TO_NEAREST_CITY</Description>
 			<Help>TXT_KEY_GAME_OPTION_SPIES_RETURN_TO_NEAREST_CITY_HELP</Help>
