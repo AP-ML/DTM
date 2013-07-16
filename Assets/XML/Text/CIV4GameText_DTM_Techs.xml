@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_TECH_QUANTUM_PHYSICS</Tag>
+		<English>Quantum Physics</English>
+		<French>
+			<Text>Physique Quantique</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Quantenphysik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Fisica Quantistica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Física Cuántica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_QUANTUM_PHYSICS_PEDIA</Tag>
+		<English>[TAB]Filler.</English>
+		<French>[TAB]Mastic.</French>
+		<German>[TAB]Füllstoff.</German>
+		<Italian>[TAB]Filler.</Italian>
+		<Spanish>[TAB]Relleno.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_QUANTUM_PHYSICS_STRATEGY</Tag>
+		<English>Filler.</English>
+		<French>Mastic.</French>
+		<German>Füllstoff.</German>
+		<Italian>Filler.</Italian>
+		<Spanish>Relleno.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_QUANTUM_PHYSICS_QUOTE</Tag>
+		<English>"If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet." [PARAGRAPH:1]- Niels Bohr</English>
+		<French>"Si la mécanique quantique n'a pas profondément choqué que vous, vous ne l'avez pas encore compris."[PARAGRAPH:1]- Niels Bohr</French>
+		<German>"Wenn Quantenmechanik nicht zutiefst schockiert Sie, Sie haben es nicht verstanden noch." [PARAGRAPH:1]- Niels Bohr</German>
+		<Italian>"Se la meccanica quantistica non ha sconvolto profondamente voi, non avete ancora capito." [PARAGRAPH:1]- Niels Bohr</Italian>
+		<Spanish>"Si la mecánica cuántica no ha conmocionado profundamente a usted, usted no ha entendido aún". [PARAGRAPH:1] - Niels Bohr</Spanish>
+	</TEXT>
+</Civ4GameText>

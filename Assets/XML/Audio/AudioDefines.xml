@@ -119,6 +119,20 @@
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
 		<SoundData>
+			<SoundID>SND_TECH_MP_QUANTUM_PHYSICS</SoundID>
+			<Filename>Sounds/Tech/TECH_MP_QUANTUM_PHYSICS</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
+			<SoundID>SND_TECH_QUANTUM_PHYSICS</SoundID>
+			<Filename>Sounds/Tech/TECH_QUANTUM_PHYSICS</Filename>
+			<LoadType>DYNAMIC_RES</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+		<SoundData>
 			<SoundID>SND_TECH_MP_MODERN_ESPIONAGE</SoundID>
 			<Filename>Sounds/Tech/TECH_MP_MODERN_ESPIONAGE</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>

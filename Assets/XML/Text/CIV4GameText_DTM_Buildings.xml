@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PARTICLE_ACCELERATOR</Tag>
+		<English>Particle Accelerator</English>
+		<French>
+			<Text>Accélérateur de particules</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Teilchenbeschleuniger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Acceleratore di Particelle:Acceleratori di particelle</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Acelerador de Partículas:Aceleradores de Partículas</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PARTICLE_ACCELERATOR_PEDIA</Tag>
+		<English>[TAB]Filler.</English>
+		<French>[TAB]Mastic.</French>
+		<German>[TAB]Füllstoff.</German>
+		<Italian>[TAB]Filler.</Italian>
+		<Spanish>[TAB]Relleno.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PARTICLE_ACCELERATOR_STRATEGY</Tag>
+		<English>[TAB]Filler.</English>
+		<French>[TAB]Mastic.</French>
+		<German>[TAB]Füllstoff.</German>
+		<Italian>[TAB]Filler.</Italian>
+		<Spanish>[TAB]Relleno.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LARGE_HADRON_COLLIDER</Tag>
+		<English>Large Hadron Collider</English>
+		<French>
+			<Text>Large Hadron Collider</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Large Hadron Collider</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Large Hadron Collider:Large Hadron Colliders</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Large Hadron Collider:Large Hadron Colliders</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LARGE_HADRON_COLLIDER_PEDIA</Tag>
+		<English>[TAB]Filler.</English>
+		<French>[TAB]Mastic.</French>
+		<German>[TAB]Füllstoff.</German>
+		<Italian>[TAB]Filler.</Italian>
+		<Spanish>[TAB]Relleno.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LARGE_HADRON_COLLIDER_STRATEGY</Tag>
+		<English>[TAB]Filler.</English>
+		<French>[TAB]Mastic.</French>
+		<German>[TAB]Füllstoff.</German>
+		<Italian>[TAB]Filler.</Italian>
+		<Spanish>[TAB]Relleno.</Spanish>
+	</TEXT>
+</Civ4GameText>

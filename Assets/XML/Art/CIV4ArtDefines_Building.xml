@@ -688,6 +688,16 @@
 			<Button>,Art/Interface/Buttons/Buildings/Laboratory.dds,Art/Interface/Buttons/Warlords_Atlas_1.dds,5,3</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_PARTICLE_ACCELERATOR</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.15</fScale>
+			<fInterfaceScale>0.52</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Laboratory/Laboratory.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/Buildings/accelerator.dds</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_THEATRE</Type>
 			<LSystem>LSYSTEM_2x2</LSystem>
 			<bAnimated>0</bAnimated>
@@ -1596,6 +1606,16 @@
 			<NIF>Art/Structures/Buildings/SpaceElevator/SpaceElevator.nif</NIF>
 			<KFM/>
 			<Button>,Art/Interface/Buttons/Buildings/SpaceElevator.dds,Art/Interface/Buttons/Buildings_Atlas.dds,8,9</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_LARGE_HADRON_COLLIDER</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.15</fScale>
+			<fInterfaceScale>0.52</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/super_collider/SuperCollider.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/Buildings/supercollider.dds</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_ARTEMIS</Type>
