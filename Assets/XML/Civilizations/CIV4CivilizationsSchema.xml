@@ -19,13 +19,6 @@
 	<ElementType name="iTechTradeKnownPercent" content="textOnly" dt:type="int"/>
 	<ElementType name="iMaxGoldTradePercent" content="textOnly" dt:type="int"/>
 	<ElementType name="iMaxGoldPerTurnTradePercent" content="textOnly" dt:type="int"/>
-	<!-- BBAI Victory Strategy -->
-	<ElementType name="iCultureVictoryWeight" content="textOnly" dt:type="int"/>
-	<ElementType name="iSpaceVictoryWeight" content="textOnly" dt:type="int"/>
-	<ElementType name="iConquestVictoryWeight" content="textOnly" dt:type="int"/>
-	<ElementType name="iDominationVictoryWeight" content="textOnly" dt:type="int"/>
-	<ElementType name="iDiplomacyVictoryWeight" content="textOnly" dt:type="int"/>
-	<!-- BBAI Victory Strategy -->
 	<ElementType name="iMaxWarRand" content="textOnly" dt:type="int"/>
 	<ElementType name="iMaxWarNearbyPowerRatio" content="textOnly" dt:type="int"/>
 	<ElementType name="iMaxWarDistantPowerRatio" content="textOnly" dt:type="int"/>
@@ -227,13 +220,6 @@
 		<element type="iTechTradeKnownPercent"/>
 		<element type="iMaxGoldTradePercent"/>
 		<element type="iMaxGoldPerTurnTradePercent"/>
-		<!-- BBAI Victory Strategy -->
-		<element type="iCultureVictoryWeight"/>
-		<element type="iSpaceVictoryWeight"/>
-		<element type="iConquestVictoryWeight"/>
-		<element type="iDominationVictoryWeight"/>
-		<element type="iDiplomacyVictoryWeight"/>
-		<!-- BBAI Victory Strategy -->
 		<element type="iMaxWarRand"/>
 		<element type="iMaxWarNearbyPowerRatio"/>
 		<element type="iMaxWarDistantPowerRatio"/>
