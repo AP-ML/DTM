@@ -682,7 +682,7 @@ class CvTechChooser:
 		# Open Borders
 		if ( gc.getTechInfo(i).isLimitedBordersTrading() ):
 				szLimitedBordersButton = "LimitedBorders" + str(i)
-				screen.addDDSGFCAt( szLimitedBordersButton , szTechRecord, ArtFileMgr.getInterfaceArtInfo("INTERFACE_TECH_LIMITED_BORDERS").getPath(), iX + fX, iY + Y_ROW, TEXTURE_SIZE, TEXTURE_SIZE, WidgetTypes.WIDGET_HELP_RIGHT_PASSAGE, i, -1, False )
+				screen.addDDSGFCAt( szLimitedBordersButton , szTechRecord, ArtFileMgr.getInterfaceArtInfo("INTERFACE_TECH_LIMITED_BORDERS").getPath(), iX + fX, iY + Y_ROW, TEXTURE_SIZE, TEXTURE_SIZE, WidgetTypes.WIDGET_HELP_LIMITED_BORDERS, i, -1, False )
 				fX += X_INCREMENT
 
 		j = 0
