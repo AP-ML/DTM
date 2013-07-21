@@ -44413,6 +44413,18 @@
 			<iBonusTradeAttitudeChangeLimit>2</iBonusTradeAttitudeChangeLimit>
 			<iOpenBordersAttitudeDivisor>25</iOpenBordersAttitudeDivisor>
 			<iOpenBordersAttitudeChangeLimit>2</iOpenBordersAttitudeChangeLimit>
+			<!-- Advanced Diplomacy-->
+
+			<iLimitedBordersAttitudeDivisor>25</iLimitedBordersAttitudeDivisor>
+			<iLimitedBordersAttitudeChangeLimit>2</iLimitedBordersAttitudeChangeLimit>
+			<iEmbassyAttitudeDivisor>25</iEmbassyAttitudeDivisor>
+			<iEmbassyAttitudeChangeLimit>2</iEmbassyAttitudeChangeLimit>
+			<iFreeTradeAgreementAttitudeDivisor>25</iFreeTradeAgreementAttitudeDivisor>
+			<iFreeTradeAgreementAttitudeChangeLimit>2</iFreeTradeAgreementAttitudeChangeLimit>
+			<iNonAggressionAttitudeDivisor>25</iNonAggressionAttitudeDivisor>
+			<iNonAggressionAttitudeChangeLimit>2</iNonAggressionAttitudeChangeLimit>
+			<!-- Advanced Diplomacy--> 
+			
 			<iDefensivePactAttitudeDivisor>12</iDefensivePactAttitudeDivisor>
 			<iDefensivePactAttitudeChangeLimit>2</iDefensivePactAttitudeChangeLimit>
 			<iShareWarAttitudeChange>1</iShareWarAttitudeChange>
@@ -44438,6 +44450,18 @@
 			<DefensivePactRefuseAttitudeThreshold>ATTITUDE_PLEASED</DefensivePactRefuseAttitudeThreshold>
 			<PermanentAllianceRefuseAttitudeThreshold>ATTITUDE_PLEASED</PermanentAllianceRefuseAttitudeThreshold>
 			<VassalRefuseAttitudeThreshold>ATTITUDE_PLEASED</VassalRefuseAttitudeThreshold>
+			<!-- Advanced Diplomacy-->
+			<ContactRefuseAttitudeThreshold>ATTITUDE_ANNOYED</ContactRefuseAttitudeThreshold>
+			<MilitaryUnitRefuseAttitudeThreshold>ATTITUDE_ANNOYED</MilitaryUnitRefuseAttitudeThreshold>
+			<WorkerRefuseAttitudeThreshold>ATTITUDE_ANNOYED</WorkerRefuseAttitudeThreshold>
+			<CorporationRefuseAttitudeThreshold>ATTITUDE_CAUTIOUS</CorporationRefuseAttitudeThreshold>
+			<EmbassyRefuseAttitudeThreshold>ATTITUDE_ANNOYED</EmbassyRefuseAttitudeThreshold>
+			<SecretaryGeneralVoteRefuseAttitudeThreshold>ATTITUDE_ANNOYED</SecretaryGeneralVoteRefuseAttitudeThreshold>
+			<LimitedBordersRefuseAttitudeThreshold>ATTITUDE_ANNOYED</LimitedBordersRefuseAttitudeThreshold>
+			<FreeTradeAgreementRefuseAttitudeThreshold>ATTITUDE_ANNOYED</FreeTradeAgreementRefuseAttitudeThreshold>
+			<NonAggressionRefuseAttitudeThreshold>ATTITUDE_CAUTIOUS</NonAggressionRefuseAttitudeThreshold>
+			<POWRefuseAttitudeThreshold>ATTITUDE_ANNOYED</POWRefuseAttitudeThreshold>
+			<!-- Advanced Diplomacy-->
 			<iVassalPowerModifier>0</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
 			<FavoriteCivic>CIVIC_STATE_PROPERTY</FavoriteCivic>
@@ -44519,6 +44543,52 @@
 					<ContactType>CONTACT_TRADE_MAP</ContactType>
 					<iContactRand>20</iContactRand>
 				</ContactRand>
+				<!-- Advanced Diplomacy-->
+				<ContactRand>
+					<ContactType>CONTACT_PEACE_PRESSURE</ContactType>
+					<iContactRand>100</iContactRand>
+				</ContactRand>
+				<ContactRand>
+					<ContactType>CONTACT_EMBASSY</ContactType>
+					<iContactRand>25</iContactRand>
+				</ContactRand>
+				<ContactRand>
+					<ContactType>CONTACT_NON_AGGRESSION</ContactType>
+					<iContactRand>25</iContactRand>
+				</ContactRand>
+				<ContactRand>
+					<ContactType>CONTACT_POW</ContactType>
+					<iContactRand>25</iContactRand>
+				</ContactRand>
+				<ContactRand>
+					<ContactType>CONTACT_TRADE_STOP_TRADING</ContactType>
+					<iContactRand>20</iContactRand>
+				</ContactRand>
+				<ContactRand>
+					<ContactType>CONTACT_TRADE_JOIN_WAR</ContactType>
+					<iContactRand>10</iContactRand>
+				</ContactRand>
+				<ContactRand>
+					<ContactType>CONTACT_SECRETARY_GENERAL_VOTE</ContactType>
+					<iContactRand>10</iContactRand>
+				</ContactRand>
+				<ContactRand>
+					<ContactType>CONTACT_TRADE_MILITARY_UNITS</ContactType>
+					<iContactRand>15</iContactRand>
+				</ContactRand>
+				<ContactRand>
+					<ContactType>CONTACT_TRADE_WORKERS</ContactType>
+					<iContactRand>25</iContactRand>
+				</ContactRand>
+				<ContactRand>
+					<ContactType>CONTACT_TRADE_CONTACTS</ContactType>
+					<iContactRand>25</iContactRand>
+				</ContactRand>
+				<ContactRand>
+					<ContactType>CONTACT_TRADE_CORPORATION</ContactType>
+					<iContactRand>25</iContactRand>
+				</ContactRand>
+				<!-- Advanced Diplomacy-->
 			</ContactRands>
 			<ContactDelays>
 				<ContactDelay>
@@ -44577,6 +44647,52 @@
 					<ContactType>CONTACT_TRADE_MAP</ContactType>
 					<iContactDelay>50</iContactDelay>
 				</ContactDelay>
+				<!-- Advanced Diplomacy-->
+				<ContactDelay>
+					<ContactType>CONTACT_PEACE_PRESSURE</ContactType>
+					<iContactDelay>100</iContactDelay>
+				</ContactDelay>
+				<ContactDelay>
+					<ContactType>CONTACT_EMBASSY</ContactType>
+					<iContactDelay>25</iContactDelay>
+				</ContactDelay>
+				<ContactDelay>
+					<ContactType>CONTACT_NON_AGGRESSION</ContactType>
+					<iContactDelay>25</iContactDelay>
+				</ContactDelay>
+				<ContactDelay>
+					<ContactType>CONTACT_POW</ContactType>
+					<iContactDelay>25</iContactDelay>
+				</ContactDelay>
+				<ContactDelay>
+					<ContactType>CONTACT_TRADE_STOP_TRADING</ContactType>
+					<iContactDelay>20</iContactDelay>
+				</ContactDelay>
+				<ContactDelay>
+					<ContactType>CONTACT_TRADE_JOIN_WAR</ContactType>
+					<iContactDelay>20</iContactDelay>
+				</ContactDelay>
+				<ContactDelay>
+					<ContactType>CONTACT_SECRETARY_GENERAL_VOTE</ContactType>
+					<iContactDelay>15</iContactDelay>
+				</ContactDelay>				
+				<ContactDelay>
+					<ContactType>CONTACT_TRADE_MILITARY_UNITS</ContactType>
+					<iContactDelay>20</iContactDelay>
+				</ContactDelay>
+				<ContactDelay>
+					<ContactType>CONTACT_TRADE_WORKERS</ContactType>
+					<iContactDelay>20</iContactDelay>
+				</ContactDelay>
+				<ContactDelay>
+					<ContactType>CONTACT_TRADE_CONTACTS</ContactType>
+					<iContactDelay>15</iContactDelay>
+				</ContactDelay>
+				<ContactDelay>
+					<ContactType>CONTACT_TRADE_CORPORATION</ContactType>
+					<iContactDelay>20</iContactDelay>
+				</ContactDelay>
+				<!-- Advanced Diplomacy-->
 			</ContactDelays>
 			<MemoryDecays>
 				<MemoryDecay>
@@ -44663,6 +44779,49 @@
 					<MemoryType>MEMORY_EVENT_BAD_TO_US</MemoryType>
 					<iMemoryRand>50</iMemoryRand>
 				</MemoryDecay>
+				<!-- Advanced Diplomacy-->
+				<MemoryDecay>
+					<MemoryType>MEMORY_RECALLED_AMBASSADOR</MemoryType>
+					<iMemoryRand>15</iMemoryRand>
+				</MemoryDecay>
+				<MemoryDecay>
+					<MemoryType>MEMORY_WARMONGER</MemoryType>
+					<iMemoryRand>15</iMemoryRand>
+				</MemoryDecay>
+				<MemoryDecay>
+					<MemoryType>MEMORY_MADE_PEACE</MemoryType>
+					<iMemoryRand>15</iMemoryRand>
+				</MemoryDecay>
+				<MemoryDecay>
+					<MemoryType>MEMORY_BACKSTAB</MemoryType>
+					<iMemoryRand>15</iMemoryRand>
+				</MemoryDecay>
+				<MemoryDecay>
+					<MemoryType>MEMORY_BACKSTAB_FRIEND</MemoryType>
+					<iMemoryRand>15</iMemoryRand>
+				</MemoryDecay>
+				<MemoryDecay>
+					<MemoryType>MEMORY_CANCELLED_NON_AGGRESSION</MemoryType>
+					<iMemoryRand>15</iMemoryRand>
+				</MemoryDecay>
+				<MemoryDecay>
+					<MemoryType>MEMORY_CANCELLED_FREE_TRADE_AGREEMENT</MemoryType>
+					<iMemoryRand>15</iMemoryRand>
+				</MemoryDecay>
+				<MemoryDecay>
+					<MemoryType>MEMORY_TRADED_POW</MemoryType>
+					<iMemoryRand>15</iMemoryRand>
+				</MemoryDecay>
+
+				<MemoryDecay>
+					<MemoryType>MEMORY_KEPT_OUR_CITY</MemoryType>
+					<iMemoryRand>15</iMemoryRand>
+				</MemoryDecay>
+				<MemoryDecay>
+					<MemoryType>MEMORY_WORKED_PLOT</MemoryType>
+					<iMemoryRand>15</iMemoryRand>
+				</MemoryDecay>
+				<!-- Advanced Diplomacy-->
 			</MemoryDecays>
 			<MemoryAttitudePercents>
 				<MemoryAttitudePercent>
