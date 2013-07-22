@@ -16,7 +16,14 @@
 		<Italian>Citizens in %s1 have begun rioting and looting after a spy from %s2 framed a notorious rebel faction for the death of the city governor.</Italian>
 		<Spanish>Citizens in %s1 have begun rioting and looting after a spy from %s2 framed a notorious rebel faction for the death of the city governor.</Spanish>
 	</TEXT>
-	
+	<TEXT>
+		<Tag>TXT_KEY_MEMORY_KEPT_OUR_CITY</Tag>
+		<English>You kept our city!</English>
+		<French>You kept our city!</French>
+		<German>You kept our city!</German>
+		<Italian>You kept our city!</Italian>
+		<Spanish>You kept our city!</Spanish>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_POWER_RESTORED</Tag>
 		<English>Power in the city of %s1 has been restored.</English>
