@@ -51,6 +51,10 @@
 				<EraInfoSoundtrack>AS2D_ANCIENT_SOUNDTRACK_2</EraInfoSoundtrack>
 				<EraInfoSoundtrack>AS2D_ANCIENT_SOUNDTRACK_3</EraInfoSoundtrack>
 				<EraInfoSoundtrack>AS2D_ANCIENT_SOUNDTRACK_4</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_01A_Fortiori</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_02Pacari_Tampu</EraInfoSoundtrack>
+                <EraInfoSoundtrack>AS2D_04A'tugewinu</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_09Quiet_Outback</EraInfoSoundtrack>
 			</EraInfoSoundtracks>
 			<CitySoundscapes>
 				<CitySoundscape>
@@ -121,6 +125,10 @@
 				<EraInfoSoundtrack>AS2D_SONG_DIP_GR_EARLY_PEACE</EraInfoSoundtrack>
 				<EraInfoSoundtrack>AS2D_SONG_BARBARIAN</EraInfoSoundtrack>
 				<EraInfoSoundtrack>AS2D_SONG_DIP_GR_EARLY_WAR</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_05Summum_Bonum</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_07Ankh_Djet</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_08Shaolin_San</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_10Kali_Dance</EraInfoSoundtrack>
 			</EraInfoSoundtracks>
 			<CitySoundscapes>
 				<CitySoundscape>
@@ -192,6 +200,8 @@
 				<EraInfoSoundtrack>AS2D_PRAETORIUS_BRANSLE</EraInfoSoundtrack>
 				<EraInfoSoundtrack>AS2D_PRAETORIUS_VOLTE</EraInfoSoundtrack>
 				<EraInfoSoundtrack>AS2D_SHEPPARD_MEDIA_VITA</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_03Amaethon</EraInfoSoundtrack>				
+				<EraInfoSoundtrack>AS2D_06Casus_Belli</EraInfoSoundtrack>
 			</EraInfoSoundtracks>
 			<CitySoundscapes>
 				<CitySoundscape>

@@ -6,42 +6,112 @@
 <!-- AudioDefines -->
 <AudioDefines xmlns="x-schema:AudioDefinesSchema.xml">
 	<SoundDatas>
-	<SoundData>
+	    <SoundData>
+			<SoundID>SONG_01A_Fortiori</SoundID>
+			<Filename>Sounds/Soundtrack/CTP2/01A_Fortiori</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+			<SoundID>SONG_02Pacari_Tampu</SoundID>
+			<Filename>Sounds/Soundtrack/CTP2/02Pacari_Tampu</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+			<SoundID>SONG_03Amaethon</SoundID>
+			<Filename>Sounds/Soundtrack/CTP2/03Amaethon</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+			<SoundID>SONG_04A'tugewinu</SoundID>
+			<Filename>Sounds/Soundtrack/CTP2/04A'tugewinu</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+		    <SoundID>SONG_05Summum_Bonum</SoundID>
+			<Filename>Sounds/Soundtrack/CTP2/05Summum_Bonum</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+			<SoundID>SONG_06Casus_Belli</SoundID>
+			<Filename>Sounds/Soundtrack/CTP2/06Casus_Belli</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+			<SoundID>SONG_07Ankh_Djet</SoundID>
+			<Filename>Sounds/Soundtrack/CTP2/07Ankh_Djet</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+			<SoundID>SONG_08Shaolin_San</SoundID>
+			<Filename>Sounds/Soundtrack/CTP2/08Shaolin_San</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+			<SoundID>SONG_09Quiet_Outback</SoundID>
+			<Filename>Sounds/Soundtrack/CTP2/09Quiet_Outback</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+            <SoundID>SONG_10Kali_Dance</SoundID>
+			<Filename>Sounds/Soundtrack/CTP2/10Kali_Dance</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+	    <SoundData>
 			<SoundID>DIPLO_DEADMEN</SoundID>
 			<Filename>Sounds/Diplomacy/Deadmen_All_Eras</Filename>
 			<LoadType>STREAMED</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
-	<SoundData>
+	    <SoundData>
 			<SoundID>DIPLO_PALM_LATE</SoundID>
 			<Filename>Sounds/Diplomacy/Palm_Late</Filename>
 			<LoadType>STREAMED</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
-	<SoundData>
+	    <SoundData>
 			<SoundID>DIPLO_PALM_EARLY</SoundID>
 			<Filename>Sounds/Diplomacy/Palm_Early</Filename>
 			<LoadType>STREAMED</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
-	<SoundData>
+	    <SoundData>
 			<SoundID>SND_BUILD_ASPHALT_ROAD</SoundID>
 			<Filename>Sounds/Buildings/AsphaltRoad</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
-	<SoundData>
+	    <SoundData>
 			<SoundID>SND_BUILD_CARPLANT</SoundID>
 			<Filename>Sounds/Buildings/AssemblyPlant</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
-	<SoundData>
+	    <SoundData>
 			<SoundID>DIPLO_SPARROW</SoundID>
 			<Filename>Sounds/Diplomacy/Sparrow_All_Eras</Filename>
 			<LoadType>STREAMED</LoadType>
