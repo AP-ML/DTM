@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Civ4UnitCombatInfos xmlns="x-schema:Regicide_CIV4BasicInfoSchema.xml">
+	<UnitCombatInfos>
+		<UnitCombatInfo>
+			<Type>UNITCOMBAT_KING</Type>
+			<Description>TXT_KEY_UNIT_KING</Description>
+			<Button>Modules/Regicide/Art/Nobility.dds</Button>
+		</UnitCombatInfo>
+	</UnitCombatInfos>
+</Civ4UnitCombatInfos>

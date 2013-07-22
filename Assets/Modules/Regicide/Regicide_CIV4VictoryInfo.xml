@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Civ4VictoryInfo xmlns="x-schema:Regicide_CIV4GameInfoSchema.xml">
+	<VictoryInfos>
+		<VictoryInfo>
+			<Type>VICTORY_REGICIDE</Type>
+			<Description>TXT_KEY_VICTORY_REGICIDE</Description>
+			<Civilopedia>TXT_KEY_CONCEPT_KING_PEDIA</Civilopedia>
+			<bTargetScore>1</bTargetScore>
+			<bEndScore>0</bEndScore>
+			<bConquest>0</bConquest>
+			<bDiploVote>0</bDiploVote>
+			<bPermanent>0</bPermanent>
+			<iPopulationPercentLead>0</iPopulationPercentLead>
+			<iLandPercent>0</iLandPercent>
+			<iMinLandPercent>0</iMinLandPercent>
+			<iReligionPercent>0</iReligionPercent>
+			<CityCulture>NONE</CityCulture>
+			<iNumCultureCities>0</iNumCultureCities>
+			<iTotalCultureRatio>0</iTotalCultureRatio>
+			<iVictoryDelayTurns>0</iVictoryDelayTurns>
+			<VictoryMovie/>
+		</VictoryInfo>
+	</VictoryInfos>
+</Civ4VictoryInfo>

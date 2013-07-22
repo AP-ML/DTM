@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Civ4NewConceptInfos xmlns="x-schema:Regicide_CIV4BasicInfoSchema.xml">
+	<NewConceptInfos>
+		<NewConceptInfo>
+			<Type>CONCEPT_KING</Type>
+			<Description>TXT_KEY_VICTORY_REGICIDE</Description>
+			<Civilopedia>TXT_KEY_CONCEPT_KING_PEDIA</Civilopedia>
+		</NewConceptInfo>
+	</NewConceptInfos>
+</Civ4NewConceptInfos>

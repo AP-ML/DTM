@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FEMALE_GREAT_GENERAL</Tag>
+		<English>Female Great General</English>
+		<French>Female Great General</French>
+		<German>Female Great General</German>
+		<Italian>Female Great General</Italian>
+		<Spanish>Female Great General</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_KING_PEDIA</Tag>
+		<English>[H1]Regicide[\H1][PARAGRAPH:1]The King is a special unit of each civilization. It starts with different promotions based on traits and grows stronger together with the empire. If the king is killed, it causes anarchy. Killing kings of all rivals triggers Regicide Victory.</English>
+		<French>[H1]Regicide[\H1][PARAGRAPH:1]The King is a special unit of each civilization. It starts with different promotions based on traits and grows stronger together with the empire and can gain promotions in combat. If the king is killed, it causes anarchy. Killing kings of all rivals triggers Regicide Victory.</French>
+		<German>[H1]Regicide[\H1][PARAGRAPH:1]The King is a special unit of each civilization. It starts with different promotions based on traits and grows stronger together with the empire and can gain promotions in combat. If the king is killed, it causes anarchy. Killing kings of all rivals triggers Regicide Victory.</German>
+		<Italian>[H1]Regicide[\H1][PARAGRAPH:1]The King is a special unit of each civilization. It starts with different promotions based on traits and grows stronger together with the empire and can gain promotions in combat. If the king is killed, it causes anarchy. Killing kings of all rivals triggers Regicide Victory.</Italian>
+		<Spanish>[H1]Regicide[\H1][PARAGRAPH:1]The King is a special unit of each civilization. It starts with different promotions based on traits and grows stronger together with the empire and can gain promotions in combat. If the king is killed, it causes anarchy. Killing kings of all rivals triggers Regicide Victory.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_KING_DIED</Tag>
+		<English>[COLOR_WARNING_TEXT]The empire mourns at the death of the king![COLOR_REVERT]</English>
+		<French>[COLOR_WARNING_TEXT]The empire mourns at the death of the king![COLOR_REVERT]</French>
+		<German>[COLOR_WARNING_TEXT]The empire mourns at the death of the king![COLOR_REVERT]</German>
+		<Italian>[COLOR_WARNING_TEXT]The empire mourns at the death of the king![COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_WARNING_TEXT]The empire mourns at the death of the king![COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_REGICIDE</Tag>
+		<English>Regicide</English>
+		<French>Regicide</French>
+		<German>Regicide</German>
+		<Italian>Regicide</Italian>
+		<Spanish>Regicide</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KING</Tag>
+		<English>King</English>
+		<French>King</French>
+		<German>King</German>
+		<Italian>King</Italian>
+		<Spanish>King</Spanish>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_QUEEN</Tag>
+		<English>Queen</English>
+		<French>Queen</French>
+		<German>Queen</German>
+		<Italian>Queen</Italian>
+		<Spanish>Queen</Spanish>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KING_STRATEGY</Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+		</TEXT>
+</Civ4GameText>

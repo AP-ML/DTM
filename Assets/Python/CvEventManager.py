@@ -21,6 +21,10 @@ import CvWorldBuilderScreen
 import CvAdvisorUtils
 import CvTechChooser
 
+## Regicide ##
+import Regicide
+## Regicide ##
+
 gc = CyGlobalContext()
 localText = CyTranslator()
 PyPlayer = PyHelpers.PyPlayer
@@ -384,6 +388,13 @@ class CvEventManager:
 	def onFirstContact(self, argsList):
 		'Contact'
 		iTeamX,iHasMetTeamY = argsList
+## Regicide Start ##
+		if CyGame().isVictoryValid(gc.getInfoTypeForString("VICTORY_REGICIDE")):
+			pTeam = gc.getTeam(iTeamX)
+			if pTeam.isVassal(iHasMetTeamY):
+				pPlayer = gc.getPlayer(pTeam.getLeaderID())
+				Regicide.Regicide().Birth(pPlayer.getCity(0))
+## Regicide End ##
 		if (not self.__LOG_CONTACT):
 			return
 		CvUtil.pyPrint('Team %d has met Team %d' %(iTeamX, iHasMetTeamY))
@@ -587,6 +598,11 @@ class CvEventManager:
 		unit, iAttacker = argsList
 		player = PyPlayer(unit.getOwner())
 		attacker = PyPlayer(iAttacker)
+## Regicide Start ##
+		if CyGame().isVictoryValid(gc.getInfoTypeForString("VICTORY_REGICIDE")):
+			if unit.getUnitClassType() == gc.getInfoTypeForString("UNITCLASS_KING"):
+				Regicide.Regicide().Death(unit.getOwner(), unit)				
+## Regicide End ##
 		if (not self.__LOG_UNITKILLED):
 			return
 		CvUtil.pyPrint('Player %d Civilization %s Unit %s was killed by Player %d' 
@@ -674,7 +690,10 @@ class CvEventManager:
 		'Tech Acquired'
 		iTechType, iTeam, iPlayer, bAnnounce = argsList
 		# Note that iPlayer may be NULL (-1) and not a refer to a player object
-		
+## Regicide Start ##
+		if CyGame().isVictoryValid(gc.getInfoTypeForString("VICTORY_REGICIDE")):
+			Regicide.Regicide().doEraCheck(iTeam, iTechType)
+## Regicide End ##		
 		# Show tech splash when applicable
 		if (iPlayer > -1 and bAnnounce and not CyInterface().noTechSplash()):
 			if (gc.getGame().isFinalInitialized() and not gc.getGame().GetWorldBuilderMode()):
@@ -820,11 +839,26 @@ class CvEventManager:
 		if (city.getOwner() == gc.getGame().getActivePlayer()):
 			self.__eventEditCityNameBegin(city, False)	
 		CvUtil.pyPrint('City Built Event: %s' %(city.getName()))
+## Regicide Start ##
+		if CyGame().isVictoryValid(gc.getInfoTypeForString("VICTORY_REGICIDE")):
+			pPlayer = gc.getPlayer(city.getOwner())
+			if pPlayer.getUnitClassCount(gc.getInfoTypeForString("UNITCLASS_KING")) == 1:
+				Regicide.Regicide().setKingStr(pPlayer, pPlayer.getNumCities())
+			if city.isCapital():
+				Regicide.Regicide().Birth(city)			
+## Regicide End ##
 		
 	def onCityRazed(self, argsList):
 		'City Razed'
 		city, iPlayer = argsList
 		iOwner = city.findHighestCulture()
+## Regicide Start ##
+		if CyGame().isVictoryValid(gc.getInfoTypeForString("VICTORY_REGICIDE")):
+			pPlayer = gc.getPlayer(iPlayer)
+			if pPlayer.getUnitClassCount(gc.getInfoTypeForString("UNITCLASS_KING")) == 1:
+				Regicide.Regicide().setKingStr(pPlayer, pPlayer.getNumCities() -1)
+## Regicide End ##
+
 		# Partisans!
 		if city.getPopulation > 1 and iOwner != -1 and iPlayer != -1:
 			owner = gc.getPlayer(iOwner)
@@ -840,6 +874,15 @@ class CvEventManager:
 	def onCityAcquired(self, argsList):
 		'City Acquired'
 		iPreviousOwner,iNewOwner,pCity,bConquest,bTrade = argsList
+## Regicide Start ##
+		if CyGame().isVictoryValid(gc.getInfoTypeForString("VICTORY_REGICIDE")):
+			pPlayer = gc.getPlayer(iPreviousOwner)
+			if pPlayer.getUnitClassCount(gc.getInfoTypeForString("UNITCLASS_KING")) == 1:
+				Regicide.Regicide().setKingStr(pPlayer, pPlayer.getNumCities())
+			pPlayer2 = gc.getPlayer(iNewOwner)
+			if pPlayer2.getUnitClassCount(gc.getInfoTypeForString("UNITCLASS_KING")) == 1:
+				Regicide.Regicide().setKingStr(pPlayer2, pPlayer2.getNumCities())
+## Regicide End ##
 ## Platy Tech Conquest ##
 		if bConquest:
 			pPlayer1 = gc.getPlayer(iPreviousOwner)
