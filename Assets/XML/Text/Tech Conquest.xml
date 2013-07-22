@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_FULL_TECH</Tag>
+		<English>[COLOR_GREEN]We have gained the knowledge of [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_GREEN] from %s2![COLOR_REVERT]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_PARTIAL_TECH</Tag>
+		<English>[COLOR_GREEN]We have gained [COLOR_HIGHLIGHT_TEXT]%d1[COLOR_GREEN] progress towards [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_GREEN] from %s3![COLOR_REVERT]</English>
+	</TEXT>
+</Civ4GameText>

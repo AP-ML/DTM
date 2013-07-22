@@ -368,7 +368,6 @@ class CvEventManager:
 	def onEndPlayerTurn(self, argsList):
 		'Called at the end of a players turn'
 		iGameTurn, iPlayer = argsList
-		
 		if (gc.getGame().getElapsedGameTurns() == 1):
 			if (gc.getPlayer(iPlayer).isHuman()):
 				if (gc.getPlayer(iPlayer).canRevolution(0)):
@@ -826,7 +825,6 @@ class CvEventManager:
 		'City Razed'
 		city, iPlayer = argsList
 		iOwner = city.findHighestCulture()
-		
 		# Partisans!
 		if city.getPopulation > 1 and iOwner != -1 and iPlayer != -1:
 			owner = gc.getPlayer(iOwner)
@@ -842,48 +840,43 @@ class CvEventManager:
 	def onCityAcquired(self, argsList):
 		'City Acquired'
 		iPreviousOwner,iNewOwner,pCity,bConquest,bTrade = argsList
-# Tech By Conquest Mod
-		# The Loser
-		pPlayer1 = gc.getPlayer(iPreviousOwner)
-		pTeam1 = gc.getTeam(pPlayer1.getTeam())
-		# The Winner
-		pPlayer2 = gc.getPlayer(iNewOwner)
-		pTeam2 = gc.getTeam(pPlayer2.getTeam())
-		FoundTransferTech = False
-		
+## Platy Tech Conquest ##
 		if bConquest:
-			if not pPlayer1.isNone() and not pPlayer1.isBarbarian():
-			
-				for iTech in range(gc.getNumTechInfos()):
-					# Does Player1 have a Tech that Player2 does not have?
-					if pTeam1.isHasTech(iTech):
-						if not pTeam2.isHasTech(iTech):
-							iTechToTransfer = iTech
-							FoundTransferTech = True
-							break
-							
-				if FoundTransferTech:
-					TechDescription = PyInfo.TechnologyInfo(iTech).getDescription()
-					CyInterface().addImmediateMessage("Your scientists have discovered the knowledge of " + str(TechDescription), "")
-					pTeam2.setHasTech(iTech,True,iNewOwner,False,False)
-					
-					# Show tech splash 
-					if (iNewOwner > -1 and not CyInterface().noTechSplash()):
-						if (gc.getGame().isFinalInitialized() and not gc.getGame().GetWorldBuilderMode()):
-							if ((not gc.getGame().isNetworkMultiPlayer()) and (iNewOwner == gc.getGame().getActivePlayer())):
-								popupInfo = CyPopupInfo()
-								popupInfo.setButtonPopupType(ButtonPopupTypes.BUTTONPOPUP_PYTHON_SCREEN)
-								popupInfo.setData1(iTech)
-								popupInfo.setText(u"showTechSplash")
-								popupInfo.addPopup(iNewOwner)
-					
-				else:
-					CyInterface().addImmediateMessage("The vanquished have no useful scientific knowledge.", "")
-# End Tech By Conquest Mod
+			pPlayer1 = gc.getPlayer(iPreviousOwner)
+			pPlayer2 = gc.getPlayer(iNewOwner)
+			iTeam1 = pPlayer1.getTeam()
+			iTeam2 = pPlayer2.getTeam()
+			pTeam1 = gc.getTeam(iTeam1)
+			pTeam2 = gc.getTeam(iTeam2)
 
-		CvUtil.pyPrint('City Acquired Event: %s' %(pCity.getName()))		
-		
-	
+			if pCity.calculateTeamCulturePercent(iTeam2) < 25:
+				## Choose Techs
+				lTechs = []
+				for iTech in xrange(gc.getNumTechInfos()):
+					if pTeam2.isHasTech(iTech): continue
+					if not pPlayer2.canResearch(iTech, False): continue
+					if pTeam1.isHasTech(iTech):
+						lTechs.append(iTech)
+			
+				if len(lTechs) > 0:
+					iConquestTech = lTechs[CyGame().getSorenRandNum(len(lTechs), "Choose Tech")]
+					iCost = pTeam2.getResearchCost(iConquestTech)
+					iConquestAmount = pCity.getPopulation() * iCost /10		## 10 % of Tech Cost per Population
+					iProgress = pTeam2.getResearchProgress(iConquestTech)
+					pTeam2.changeResearchProgress(iConquestTech, min(iCost - iProgress, iConquestAmount), iNewOwner)
+
+					## Display Message ##
+					sTech = gc.getTechInfo(iConquestTech).getDescription()
+					for iPlayerX in xrange(gc.getMAX_CIV_PLAYERS()):
+						pPlayerX = gc.getPlayer(iPlayerX)
+						if pPlayerX.isAlive() and pPlayerX.getTeam() == iTeam2:
+							if iConquestAmount < iCost - iProgress:
+								CyInterface().addMessage(iPlayerX, True, 10, CyTranslator().getText("TXT_PARTIAL_TECH",(iConquestAmount, sTech, pCity.getName(),)), '', 0, gc.getTechInfo(iConquestTech).getButton(), gc.getInfoTypeForString("COLOR_GREEN"), pCity.getX(), pCity.getY(), True, True)
+							else:
+								CyInterface().addMessage(iPlayerX, True, 10, CyTranslator().getText("TXT_FULL_TECH",(sTech, pCity.getName(),)), '', 0, gc.getTechInfo(iConquestTech).getButton(), gc.getInfoTypeForString("COLOR_GREEN"), pCity.getX(), pCity.getY(), True, True)
+## Platy Tech Conquest ##
+		CvUtil.pyPrint('City Acquired Event: %s' %(pCity.getName()))
+
 	def onCityAcquiredAndKept(self, argsList):
 		'City Acquired and Kept'
 		iOwner,pCity = argsList
@@ -914,7 +907,6 @@ class CvEventManager:
 		'City Production'
 		pCity = argsList[0]
 		iPlayer = argsList[1]
-
 		CvAdvisorUtils.cityAdvise(pCity, iPlayer)
 	
 	def onCityBuildingUnit(self, argsList):
