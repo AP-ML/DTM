@@ -695,7 +695,7 @@
 			<fInterfaceScale>0.52</fInterfaceScale>
 			<NIF>Art/Structures/Buildings/Laboratory/Laboratory.nif</NIF>
 			<KFM/>
-			<Button>,Art/Interface/Buttons/Buildings/accelerator.dds</Button>
+			<Button>Art/Interface/Buttons/Buildings/accelerator.dds</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_THEATRE</Type>
@@ -1613,9 +1613,9 @@
 			<bAnimated>0</bAnimated>
 			<fScale>1.15</fScale>
 			<fInterfaceScale>0.52</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/super_collider/SuperCollider.nif</NIF>
+			<NIF>Art/Structures/Buildings/super_collider/supercollider.nif</NIF>
 			<KFM/>
-			<Button>,Art/Interface/Buttons/Buildings/supercollider.dds</Button>
+			<Button>Art/Interface/Buttons/Buildings/supercollider.dds</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_ARTEMIS</Type>
