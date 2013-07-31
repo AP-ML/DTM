@@ -6,6 +6,15 @@
 <!-- Improvement art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<ImprovementArtInfos>
+	<ImprovementArtInfo>
+			<Type>ART_DEF_IMPROVEMENT_SCIENCE_CENTRE</Type>
+			<bExtraAnimations>0</bExtraAnimations>
+			<fScale>0.4</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Bio-Warfare_Labs/Bio-Warfare_Labs.nif</NIF>
+			<KFM></KFM>
+			<Button>,Art/Interface/Buttons/buildings/science_centre.dds</Button>
+		</ImprovementArtInfo>
 		<ImprovementArtInfo>
 			<Type>ART_DEF_IMPROVEMENT_OFFSHORE_TURBINE</Type>
 			<bExtraAnimations>0</bExtraAnimations>

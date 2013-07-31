@@ -1045,6 +1045,10 @@
 					<BuildType>BUILD_JUNGLE_CAMP</BuildType>
 					<bBuild>1</bBuild>
 				</Build>
+				<Build>
+					<BuildType>BUILD_SCIENCE_CENTRE</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
 				<!--<Build>
 					<BuildType>BUILD_SCRUB_FALLOUT_RAPIDLY</BuildType>
 					<bBuild>1</bBuild>
@@ -1319,6 +1323,10 @@
 				</Build>
 				<Build>
 					<BuildType>BUILD_JUNGLE_CAMP</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
+					<BuildType>BUILD_SCIENCE_CENTRE</BuildType>
 					<bBuild>1</bBuild>
 				</Build>
 			</Builds>

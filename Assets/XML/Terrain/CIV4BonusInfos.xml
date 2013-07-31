@@ -81,7 +81,7 @@
 			</YieldChanges>
 			<iAITradeModifier>0</iAITradeModifier>
 			<iAIObjective>0</iAIObjective>
-			<iHealth>1</iHealth>
+			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iPlacementOrder>-1</iPlacementOrder>
 			<iConstAppearance>0</iConstAppearance>
