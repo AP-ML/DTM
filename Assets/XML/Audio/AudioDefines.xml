@@ -6,6 +6,34 @@
 <!-- AudioDefines -->
 <AudioDefines xmlns="x-schema:AudioDefinesSchema.xml">
 	<SoundDatas>
+	 <SoundData>
+			<SoundID>SONG_FUTURE4</SoundID>
+			<Filename>Sounds/Soundtrack/FutureMusic/Future4</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+	 <SoundData>
+			<SoundID>SONG_FUTURE3</SoundID>
+			<Filename>Sounds/Soundtrack/FutureMusic/Future3</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+	 <SoundData>
+			<SoundID>SONG_FUTURE2</SoundID>
+			<Filename>Sounds/Soundtrack/FutureMusic/Future2</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+	 <SoundData>
+			<SoundID>SONG_FUTURE1</SoundID>
+			<Filename>Sounds/Soundtrack/FutureMusic/Future1</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
 	    <SoundData>
 			<SoundID>SONG_01A_Fortiori</SoundID>
 			<Filename>Sounds/Soundtrack/CTP2/01A_Fortiori</Filename>

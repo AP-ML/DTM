@@ -424,7 +424,7 @@
 		</EraInfo>
 		<EraInfo>
 			<Type>ERA_FUTURE</Type>
-			<Description>TXT_KEY_ERA_FUTURE</Description>
+			<Description><!--TXT_KEY_ERA_FUTURE-->Transhuman</Description>
 			<Strategy>TXT_KEY_ERA_FUTURE_STRATEGY</Strategy>
 			<bNoGoodies>1</bNoGoodies>
 			<bNoAnimals>1</bNoAnimals>
@@ -455,20 +455,20 @@
 			<iSoundtrackSpace>40</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
 			<EraInfoSoundtracks>
-				<EraInfoSoundtrack>AS2D_ANFORTAS_WOUND</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_CHAIRMAN_DANCES</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_CHCONNE</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_CHRISTIAN_ZEAL</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_COMMON_TONES</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_GRAND_PIANOLA_1</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_GRAND_PIANOLA_2</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_HARMONIELEHRE</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_HYMING_SLEWS</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_LOOPS_AND_VERSES</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_MEISTER_ECKHARDT</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_SHAKING_AND_TREMBLING</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_THE_PEOPLE_ARE_HEROES</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_TROMBA_LONTANA</EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_ANFORTAS_WOUND-->AS2D_FUTURE1</EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_CHAIRMAN_DANCES-->AS2D_FUTURE2</EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_CHCONNE-->AS2D_FUTURE3</EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_CHRISTIAN_ZEAL-->AS2D_FUTURE4</EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_COMMON_TONES--></EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_GRAND_PIANOLA_1--></EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_GRAND_PIANOLA_2--></EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_HARMONIELEHRE--></EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_HYMING_SLEWS--></EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_LOOPS_AND_VERSES--></EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_MEISTER_ECKHARDT--></EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_SHAKING_AND_TREMBLING--></EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_THE_PEOPLE_ARE_HEROES--></EraInfoSoundtrack>
+				<EraInfoSoundtrack><!--AS2D_TROMBA_LONTANA--></EraInfoSoundtrack>
 			</EraInfoSoundtracks>
 			<CitySoundscapes>
 				<CitySoundscape>
