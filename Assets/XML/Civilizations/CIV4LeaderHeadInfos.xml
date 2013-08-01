@@ -42723,9 +42723,9 @@
 		</LeaderHeadInfo>
 		<LeaderHeadInfo>
 			<Type>LEADER_ARCHERKO</Type>
-			<Description>Archer Ko1</Description>
+			<Description>Emir Sanjit</Description>
 			<Civilopedia></Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_ARCHERKO</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_LEADER_SANJIT</ArtDefineTag>
 			<iWonderConstructRand>10</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>6</iBasePeaceWeight>
@@ -42797,15 +42797,15 @@
 			<VassalRefuseAttitudeThreshold>ATTITUDE_PLEASED</VassalRefuseAttitudeThreshold>
 			<iVassalPowerModifier>0</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
-			<FavoriteCivic>CIVIC_HEREDITARY_RULE</FavoriteCivic>
+			<FavoriteCivic>CIVIC_ORGANIZED_RELIGION</FavoriteCivic>
 			<FavoriteReligion></FavoriteReligion>
 			<Traits>
 				<Trait>
-					<TraitType>TRAIT_EQUESTRIAN</TraitType>
+					<TraitType>TRAIT_SCIENTIFIC</TraitType>
 					<bTrait>1</bTrait>
 				</Trait>
 				<Trait>
-					<TraitType>TRAIT_FINANCIAL</TraitType>
+					<TraitType>TRAIT_COMMERCIAL</TraitType>
 					<bTrait>1</bTrait>
 				</Trait>
 			</Traits>
@@ -43195,31 +43195,31 @@
 			<DiplomacyMusicPeace>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_ANCIENT</EraType>
-					<DiploScriptId>AS2D_DIPLO_VICTORIA_EARLY</DiploScriptId>
+					<DiploScriptId>AS2D_DIPLO_DESERT_EARLY</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_CLASSICAL</EraType>
-					<DiploScriptId>AS2D_DIPLO_VICTORIA_EARLY</DiploScriptId>
+					<DiploScriptId>AS2D_DIPLO_DESERT_EARLY</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_MEDIEVAL</EraType>
-					<DiploScriptId>AS2D_DIPLO_VICTORIA_MIDDLE</DiploScriptId>
+					<DiploScriptId>AS2D_DIPLO_DESERT_MIDDLE</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_RENAISSANCE</EraType>
-					<DiploScriptId>AS2D_DIPLO_VICTORIA_MIDDLE</DiploScriptId>
+					<DiploScriptId>AS2D_DIPLO_DESERT_MIDDLE</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_INDUSTRIAL</EraType>
-					<DiploScriptId>AS2D_DIPLO_VICTORIA_LATE</DiploScriptId>
+					<DiploScriptId>AS2D_DIPLO_DESERT_LATE</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_MODERN</EraType>
-					<DiploScriptId>AS2D_DIPLO_VICTORIA_LATE</DiploScriptId>
+					<DiploScriptId>AS2D_DIPLO_DESERT_LATE</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_FUTURE</EraType>
-					<DiploScriptId>AS2D_DIPLO_VICTORIA_LATE</DiploScriptId>
+					<DiploScriptId>AS2D_DIPLO_DESERT_LATE</DiploScriptId>
 				</DiploMusicPeaceEra>
 			</DiplomacyMusicPeace>
 			<DiplomacyIntroMusicWar>

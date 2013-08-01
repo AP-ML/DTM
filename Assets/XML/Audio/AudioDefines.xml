@@ -6,6 +6,27 @@
 <!-- AudioDefines -->
 <AudioDefines xmlns="x-schema:AudioDefinesSchema.xml">
 	<SoundDatas>
+	<SoundData>
+			<SoundID>DIPLO_DESERT_LATE</SoundID>
+			<Filename>Sounds/Diplomacy/Desert_Late</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+	<SoundData>
+			<SoundID>DIPLO_DESERT_MIDDLE</SoundID>
+			<Filename>Sounds/Diplomacy/Desert_Middle</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
+	<SoundData>
+			<SoundID>DIPLO_DESERT_EARLY</SoundID>
+			<Filename>Sounds/Diplomacy/Desert_Early</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+		</SoundData>
 	 <SoundData>
 			<SoundID>SONG_FUTURE4</SoundID>
 			<Filename>Sounds/Soundtrack/FutureMusic/Future4</Filename>

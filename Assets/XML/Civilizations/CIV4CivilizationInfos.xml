@@ -244,34 +244,34 @@
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_ARROWPEAN</Type>
-			<Description>Arrowpean Empire</Description>
-			<ShortDescription>Arrow</ShortDescription>
-			<Adjective>Arrowpean</Adjective>
+			<Description>The Desert Raiders</Description>
+			<ShortDescription>Raider</ShortDescription>
+			<Adjective>Raiders</Adjective>
 			<Civilopedia>Christian's 2nd Civ</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_BLUE</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_BROWN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_ARROWPEAN</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_MIDDLE_EAST</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
-				<City>Varrock</City>
-				<City>Prifdinnas</City>
-				<City>Isafdar</City>
-				<City>Arandar</City>
-				<City>Lletya</City>
-				<City>Tirannwn</City>
+				<City>Al Kharid</City>
+				<City>Pollnivneach</City>
+				<City>Nardah</City>
+				<City>Sophanem</City>
+				<City>Menaphos</City>
+				<City>Dubai</City>
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
-					<BuildingType>BUILDING_HORSEMAN_TRAINING_GROUNDS</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+					<BuildingType>BUILDING_BAZAAR</BuildingType>
 				</Building>
 			</Buildings>
 			<Units>
 				<Unit>
-					<UnitClassType>UNITCLASS_ARCHER</UnitClassType>
-					<UnitType>UNIT_ARROWPEAN_ARCHER</UnitType>
+					<UnitClassType>UNITCLASS_GRENADIER</UnitClassType>
+					<UnitType>UNIT_SUICIDE_BOMBER</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
@@ -288,11 +288,11 @@
 			</FreeBuildingClasses>
 			<FreeTechs>
 				<FreeTech>
-					<TechType>TECH_HUNTING</TechType>
+					<TechType>TECH_MYSTICISM</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MINING</TechType>
+					<TechType>TECH_THE_WHEEL</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
@@ -311,8 +311,8 @@
 				</Leader>
 			</Leaders>
 			<DerivativeCiv>NONE</DerivativeCiv>
-			<CivilizationSelectionSound>AS3D_ENGLAND_SELECT</CivilizationSelectionSound>
-			<CivilizationActionSound>AS3D_ENGLAND_ORDER</CivilizationActionSound>
+			<CivilizationSelectionSound>AS3D_ARABIA_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_ARABIA_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_AZTEC</Type>

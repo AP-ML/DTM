@@ -15,12 +15,12 @@
 			<BackgroundKFM></BackgroundKFM>
 	</LeaderheadArtInfo>
 	<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_ARCHERKO</Type>
-			<Button>,Art/interface/buttons/Civilizations/ArrowpeanEmpire.dds</Button>
-			<NIF>art/interface/LeaderHeads/Beowulf/beowulf.nif</NIF>
-			<KFM>art/interface/LeaderHeads/Beowulf/hannibal.kfm</KFM>
-			<NoShaderNIF>art/LeaderHeads/Hannibal/hannibal_noshader.nif</NoShaderNIF>
-			<BackgroundKFM>art/interface/LeaderHeads/Beowulf/Ragnar_BG.kfm</BackgroundKFM>
+			<Type>ART_DEF_LEADER_SANJIT</Type>
+			<Button>,Art/interface/LeaderHeads/Btn_LH_Arabia_Saladin.dds,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,6,11</Button>
+			<NIF>art/LeaderHeads/Saladin/saladin.nif</NIF>
+			<KFM>art/LeaderHeads/Saladin/saladin.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/Saladin/saladin_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/Saladin/saladin_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 	<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_PALM</Type>
