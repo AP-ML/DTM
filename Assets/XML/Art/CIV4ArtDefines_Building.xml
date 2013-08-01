@@ -1871,9 +1871,9 @@
 			<Type>ART_DEF_BUILDING_HOLY_OFFICE</Type>
 			<LSystem>LSYSTEM_3x2</LSystem>
 			<bAnimated>0</bAnimated>
-			<fScale>1.8</fScale>
+			<fScale>1.0</fScale>
 			<fInterfaceScale>0.61</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/Castle/Castle.nif</NIF>
+			<NIF>Art/Structures/Buildings/Holy_Office/Military_Encampments.nif</NIF>
 			<KFM/>
 			<Button>Art/Interface/Buttons/Builds/Guillotine.dds</Button>
 		</BuildingArtInfo>

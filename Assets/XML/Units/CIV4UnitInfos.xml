@@ -17243,8 +17243,8 @@
 			<Invisible>NONE</Invisible>
 			<SeeInvisible>NONE</SeeInvisible>
 			<Description>Fusion Tank</Description>
-			<Civilopedia>TXT_KEY_UNIT_DREADNOUGHT_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_UNIT_DREADNOUGHT_STRATEGY</Strategy>
+			<Civilopedia>[TAB]The development of lightweight and efficient fusion generators has allowed the creation of ever-larger and more deadly land-based vehicles. The so-called "Fusion Tanks" are the largest land vehicles ever built, towering over ordinary tanks like a skyscraper over a humble peasant cottage. [PARAGRAPH:1]Fusion Tanks are huge, powerful vehicles, typically equipped with one or more massive main guns and a number of smaller weapons to deal with any close-in opponents. They are heavily-armored, carrying anti-air weapons and the latest in physical and electromagnetic shielding capable of defending against the deadliest attack. It is theorized that a fusion tank could withstand a nuclear explosion, though this has not yet been put to the test. [PARAGRAPH:1]In the field fusion tanks are usually deployed to attack enemy cities, especially well-defended arcologies cities equipped with electromagnetic shielding. These behemoths are virtually unstoppable, unless the enemy has its own fusion tanks or is willing to sacrifice huge numbers of lesser troops in suicidal wave assaults.</Civilopedia>
+			<Strategy>Construct mighty [COLOR_UNIT_TEXT]Fusion Tanks[COLOR_REVERT] when you seek to bring terror and defeat to your puny enemies!</Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
 			<bAnimal>0</bAnimal>
 			<bFood>0</bFood>

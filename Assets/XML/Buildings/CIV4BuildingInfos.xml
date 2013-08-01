@@ -16748,8 +16748,8 @@
 			<Type>BUILDING_ARCOLOGY</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>Arcology</Description>
-			<Civilopedia>TXT_KEY_BUILDING_ARCOLOGY_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_BUILDING_ARCOLOGY_STRATEGY</Strategy>
+			<Civilopedia>[TAB]An "arcology" is a human settlement with an extremely high population density. To achieve such density requires near-total control over the settlement's environment. As modern cities have become ever more populated, they have repeatedly stressed their resources to the breaking-point. The largest human cities have become de-facto arcologies, and to survive have had to encase themselves in domes to increase their control over the populace and the environment. [PARAGRAPH:1]Domed cities are more efficient than undomed cities, exposed as the latter are to the vagaries of the environment and all manner of air- and water-borne disease. The climate in an arcology is kept at a constant temperature, ending the need for less-efficient individual heating and cooling units. The air and water supplies are constantly scrubbed to remove any disease or impurities, increasing the population's life-spans and decreasing pressure on the city's medical support systems. Meals are created and served at massive cafeterias, providing a more efficient distribution of protein and also removing the need for wasteful individual cooking units. [PARAGRAPH:1]Increased population density is not without its drawbacks, however. As populations increase the stress level is higher, as is the risk of mental illness or indeed total mental breakdown. The city's leaders combat these problems through education, increased psychological monitoring of the population, and, in extreme cases, by secretly slipping doses of tranquilizers into the citizens' food supply.</Civilopedia>
+			<Strategy>An [COLOR_BUILDING_TEXT]Arcology[COLOR_REVERT] increases a city's health by +3.<!--They are required to construct [COLOR_BUILDING_TEXT]Arcology Shielding[COLOR_REVERT].--></Strategy>
 			<Advisor>ADVISOR_GROWTH</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_ARCOLOGY</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
@@ -16811,7 +16811,7 @@
 			<bPrereqReligion>0</bPrereqReligion>
 			<bCenterInCity>0</bCenterInCity>
 			<iAIWeight>0</iAIWeight>
-			<iCost>750</iCost>
+			<iCost>1000</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>250</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -30057,7 +30057,7 @@
 			<Type>BUILDING_CURE_FOR_CANCER</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>Cure for Cancer</Description>
-			<Civilopedia>Even with significant advancements in science occuring every day, an actual cure for cancer eludes medical science. A cure for cancer would put an end to this terrible disease, and would allow many people to live happy, productive lives.</Civilopedia>
+			<Civilopedia>[TAB]Even with significant advancements in science occuring every day, an actual cure for cancer eludes medical science. A cure for cancer would put an end to this terrible disease, and would allow many people to live happy, productive lives.</Civilopedia>
 			<Strategy>Discovering a cure for cancer adds health and happiness in all cities, and begins a Golden Age. It also adds a free Hospital to every city.</Strategy>
 			<Advisor>ADVISOR_SCIENCE</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_CURE_FOR_CANCER</ArtDefineTag>
@@ -30229,7 +30229,7 @@
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>Biofuel Refinery</Description>
 			<Civilopedia></Civilopedia>
-			<Strategy>The Biofuel Refinery will produce 1 Biofuel resource from Corn or Sugar.</Strategy>
+			<Strategy>The Biofuel Refinery produces 1 Biofuel resource from Corn or Sugar. However, producing biofuels consumes food that could be used to feed a population.</Strategy>
 			<Advisor></Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_BIOFUEL_REFINERY</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
@@ -30356,7 +30356,11 @@
 			<SeaPlotYieldChanges/>
 			<RiverPlotYieldChanges/>
 			<GlobalSeaPlotYieldChanges/>
-			<YieldChanges/>
+			<YieldChanges>
+				<iYield>-3</iYield>
+				<iYield>0</iYield>
+				<iYield>0</iYield>
+			</YieldChanges>
 			<CommerceChanges/>
 			<ObsoleteSafeCommerceChanges>
 				<iCommerce>0</iCommerce>
