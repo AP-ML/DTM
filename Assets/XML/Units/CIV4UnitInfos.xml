@@ -24789,6 +24789,10 @@
 				<UniqueName>TXT_KEY_GREAT_PERSON_DUKE_ELLINGTON</UniqueName>
 				<UniqueName>TXT_KEY_GREAT_PERSON_PABLO_PICASSO</UniqueName>
 				<UniqueName>TXT_KEY_GREAT_PERSON_MILES_DAVIS</UniqueName>
+				<UniqueName>Cassius Marcellus Coolidge</UniqueName>
+				<UniqueName>Quentin Tarantino</UniqueName>
+				<UniqueName>Sidney K. "Sid" Meier</UniqueName>
+				<UniqueName>Markus "Notch" Persson</UniqueName>
 			</UniqueNames>
 			<Special>SPECIALUNIT_PEOPLE</Special>
 			<Capture>NONE</Capture>
@@ -25013,6 +25017,7 @@
 				<UniqueName>TXT_KEY_GREAT_PERSON_ENRICO_FERMI</UniqueName>
 				<UniqueName>TXT_KEY_GREAT_PERSON_ROSALIND_FRANKLIN</UniqueName>
 				<UniqueName>TXT_KEY_GREAT_PERSON_ANDREI_SAKHAROV</UniqueName>
+				<UniqueName>Brian Cox</UniqueName>
 			</UniqueNames>
 			<Special>SPECIALUNIT_PEOPLE</Special>
 			<Capture>NONE</Capture>
@@ -25682,7 +25687,9 @@
 				<UniqueName>TXT_KEY_GREAT_PERSON_MONTGOMERY</UniqueName>
 				<UniqueName>TXT_KEY_GREAT_PERSON_GUERDIAN</UniqueName>
 				<UniqueName>TXT_KEY_GREAT_PERSON_ROMMEL</UniqueName>
-				<UniqueName>TXT_KEY_GREAT_PERSON_ZHUKOV</UniqueName>
+				<UniqueName>Admiral Pretzle</UniqueName>
+				<UniqueName>General Pear</UniqueName>
+				<UniqueName>Almighty Anquietas</UniqueName>
 			</UniqueNames>
 			<Special>SPECIALUNIT_PEOPLE</Special>
 			<Capture>NONE</Capture>
