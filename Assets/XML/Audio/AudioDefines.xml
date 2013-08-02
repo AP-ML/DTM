@@ -11446,7 +11446,7 @@
 		</SoundData>
 		<SoundData>
 			<SoundID>SND_TECH_MP_CHAOS_THEORY</SoundID>
-			<Filename>Sounds/Tech/TECH_MP_CHAOS_THEORY/Filename>
+			<Filename>Sounds/Tech/TECH_MP_CHAOS_THEORY</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
