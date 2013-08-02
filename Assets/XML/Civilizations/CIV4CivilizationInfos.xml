@@ -261,6 +261,8 @@
 				<City>Sophanem</City>
 				<City>Menaphos</City>
 				<City>Dubai</City>
+				<City>Desert People Point</City>
+				<City>Camel Place</City>
 			</Cities>
 			<Buildings>
 				<Building>
@@ -270,8 +272,8 @@
 			</Buildings>
 			<Units>
 				<Unit>
-					<UnitClassType>UNITCLASS_GRENADIER</UnitClassType>
-					<UnitType>UNIT_SUICIDE_BOMBER</UnitType>
+					<UnitClassType>UNITCLASS_HORSE_ARCHER</UnitClassType>
+					<UnitType>UNIT_DESERT_BANDIT</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
