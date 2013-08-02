@@ -92,7 +92,7 @@ class Regicide:
 		(loopUnit, iter) = pPlayer.firstUnit(False)
 		while(loopUnit):
 			if loopUnit.getUnitClassType() == gc.getInfoTypeForString("UNITCLASS_KING"):
-				loopUnit.setBaseCombatStr(iNumCities * (pPlayer.getCurrentEra() + 1))
+				loopUnit.setBaseCombatStr(iNumCities * 2)
 				break
 			(loopUnit, iter) = pPlayer.nextUnit(iter, False)
 

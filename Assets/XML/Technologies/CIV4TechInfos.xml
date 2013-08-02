@@ -752,7 +752,7 @@
 			<iCost>6500</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
-			<Era>ERA_FUTURE</Era>
+			<Era>ERA_MODERN</Era>
 			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
 			<iFeatureProductionModifier>0</iFeatureProductionModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
@@ -884,7 +884,7 @@
 			<iCost>6500</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
-			<Era>ERA_FUTURE</Era>
+			<Era>ERA_MODERN</Era>
 			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
 			<iFeatureProductionModifier>0</iFeatureProductionModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
@@ -5252,7 +5252,7 @@
 			<iCost>8000</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
-			<Era>ERA_FUTURE</Era>
+			<Era>ERA_MODERN</Era>
 			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
 			<iFeatureProductionModifier>0</iFeatureProductionModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
@@ -5319,7 +5319,7 @@
 			<iCost>7000</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
-			<Era>ERA_FUTURE</Era>
+			<Era>ERA_MODERN</Era>
 			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
 			<iFeatureProductionModifier>0</iFeatureProductionModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
