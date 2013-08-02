@@ -176,7 +176,7 @@
 		</BonusArtInfo>
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_OPIUM</Type>
-			<fScale>1.0</fScale>
+			<fScale>0.6</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<NIF>Art/Terrain/Resources/Opium/wheat.nif</NIF>
 			<KFM>Art/Terrain/Resources/Opium/wheat.kfm</KFM>
@@ -257,7 +257,7 @@
 		</BonusArtInfo>
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_APPLES</Type>
-			<fScale>1.0</fScale>
+			<fScale>0.8</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<NIF>Art/Terrain/Resources/apple/Banana.nif</NIF>
 			<KFM>Art/Terrain/Resources/apple/Banana.kfm</KFM>
@@ -266,7 +266,7 @@
 		</BonusArtInfo>
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_BANANA</Type>
-			<fScale>1.0</fScale>
+			<fScale>0.8</fScale>
 			<fInterfaceScale>0.7</fInterfaceScale>
 			<NIF>Art/Terrain/Resources/Banana/Banana.nif</NIF>
 			<KFM>Art/Terrain/Resources/Banana/Banana.kfm</KFM>
