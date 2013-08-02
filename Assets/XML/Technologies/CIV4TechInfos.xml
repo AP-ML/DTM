@@ -68,9 +68,9 @@
 			</OrPreReqs>
 			<AndPreReqs>
 			</AndPreReqs>
-			<Quote>TBD</Quote>
-			<Sound>AS2D_TECH_PHYSICS</Sound>
-			<SoundMP>AS2D_TECH_MP_PHYSICS</SoundMP>
+			<Quote>"I wish I had never used the term 'grey goo'." ~ Eric Drexler</Quote>
+			<Sound>AS2D_TECH_NANO_MACHINES</Sound>
+			<SoundMP>AS2D_TECH_MP_NANO_MACHINES</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
 		</TechInfo>
 	    <TechInfo>
@@ -135,9 +135,9 @@
 			<AndPreReqs>
 			    <PrereqTech>TECH_FIBER_OPTICS</PrereqTech>
 			</AndPreReqs>
-			<Quote>TBD</Quote>
-			<Sound>AS2D_TECH_PHYSICS</Sound>
-			<SoundMP>AS2D_TECH_MP_PHYSICS</SoundMP>
+			<Quote>"Solar cells and most modern displays are examples of organic hybrids. But as we move to a renaissance in medicine with nanotech, matter becomes code." ~ Steve Jurvetson</Quote>
+			<Sound>AS2D_TECH_NANO_ASSEMBLY</Sound>
+			<SoundMP>AS2D_TECH_MP_NANO_ASSEMBLY</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
 		</TechInfo>
 	    <TechInfo>
@@ -202,9 +202,9 @@
 			<AndPreReqs>
 			    <PrereqTech>TECH_NANO_ASSEMBLY</PrereqTech>
 			</AndPreReqs>
-			<Quote>TBD</Quote>
-			<Sound>AS2D_TECH_PHYSICS</Sound>
-			<SoundMP>AS2D_TECH_MP_PHYSICS</SoundMP>
+			<Quote>"Cybernetics: The scientific study of control and communication in the animal and the machine." ~ Norbert Wiener.</Quote>
+			<Sound>AS2D_TECH_CYBERNETICS</Sound>
+			<SoundMP>AS2D_TECH_MP_CYBERNETICS</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
 		</TechInfo>
 	    <TechInfo>
@@ -268,9 +268,9 @@
 			</OrPreReqs>
 			<AndPreReqs>
 			</AndPreReqs>
-			<Quote>TBD</Quote>
-			<Sound>AS2D_TECH_PHYSICS</Sound>
-			<SoundMP>AS2D_TECH_MP_PHYSICS</SoundMP>
+			<Quote>"War, war never changes" ~ from Fallout</Quote>
+			<Sound>AS2D_TECH_PLASMA_WEAPONS</Sound>
+			<SoundMP>AS2D_TECH_MP_PLASMA_WEAPONS</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
 		</TechInfo>
 		<TechInfo>
@@ -335,9 +335,9 @@
 			<AndPreReqs>
 			    <PrereqTech>TECH_NANO_ASSEMBLY</PrereqTech>
 			</AndPreReqs>
-			<Quote>TBD</Quote>
-			<Sound>AS2D_TECH_PHYSICS</Sound>
-			<SoundMP>AS2D_TECH_MP_PHYSICS</SoundMP>
+			<Quote>"Everything is rice. And you cook it in a pressure cooker. Because you're fancy, and I hate finding quotes." ~ General Pear</Quote>
+			<Sound>AS2D_TECH_ULTRAPRESSURE_MACHINES</Sound>
+			<SoundMP>AS2D_TECH_MP_ULTRAPRESSURE_MACHINES</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
 		</TechInfo>
 		<TechInfo>
@@ -402,9 +402,9 @@
 			<AndPreReqs>
 			    <PrereqTech>TECH_GENE_MANIPULATION</PrereqTech>
 			</AndPreReqs>
-			<Quote>TBD</Quote>
-			<Sound>AS2D_TECH_PHYSICS</Sound>
-			<SoundMP>AS2D_TECH_MP_PHYSICS</SoundMP>
+			<Quote>"Do they look like fish to you?" ~ Aquaman</Quote>
+			<Sound>AS2D_TECH_FLUID_BREATHING</Sound>
+			<SoundMP>AS2D_TECH_MP_FLUID_BREATHING</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
 		</TechInfo>
 		<TechInfo>
@@ -468,9 +468,9 @@
 			</OrPreReqs>
 			<AndPreReqs>
 			</AndPreReqs>
-			<Quote>TBD</Quote>
-			<Sound>AS2D_TECH_PHYSICS</Sound>
-			<SoundMP>AS2D_TECH_MP_PHYSICS</SoundMP>
+			<Quote>"We need a theory of everything. Perhaps, the ultimate triumph of science." ~ Stephen Hawking</Quote>
+			<Sound>AS2D_TECH_UNIFIED_PHYSICS</Sound>
+			<SoundMP>AS2D_TECH_MP_UNIFIED_PHYSICS</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
 		</TechInfo>	
 		<TechInfo>
@@ -535,9 +535,9 @@
 			<AndPreReqs>
 			    <PrereqTech>TECH_FUSION</PrereqTech>
 			</AndPreReqs>
-			<Quote>TBD</Quote>
-			<Sound>AS2D_TECH_PHYSICS</Sound>
-			<SoundMP>AS2D_TECH_MP_PHYSICS</SoundMP>
+			<Quote>"Chaos: When the present determines the future, but the approximate present does not approximately determine the future." ~ Edward Lorenz</Quote>
+			<Sound>AS2D_TECH_CHAOS_THEORY</Sound>
+			<SoundMP>AS2D_TECH_MP_CHAOS_THEORY</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
 		</TechInfo>	
 		<TechInfo>
@@ -602,10 +602,10 @@
 			<AndPreReqs>
 			    <PrereqTech>TECH_ROBOTICS</PrereqTech>
 			</AndPreReqs>
-			<Quote>TBD</Quote>
-			<Sound>AS2D_TECH_PHYSICS</Sound>
-			<SoundMP>AS2D_TECH_MP_PHYSICS</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Life_Extension.dds</Button>
+			<Quote>"Surely God would not have created such a being as man, with an ability to grasp the infinite, to exist only for a day! No, no, man was made for immortality." ~ Abraham Lincoln</Quote>
+			<Sound>AS2D_TECH_LIFE_EXTENSION</Sound>
+			<SoundMP>AS2D_TECH_MP_LIFE_EXTENSION</SoundMP>
+			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
 		</TechInfo>	
 	    <TechInfo>
 			<Type>TECH_GENETIC_TAILORING</Type>
@@ -668,9 +668,9 @@
 			</OrPreReqs>
 			<AndPreReqs>
 			</AndPreReqs>
-			<Quote>TBD</Quote>
-			<Sound>AS2D_TECH_PHYSICS</Sound>
-			<SoundMP>AS2D_TECH_MP_PHYSICS</SoundMP>
+			<Quote>"I not only think that we will tamper with Mother Nature, I think Mother wants us to." - Willard Gaylin</Quote>
+			<Sound>AS2D_TECH_GENETIC_TAILORING</Sound>
+			<SoundMP>AS2D_TECH_MP_GENETIC_TAILORING</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
 		</TechInfo>	
 	    <TechInfo>
@@ -752,7 +752,7 @@
 			<iCost>6500</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
-			<Era>ERA_MODERN</Era>
+			<Era>ERA_FUTURE</Era>
 			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
 			<iFeatureProductionModifier>0</iFeatureProductionModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
@@ -884,7 +884,7 @@
 			<iCost>6500</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
-			<Era>ERA_MODERN</Era>
+			<Era>ERA_FUTURE</Era>
 			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
 			<iFeatureProductionModifier>0</iFeatureProductionModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
@@ -5252,7 +5252,7 @@
 			<iCost>8000</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
-			<Era>ERA_MODERN</Era>
+			<Era>ERA_FUTURE</Era>
 			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
 			<iFeatureProductionModifier>0</iFeatureProductionModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
@@ -5319,7 +5319,7 @@
 			<iCost>7000</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
-			<Era>ERA_MODERN</Era>
+			<Era>ERA_FUTURE</Era>
 			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
 			<iFeatureProductionModifier>0</iFeatureProductionModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
