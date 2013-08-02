@@ -73,7 +73,21 @@ class Regicide:
 			pUnit.setHasPromotion(gc.getInfoTypeForString("PROMOTION_BARRAGE1"), True)
 		if pPlayer.hasTrait(gc.getInfoTypeForString("TRAIT_FINANCIAL")):
 			pUnit.setHasPromotion(gc.getInfoTypeForString("PROMOTION_CITY_RAIDER1"), True)
-
+		if pPlayer.hasTrait(gc.getInfoTypeForString("TRAIT_PRODUCTIVE")):
+			pUnit.setHasPromotion(gc.getInfoTypeForString("PROMOTION_TACTICS"), True)
+		if pPlayer.hasTrait(gc.getInfoTypeForString("TRAIT_SCIENTIFIC")):
+			pUnit.setHasPromotion(gc.getInfoTypeForString("PROMOTION_SENTRY"), True)
+		if pPlayer.hasTrait(gc.getInfoTypeForString("TRAIT_HUMANITARIAN")):
+			pUnit.setHasPromotion(gc.getInfoTypeForString("PROMOTION_MORALE"), True)
+		if pPlayer.hasTrait(gc.getInfoTypeForString("TRAIT_DECEITFUL")):
+			pUnit.setHasPromotion(gc.getInfoTypeForString("PROMOTION_GUERILLA1"), True)
+		if pPlayer.hasTrait(gc.getInfoTypeForString("TRAIT_COMMERCIAL")):
+			pUnit.setHasPromotion(gc.getInfoTypeForString("PROMOTION_COMMANDO"), True)
+		if pPlayer.hasTrait(gc.getInfoTypeForString("TRAIT_SEAFARING")):
+			pUnit.setHasPromotion(gc.getInfoTypeForString("PROMOTION_AMPHIBIOUS"), True)
+		if pPlayer.hasTrait(gc.getInfoTypeForString("TRAIT_EQUESTRIAN")):
+			pUnit.setHasPromotion(gc.getInfoTypeForString("PROMOTION_WOODSMAN1"), True)
+			
 	def setKingStr(self, pPlayer, iNumCities):
 		(loopUnit, iter) = pPlayer.firstUnit(False)
 		while(loopUnit):

@@ -994,6 +994,10 @@
 					<bBuild>1</bBuild>
 				</Build>
 				<Build>
+					<BuildType>BUILD_ORCHARD</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
 					<BuildType>BUILD_QUARRY</BuildType>
 					<bBuild>1</bBuild>
 				</Build>
@@ -1263,6 +1267,10 @@
 				</Build>
 				<Build>
 					<BuildType>BUILD_PLANTATION</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
+					<BuildType>BUILD_ORCHARD</BuildType>
 					<bBuild>1</bBuild>
 				</Build>
 				<Build>
@@ -1537,6 +1545,10 @@
 				</Build>
 				<Build>
 					<BuildType>BUILD_PLANTATION</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
+					<BuildType>BUILD_ORCHARD</BuildType>
 					<bBuild>1</bBuild>
 				</Build>
 				<Build>

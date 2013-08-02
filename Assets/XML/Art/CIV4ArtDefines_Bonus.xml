@@ -101,6 +101,24 @@
 			<FontButtonIndex>8</FontButtonIndex>
 		</BonusArtInfo>
 		<BonusArtInfo>
+			<Type>ART_DEF_BONUS_BEER</Type>
+			<fScale>1.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Terrain/Resources/Wine/Wine.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/WorldBuilder/beer.dds</Button>
+			<FontButtonIndex>50</FontButtonIndex>			
+		</BonusArtInfo>
+		<BonusArtInfo>
+			<Type>ART_DEF_BONUS_CIDER</Type>
+			<fScale>1.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Terrain/Resources/Wine/Wine.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/WorldBuilder/cider.dds</Button>
+			<FontButtonIndex>50</FontButtonIndex>			
+		</BonusArtInfo>
+		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_DYE</Type>
 			<fScale>1.0</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -157,12 +175,30 @@
 			<FontButtonIndex>25</FontButtonIndex>
 		</BonusArtInfo>
 		<BonusArtInfo>
+			<Type>ART_DEF_BONUS_OPIUM</Type>
+			<fScale>1.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Terrain/Resources/Opium/wheat.nif</NIF>
+			<KFM>Art/Terrain/Resources/Opium/wheat.kfm</KFM>
+			<Button>Art/Interface/Buttons/WorldBuilder/opium.dds</Button>
+			<FontButtonIndex>50</FontButtonIndex>
+		</BonusArtInfo>
+		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_RUM</Type>
 			<fScale>1.0</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<NIF>Art/Terrain/Resources/Wine/Wine.nif</NIF>
 			<KFM/>
-			<Button>,Art/Interface/Buttons/WorldBuilder/rum.dds</Button>
+			<Button>Art/Interface/Buttons/WorldBuilder/rum.dds</Button>
+			<FontButtonIndex>50</FontButtonIndex>			
+		</BonusArtInfo>
+		<BonusArtInfo>
+			<Type>ART_DEF_BONUS_SAKE</Type>
+			<fScale>1.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Terrain/Resources/Wine/Wine.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/WorldBuilder/sake.dds</Button>
 			<FontButtonIndex>50</FontButtonIndex>			
 		</BonusArtInfo>
 		<BonusArtInfo>
@@ -218,6 +254,15 @@
 			<KFM>Art/Terrain/Resources/Whale/Whale.kfm</KFM>
 			<Button>,Art/Interface/Buttons/WorldBuilder/Whale.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,16</Button>
 			<FontButtonIndex>31</FontButtonIndex>
+		</BonusArtInfo>
+		<BonusArtInfo>
+			<Type>ART_DEF_BONUS_APPLES</Type>
+			<fScale>1.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Terrain/Resources/apple/Banana.nif</NIF>
+			<KFM>Art/Terrain/Resources/apple/Banana.kfm</KFM>
+			<Button>Art/Interface/Buttons/WorldBuilder/apples.dds</Button>
+			<FontButtonIndex>50</FontButtonIndex>
 		</BonusArtInfo>
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_BANANA</Type>
@@ -285,6 +330,24 @@
 			<SHADERNIF>Art/Terrain/Resources/Fish/Fish_FX.nif</SHADERNIF>
 			<Button>,Art/Interface/Buttons/WorldBuilder/Fish.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,15</Button>
 			<FontButtonIndex>15</FontButtonIndex>
+		</BonusArtInfo>
+		<BonusArtInfo>
+			<Type>ART_DEF_BONUS_GRAPES</Type>
+			<fScale>1.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Terrain/Resources/Wine/Wine.nif</NIF>
+			<KFM>Art/Terrain/Resources/Wine/Wine.kfm</KFM>
+			<Button>Art/Interface/Buttons/WorldBuilder/grapes.dds</Button>
+			<FontButtonIndex>50</FontButtonIndex>
+		</BonusArtInfo>
+		<BonusArtInfo>
+			<Type>ART_DEF_BONUS_PEARS</Type>
+			<fScale>1.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Terrain/Resources/pear/Banana.nif</NIF>
+			<KFM>Art/Terrain/Resources/pear/Banana.kfm</KFM>
+			<Button>Art/Interface/Buttons/WorldBuilder/apples.dds</Button>
+			<FontButtonIndex>50</FontButtonIndex>
 		</BonusArtInfo>
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_PIG</Type>
@@ -357,7 +420,7 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<NIF>Art/Terrain/Resources/Wheat/Wheat.nif</NIF>
 			<KFM/>
-			<Button>,Art/Interface/Buttons/WorldBuilder/vgame.dds</Button>
+			<Button>Art/Interface/Buttons/WorldBuilder/vgame.dds</Button>
 			<FontButtonIndex>43</FontButtonIndex>			
 		</BonusArtInfo>
 		<BonusArtInfo>
