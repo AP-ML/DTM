@@ -881,14 +881,14 @@
 						<iYield>1</iYield>
 					</TechYields>
 				</TechYieldChange>
-				<TechYieldChange>
+				<!--<TechYieldChange>
 					<PrereqTech>TECH_RENEWABLE_ENERGY</PrereqTech>
 					<TechYields>
 						<iYield>0</iYield>
 						<iYield>0</iYield>
 						<iYield>1</iYield>
 					</TechYields>
-				</TechYieldChange>
+				</TechYieldChange> -->
 			</TechYieldChanges>
 			<RouteYieldChanges/>
 			<bGraphicalOnly>0</bGraphicalOnly>

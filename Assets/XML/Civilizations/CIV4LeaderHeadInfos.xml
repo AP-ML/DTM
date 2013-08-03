@@ -42801,7 +42801,7 @@
 			<FavoriteReligion></FavoriteReligion>
 			<Traits>
 				<Trait>
-					<TraitType>TRAIT_PROTECTIVE</TraitType>
+					<TraitType>TRAIT_SCIENTIFIC</TraitType>
 					<bTrait>1</bTrait>
 				</Trait>
 				<Trait>
