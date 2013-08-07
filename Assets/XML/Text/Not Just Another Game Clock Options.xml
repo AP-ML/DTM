@@ -151,6 +151,22 @@
 		<Spanish>Color to use for the Modern era.</Spanish>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_TRANSHUMAN_TEXT</Tag>
+		<English>Transhuman Era</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_TRANSHUMAN_HOVER</Tag>
+		<English>Color to use for the Transhuman era.</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_FUTURE_TEXT</Tag>
 		<English>Future Era</English>
 		<French>Temps Futurs</French>

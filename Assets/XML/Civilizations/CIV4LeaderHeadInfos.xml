@@ -42634,6 +42634,9 @@
 					<EraType>ERA_MODERN</EraType>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
+					<EraType>ERA_TRANSHUMAN</EraType>
+				</DiploMusicPeaceEra>
+				<DiploMusicPeaceEra>
 					<EraType>ERA_FUTURE</EraType>
 				</DiploMusicPeaceEra>
 			</DiplomacyIntroMusicPeace>
@@ -42663,6 +42666,10 @@
 					<DiploScriptId>AS2D_DIPLO_OCCULTUS_LATE</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
+					<EraType>ERA_TRANSHUMAN</EraType>
+					<DiploScriptId>AS2D_DIPLO_OCCULTUS_LATE</DiploScriptId>
+				</DiploMusicPeaceEra>
+				<DiploMusicPeaceEra>
 					<EraType>ERA_FUTURE</EraType>
 					<DiploScriptId>AS2D_DIPLO_OCCULTUS_LATE</DiploScriptId>
 				</DiploMusicPeaceEra>
@@ -42685,6 +42692,9 @@
 				</DiploMusicWarEra>
 				<DiploMusicWarEra>
 					<EraType>ERA_MODERN</EraType>
+				</DiploMusicWarEra>
+				<DiploMusicWarEra>
+					<EraType>ERA_TRANSHUMAN</EraType>
 				</DiploMusicWarEra>
 				<DiploMusicWarEra>
 					<EraType>ERA_FUTURE</EraType>
@@ -42713,6 +42723,10 @@
 				</DiploMusicWarEra>
 				<DiploMusicWarEra>
 					<EraType>ERA_MODERN</EraType>
+					<DiploScriptId>AS2D_DIPLO_WARDRUMS_LATE</DiploScriptId>
+				</DiploMusicWarEra>
+				<DiploMusicWarEra>
+					<EraType>ERA_TRANSHUMAN</EraType>
 					<DiploScriptId>AS2D_DIPLO_WARDRUMS_LATE</DiploScriptId>
 				</DiploMusicWarEra>
 				<DiploMusicWarEra>
