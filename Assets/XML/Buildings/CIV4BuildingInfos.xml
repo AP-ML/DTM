@@ -16616,7 +16616,7 @@
 			<ObsoleteTech></ObsoleteTech>
 			<PrereqTech>TECH_SATELLITES</PrereqTech>
 			<TechTypes>
-				<PrereqTech>TECH_MODERN_ESPIONAGE</PrereqTech>
+				<PrereqTech>NONE</PrereqTech>
 				<PrereqTech>NONE</PrereqTech>
 				<PrereqTech>NONE</PrereqTech>
 			</TechTypes>

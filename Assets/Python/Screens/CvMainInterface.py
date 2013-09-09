@@ -4988,13 +4988,7 @@ class CvMainInterface:
 																				
 
 												
-# Super Spies Content - Start
-													
-												#if (gc.getTeam(gc.getGame().getActiveTeam()).getCounterespionageTurnsLeftAgainstTeam(eTeam) != 0):
-													#szTempBuffer = u"(%d)%c" %(gc.getTeam(gc.getGame().getActiveTeam()).getCounterespionageTurnsLeftAgainstTeam(eTeam), CyGame().getSymbolID(FontSymbols.OCCUPATION_CHAR))
-													#szBuffer = szBuffer + szTempBuffer
-												
-# Super Spies Content - End											
+
 												bEspionageCanSeeResearch = False
 												if (bEspionage):
 													for iMissionLoop in range(gc.getNumEspionageMissionInfos()):
