@@ -258,7 +258,7 @@
 			<DefaultBuilding>BUILDING_AIRPORT</DefaultBuilding>
 			<VictoryThresholds/>
 		</BuildingClassInfo>
-		<BuildingClassInfo>
+		<!--<BuildingClassInfo>
 			<Type>BUILDINGCLASS_ASPHALT_ROAD</Type>
 			<Description></Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
@@ -281,7 +281,7 @@
 			<bMonument>0</bMonument>
 			<DefaultBuilding>BUILDING_RACETRACK</DefaultBuilding>
 			<VictoryThresholds/>
-		</BuildingClassInfo>
+		</BuildingClassInfo>-->
 		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_FORGE</Type>
 			<Description>TXT_KEY_BUILDING_FORGE</Description>
@@ -1470,7 +1470,7 @@
 			<DefaultBuilding>BUILDING_VIDEO_GAMES_STUDIO</DefaultBuilding>
 			<VictoryThresholds/>
 		</BuildingClassInfo>
-		<BuildingClassInfo>
+		<!--<BuildingClassInfo>
 			<Type>BUILDINGCLASS_FORDBUILDING</Type>
 			<Description></Description>
 			<iMaxGlobalInstances>1</iMaxGlobalInstances>
@@ -1493,7 +1493,7 @@
 			<bMonument>0</bMonument>
 			<DefaultBuilding>BUILDING_CARPLANT</DefaultBuilding>
 			<VictoryThresholds/>
-		</BuildingClassInfo>
+		</BuildingClassInfo>-->
 	    <BuildingClassInfo>
 			<Type>BUILDINGCLASS_BICESTER_VILLAGE</Type>
 			<Description>TXT_KEY_BUILDING_BICESTER_VILLAGE</Description>

@@ -9,7 +9,7 @@
 			<Button>,Art/Interface/Buttons/WorldBuilder/Aluminum.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,1,12</Button>
 			<FontButtonIndex>0</FontButtonIndex>
 		</BonusArtInfo>
-		<BonusArtInfo>
+		<!--<BonusArtInfo>
 			<Type>ART_DEF_BONUS_AUTOMOBILE</Type>
 			<fScale>1.0</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -17,7 +17,7 @@
 			<KFM/>
 			<Button>,Art/Interface/Buttons/WorldBuilder/automobile.dds</Button>
 			<FontButtonIndex>50</FontButtonIndex>			
-		</BonusArtInfo>
+		</BonusArtInfo>-->
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_BIOFUEL</Type>
 			<fScale>1.0</fScale>

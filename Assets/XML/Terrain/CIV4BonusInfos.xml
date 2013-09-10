@@ -2447,7 +2447,7 @@
 			<FeatureBooleans/>
 			<FeatureTerrainBooleans/>
 		</BonusInfo>
-		<BonusInfo>
+		<!--<BonusInfo>
 			<Type>BONUS_AUTOMOBILE</Type>
 			<Description>Automobile</Description>
 			<Civilopedia>An automobile, autocar, motor car or car is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor. Most definitions of the term specify that automobiles are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods.</Civilopedia>
@@ -2486,6 +2486,6 @@
 			<TerrainBooleans/>
 			<FeatureBooleans/>
 			<FeatureTerrainBooleans/>
-		</BonusInfo>
+		</BonusInfo>-->
 	</BonusInfos>
 </Civ4BonusInfos>

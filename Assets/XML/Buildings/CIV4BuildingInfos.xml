@@ -5488,7 +5488,7 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 		</BuildingInfo>
-		<BuildingInfo>
+	    <!--<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_ASPHALT_ROAD</BuildingClass>
 			<Type>BUILDING_ASPHALT_ROAD</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
@@ -5845,7 +5845,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-		</BuildingInfo>
+		</BuildingInfo>-->
 		<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_FORGE</BuildingClass>
 			<Type>BUILDING_FORGE</Type>
@@ -28622,7 +28622,7 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 		</BuildingInfo>
-		<BuildingInfo>
+		<!--<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_FORDBUILDING</BuildingClass>
 			<Type>BUILDING_FORDBUILDING</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
@@ -28973,7 +28973,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-		</BuildingInfo>
+		</BuildingInfo>-->
 	    <BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_BICESTER_VILLAGE</BuildingClass>
 			<Type>BUILDING_BICESTER_VILLAGE</Type>
