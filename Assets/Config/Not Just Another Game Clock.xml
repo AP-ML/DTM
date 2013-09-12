@@ -63,8 +63,13 @@
 			<list   id="Color_ERA_TRANSHUMAN" key="ERA_TRANSHUMAN" 
 					type="color" default="COLOR_WHITE" 
 					get="getTranshumanEraColor" set="setTranshumanEraColor" dirtyBit="GameData" 
-					label="Transhuman Era" 
+					label="Genetic Era" 
 					help="Color to use for the Transhuman era."/>
+			<list   id="Color_ERA_DIAMOND" key="ERA_DIAMOND" 
+					type="color" default="COLOR_WHITE" 
+					get="getDiamondEraColor" set="setDiamondEraColor" dirtyBit="GameData" 
+					label="Diamond Era" 
+					help="Color to use for the Diamond era."/>					
 			<list   id="Color_ERA_FUTURE" key="ERA_FUTURE" 
 					type="color" default="COLOR_WHITE" 
 					get="getFutureEraColor" set="getFutureEraColor" dirtyBit="GameData" 

@@ -33,6 +33,7 @@ class BugNJAGCOptionsTab(BugOptionsTab.BugOptionsTab):
 		self.addColorDropdown(screen, rightPanelL, rightPanelR, "NJAGC__Color_ERA_INDUSTRIAL", True)
 		self.addColorDropdown(screen, rightPanelL, rightPanelR, "NJAGC__Color_ERA_MODERN", True)
 		self.addColorDropdown(screen, rightPanelL, rightPanelR, "NJAGC__Color_ERA_TRANSHUMAN", True)
+		self.addColorDropdown(screen, rightPanelL, rightPanelR, "NJAGC__Color_ERA_DIAMOND", True)		
 		self.addColorDropdown(screen, rightPanelL, rightPanelR, "NJAGC__Color_ERA_FUTURE", True)
 		self.addSpacer(screen, centerPanel, "Clock_Tab")
 		
