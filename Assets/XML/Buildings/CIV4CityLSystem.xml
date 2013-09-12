@@ -1236,7 +1236,7 @@
 			<!-- this needs to be the negative of the CITY_TWIST value in detail manager; note that this uses degrees but DetailManager uses radians. Sorry. -->
 		</ArtRef>
 		<ArtRef Name="building:LSYSTEM_ARCOLOGY">
-			<Attribute Class="Scalar">szSpecialLayout:CitySurround</Attribute>
+			<Attribute Class="Scalar">szSpecialLayout:CityCenter</Attribute>
 			<Attribute Class="Scalar">bLayoutAfterGenerics:1</Attribute>
 			<Attribute Class="Scalar">bNoContour:1</Attribute>
 			<Rotate>45</Rotate>

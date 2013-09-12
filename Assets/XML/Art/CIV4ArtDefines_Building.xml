@@ -6,27 +6,7 @@
 <!-- Building art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
-	<BuildingArtInfo>
-			<Type>ART_DEF_BUILDING_SPY_SATELLITE</Type>
-			<LSystem>LSYSTEM_1x1</LSystem>
-			<bAnimated>0</bAnimated>
-			<fScale>7.0</fScale>
-			<fInterfaceScale>0.085</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/Satellites/planet_small_satellite.nif</NIF>
-			<KFM/>
-			<Button>,Art/Interface/Buttons/Units/Transport.dds,Art/Interface/Buttons/FinalFrontier2_Atlas.dds,5,6</Button>
-		</BuildingArtInfo>
-	<BuildingArtInfo>
-			<Type>ART_DEF_BUILDING_ARCOLOGY_SHIELDED</Type>
-			<LSystem>LSYSTEM_ARCOLOGY</LSystem>
-			<bAnimated>1</bAnimated>
-			<fScale>0.6</fScale>
-			<fInterfaceScale>1</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/Arcology/Arcology_Shielded.nif</NIF>
-			<KFM/>
-			<Button>,Art/Interface/Buttons/Buildings/Colossus.dds,Art/Interface/Buttons/NextWar_Atlas.dds,3,4</Button>
-		</BuildingArtInfo>
-	<BuildingArtInfo>
+	    <BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_BAZAAR</Type>
 			<LSystem>LSYSTEM_2x2</LSystem>
 			<bAnimated>0</bAnimated>
@@ -1871,12 +1851,32 @@
 			<Type>ART_DEF_BUILDING_ARCOLOGY</Type>
 			<LSystem>LSYSTEM_ARCOLOGY</LSystem>
 			<bAnimated>1</bAnimated>
-			<fScale>0.6</fScale>
+			<fScale>6</fScale>
 			<fInterfaceScale>1</fInterfaceScale>
 			<NIF>Art/Structures/Buildings/Arcology/Arcology.nif</NIF>
 			<KFM/>
 			<Button>,Art/Interface/Buttons/Buildings/Colossus.dds,Art/Interface/Buttons/NextWar_Atlas.dds,2,4</Button>
 		</BuildingArtInfo>
+	    <BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_ARCOLOGY_SHIELDED</Type>
+			<LSystem>LSYSTEM_ARCOLOGY</LSystem>
+			<bAnimated>1</bAnimated>
+			<fScale>6</fScale>
+			<fInterfaceScale>1</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Arcology/Arcology_Shielded.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/Buildings/Colossus.dds,Art/Interface/Buttons/NextWar_Atlas.dds,3,4</Button>
+	    </BuildingArtInfo>		
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_SPY_SATELLITE</Type>
+			<LSystem>LSYSTEM_1x1</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>7.0</fScale>
+			<fInterfaceScale>0.085</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Satellites/planet_small_satellite.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/Units/Transport.dds,Art/Interface/Buttons/FinalFrontier2_Atlas.dds,5,6</Button>
+	    </BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_DEN_SPIES</Type>
 			<LSystem>LSYSTEM_2x2</LSystem>
