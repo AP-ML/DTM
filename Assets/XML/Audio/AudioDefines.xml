@@ -11304,7 +11304,7 @@
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
-		 		<SoundData>
+		<SoundData>
 			<SoundID>SND_TECH_MP_CLONING</SoundID>
 			<Filename>Sounds/Tech/TECH_MP_CLONING</Filename>
 			<LoadType>DYNAMIC_RES</LoadType>
