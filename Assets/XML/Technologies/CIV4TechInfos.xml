@@ -7,6 +7,72 @@
 <!-- Tech Infos -->
 <Civ4TechInfos xmlns="x-schema:CIV4TechnologiesSchema.xml">
 	<TechInfos>
+	    <!--<TechInfo>
+		    <Type>TECH_AI_SURVEILLANCE</Type>
+			<Description>AI Surveillance</Description>
+			<Civilopedia>Perfect Machine, Perfect Justice</Civilopedia>
+			<Help/>
+			<Strategy>Total Filler</Strategy>
+			<Advisor>ADVISOR_SCIENCE</Advisor>
+			<iAIWeight>0</iAIWeight>
+			<iAITradeModifier>10</iAITradeModifier>
+			<iCost>9000</iCost>
+			<iAdvancedStartCost>100</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<Era>ERA_TRANSHUMAN</Era>
+			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
+			<iFeatureProductionModifier>0</iFeatureProductionModifier>
+			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
+			<iTradeRoutes>0</iTradeRoutes>
+			<iHealth>0</iHealth>
+			<iHappiness>0</iHappiness>
+			<iFirstFreeTechs>0</iFirstFreeTechs>
+			<iAsset>48</iAsset>
+			<iPower>6</iPower>
+			<bRepeat>0</bRepeat>
+			<bTrade>1</bTrade>
+			<bDisable>0</bDisable>
+			<bGoodyTech>0</bGoodyTech>
+			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
+			<bMapCentering>0</bMapCentering>
+			<bMapVisible>0</bMapVisible>
+			<bMapTrading>0</bMapTrading>
+			<bTechTrading>0</bTechTrading>
+			<bGoldTrading>0</bGoldTrading>
+			<bOpenBordersTrading>0</bOpenBordersTrading>
+			<bDefensivePactTrading>0</bDefensivePactTrading>
+			<bPermanentAllianceTrading>0</bPermanentAllianceTrading>
+			<bVassalTrading>0</bVassalTrading>
+			<bBridgeBuilding>0</bBridgeBuilding>
+			<bIrrigation>0</bIrrigation>
+			<bIgnoreIrrigation>0</bIgnoreIrrigation>
+			<bWaterWork>0</bWaterWork>
+			<iGridX>22</iGridX>
+			<iGridY>9</iGridY>
+			<DomainExtraMoves/>
+			<CommerceFlexible/>
+			<TerrainTrades/>
+			<bRiverTrade>0</bRiverTrade>
+			<Flavors>
+				<Flavor>
+					<FlavorType>FLAVOR_MILITARY</FlavorType>
+					<iFlavor>8</iFlavor>
+				</Flavor>
+				<Flavor>
+					<FlavorType>FLAVOR_SCIENCE</FlavorType>
+					<iFlavor>1</iFlavor>
+				</Flavor>
+			</Flavors>
+			<OrPreReqs>
+				<PrereqTech>TECH_NANO_ASSEMBLY</PrereqTech>
+			</OrPreReqs>
+			<AndPreReqs>
+			</AndPreReqs>
+			<Quote>"Without good, no evil. Without want, no lack. Without desire, no need." </Quote>
+			<Sound>AS2D_TECH_NANO_ASSEMBLY</Sound>
+			<SoundMP>AS2D_TECH_MP_NANO_ASSEMBLY</SoundMP>
+			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
+		</TechInfo>-->	
 		<TechInfo>
 		    <Type>TECH_NANO_MACHINES</Type>
 			<Description>Nano-Machines</Description>
