@@ -473,6 +473,9 @@
 				<EraInfoSoundtrack>AS2D_FUTURE2</EraInfoSoundtrack>
 				<EraInfoSoundtrack>AS2D_FUTURE3</EraInfoSoundtrack>
 				<EraInfoSoundtrack>AS2D_FUTURE4</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_Transhuman1</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_Transhuman2</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_Transhuman3</EraInfoSoundtrack>				
 			</EraInfoSoundtracks>
 			<CitySoundscapes>
 				<CitySoundscape>
@@ -538,10 +541,9 @@
 				<EraInfoSoundtrack><!--AS2D_SHAKING_AND_TREMBLING--></EraInfoSoundtrack>
 				<EraInfoSoundtrack><!--AS2D_THE_PEOPLE_ARE_HEROES--></EraInfoSoundtrack>
 				<EraInfoSoundtrack><!--AS2D_TROMBA_LONTANA--></EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_FUTURE1</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_FUTURE2</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_FUTURE3</EraInfoSoundtrack>
-				<EraInfoSoundtrack>AS2D_FUTURE4</EraInfoSoundtrack>
+				<EraInfoSoundtrack>Diamond1</EraInfoSoundtrack>
+				<EraInfoSoundtrack>Diamond2</EraInfoSoundtrack>
+				<EraInfoSoundtrack>Diamond3</EraInfoSoundtrack>
 			</EraInfoSoundtracks>
 			<CitySoundscapes>
 				<CitySoundscape>

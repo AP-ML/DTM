@@ -6,21 +6,63 @@
 <!-- AudioDefines -->
 <AudioDefines xmlns="x-schema:AudioDefinesSchema.xml">
 	<SoundDatas>
-	<SoundData>
+		<SoundData>
+			<SoundID>SONG_Transhuman1</SoundID>
+			<Filename>Sounds/Soundtrack/Transhuman/Transhuman1</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+	    <SoundData>
+			<SoundID>SONG_Transhuman2</SoundID>
+			<Filename>Sounds/Soundtrack/Transhuman/Transhuman2</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+			<SoundID>SONG_Transhuman3</SoundID>
+			<Filename>Sounds/Soundtrack/Transhuman/Transhuman3</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+			<SoundID>SONG_Diamond1</SoundID>
+			<Filename>Sounds/Soundtrack/Diamond/Diamond1</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+			<SoundID>SONG_Diamond2</SoundID>
+			<Filename>Sounds/Soundtrack/Diamond/Diamond2</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>
+		<SoundData>
+			<SoundID>SONG_Diamond3</SoundID>
+			<Filename>Sounds/Soundtrack/Diamond/Diamond3</Filename>
+			<LoadType>STREAMED</LoadType>
+			<bIsCompressed>1</bIsCompressed>
+			<bInGeneric>1</bInGeneric>
+	    </SoundData>		
+	    <SoundData>
 			<SoundID>DIPLO_DESERT_LATE</SoundID>
 			<Filename>Sounds/Diplomacy/Desert_Late</Filename>
 			<LoadType>STREAMED</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
-	<SoundData>
+	    <SoundData>
 			<SoundID>DIPLO_DESERT_MIDDLE</SoundID>
 			<Filename>Sounds/Diplomacy/Desert_Middle</Filename>
 			<LoadType>STREAMED</LoadType>
 			<bIsCompressed>1</bIsCompressed>
 			<bInGeneric>1</bInGeneric>
 		</SoundData>
-	<SoundData>
+	    <SoundData>
 			<SoundID>DIPLO_DESERT_EARLY</SoundID>
 			<Filename>Sounds/Diplomacy/Desert_Early</Filename>
 			<LoadType>STREAMED</LoadType>

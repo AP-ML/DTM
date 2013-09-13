@@ -1649,9 +1649,17 @@
 					<DiploScriptId>AS2D_DIPLO_ANQUIETAS_LATE</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
-					<EraType>ERA_FUTURE</EraType>
+					<EraType>ERA_TRANSHUMAN</EraType>
 					<DiploScriptId>AS2D_DIPLO_ANQUIETAS_LATE</DiploScriptId>
 				</DiploMusicPeaceEra>
+				<DiploMusicPeaceEra>
+					<EraType>ERA_DIAMOND</EraType>
+					<DiploScriptId>AS2D_DIPLO_ANQUIETAS_LATE</DiploScriptId>
+				</DiploMusicPeaceEra>
+				<DiploMusicPeaceEra>
+					<EraType>ERA_FUTURE</EraType>
+					<DiploScriptId>AS2D_DIPLO_ANQUIETAS_LATE</DiploScriptId>
+				</DiploMusicPeaceEra>				
 			</DiplomacyMusicPeace>
 			<DiplomacyIntroMusicWar>
 				<DiploMusicWarEra>
