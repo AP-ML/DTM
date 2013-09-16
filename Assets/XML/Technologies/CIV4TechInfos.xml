@@ -7,7 +7,7 @@
 <!-- Tech Infos -->
 <Civ4TechInfos xmlns="x-schema:CIV4TechnologiesSchema.xml">
 	<TechInfos>
-	    <!--<TechInfo>
+	    <TechInfo>
 		    <Type>TECH_AI_SURVEILLANCE</Type>
 			<Description>AI Surveillance</Description>
 			<Civilopedia>Perfect Machine, Perfect Justice</Civilopedia>
@@ -71,8 +71,8 @@
 			<Quote>"Without good, no evil. Without want, no lack. Without desire, no need." </Quote>
 			<Sound>AS2D_TECH_NANO_ASSEMBLY</Sound>
 			<SoundMP>AS2D_TECH_MP_NANO_ASSEMBLY</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
-		</TechInfo>-->	
+			<Button>Art/Interface/Buttons/TechTree/AIJustice.dds</Button>
+		</TechInfo>	
 		<TechInfo>
 		    <Type>TECH_NANO_MACHINES</Type>
 			<Description>Nano-Machines</Description>
@@ -137,7 +137,7 @@
 			<Quote>"I wish I had never used the term 'grey goo'." ~ Eric Drexler</Quote>
 			<Sound>AS2D_TECH_NANO_MACHINES</Sound>
 			<SoundMP>AS2D_TECH_MP_NANO_MACHINES</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
+			<Button>Art/Interface/Buttons/TechTree/NanoMachines.dds</Button>
 		</TechInfo>
 	    <TechInfo>
 		    <Type>TECH_NANO_ASSEMBLY</Type>
@@ -204,7 +204,7 @@
 			<Quote>"Solar cells and most modern displays are examples of organic hybrids. But as we move to a renaissance in medicine with nanotech, matter becomes code." ~ Steve Jurvetson</Quote>
 			<Sound>AS2D_TECH_NANO_ASSEMBLY</Sound>
 			<SoundMP>AS2D_TECH_MP_NANO_ASSEMBLY</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
+			<Button>Art/Interface/Buttons/TechTree/NanoAssembly.dds</Button>
 		</TechInfo>
 	    <TechInfo>
 		    <Type>TECH_CYBERNETICS</Type>
@@ -271,7 +271,7 @@
 			<Quote>"Cybernetics: The scientific study of control and communication in the animal and the machine." ~ Norbert Wiener.</Quote>
 			<Sound>AS2D_TECH_CYBERNETICS</Sound>
 			<SoundMP>AS2D_TECH_MP_CYBERNETICS</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
+			<Button>Art/Interface/Buttons/TechTree/Cybernetics.dds</Button>
 		</TechInfo>
 	    <TechInfo>
 			<Type>TECH_PLASMA_WEAPONRY</Type>
@@ -337,7 +337,7 @@
 			<Quote>"War, war never changes" ~ from Fallout</Quote>
 			<Sound>AS2D_TECH_PLASMA_WEAPONS</Sound>
 			<SoundMP>AS2D_TECH_MP_PLASMA_WEAPONS</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
+			<Button>,Art/Interface/Buttons/Units/Transport.dds,Art/Interface/Buttons/FinalFrontier1_Atlas.dds,4,13</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_ULTRA-PRESSURE_MACHINES</Type>
@@ -404,7 +404,7 @@
 			<Quote>"Everything is rice. And you cook it in a pressure cooker. Because you're fancy, and I hate finding quotes." ~ General Pear</Quote>
 			<Sound>AS2D_TECH_ULTRAPRESSURE_MACHINES</Sound>
 			<SoundMP>AS2D_TECH_MP_ULTRAPRESSURE_MACHINES</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
+			<Button>Art/Interface/Buttons/TechTree/UltraPressureMachines.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_FLUID_BREATHING</Type>
@@ -471,7 +471,7 @@
 			<Quote>"Do they look like fish to you?" ~ Aquaman</Quote>
 			<Sound>AS2D_TECH_FLUID_BREATHING</Sound>
 			<SoundMP>AS2D_TECH_MP_FLUID_BREATHING</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
+			<Button>Art/Interface/Buttons/TechTree/FluidBreathing.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_UNIFIED_PHYSICS</Type>
@@ -537,7 +537,7 @@
 			<Quote>"We need a theory of everything. Perhaps, the ultimate triumph of science." ~ Stephen Hawking</Quote>
 			<Sound>AS2D_TECH_UNIFIED_PHYSICS</Sound>
 			<SoundMP>AS2D_TECH_MP_UNIFIED_PHYSICS</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
+			<Button>Art/Interface/Buttons/TechTree/UnifiedPhysics.dds</Button>
 		</TechInfo>	
 		<TechInfo>
 			<Type>TECH_CHAOS_THEORY</Type>
@@ -604,7 +604,7 @@
 			<Quote>"Chaos: When the present determines the future, but the approximate present does not approximately determine the future." ~ Edward Lorenz</Quote>
 			<Sound>AS2D_TECH_CHAOS_THEORY</Sound>
 			<SoundMP>AS2D_TECH_MP_CHAOS_THEORY</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
+			<Button>Art/Interface/Buttons/TechTree/ChaosTheory.dds</Button>
 		</TechInfo>	
 		<TechInfo>
 			<Type>TECH_LIFE_EXTENSION</Type>
@@ -671,7 +671,7 @@
 			<Quote>"Surely God would not have created such a being as man, with an ability to grasp the infinite, to exist only for a day! No, no, man was made for immortality." ~ Abraham Lincoln</Quote>
 			<Sound>AS2D_TECH_LIFE_EXTENSION</Sound>
 			<SoundMP>AS2D_TECH_MP_LIFE_EXTENSION</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
+			<Button>Art/Interface/Buttons/TechTree/LifeExtension.dds</Button>
 		</TechInfo>	
 	    <TechInfo>
 			<Type>TECH_GENETIC_TAILORING</Type>
@@ -737,7 +737,7 @@
 			<Quote>"I not only think that we will tamper with Mother Nature, I think Mother wants us to." - Willard Gaylin</Quote>
 			<Sound>AS2D_TECH_GENETIC_TAILORING</Sound>
 			<SoundMP>AS2D_TECH_MP_GENETIC_TAILORING</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Physics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,5,6</Button>
+			<Button>Art/Interface/Buttons/TechTree/GeneTailoring.dds</Button>
 		</TechInfo>	
 	    <TechInfo>
 			<Type>TECH_CLONING</Type>
