@@ -10,9 +10,9 @@
 	    <TechInfo>
 		    <Type>TECH_AI_SURVEILLANCE</Type>
 			<Description>AI Surveillance</Description>
-			<Civilopedia>Perfect Machine, Perfect Justice</Civilopedia>
+			<Civilopedia>[TAB]Advancements in video technology, computer systems, visual tracking and artificial intelligence in the late 21st century culminated in the creation of AI Surveillance. Networking the preexisting private security systems found in homes, businesses and institutions, the AI was now aware of almost everyone actions at once.[PARAGRAPH:2]The AI was given Legal rights to prosecute any and all crimes it witnessed. Issuing instant convictions and arrest orders within .02 Seconds of  the crime. This system was so effective people were less likely to protest against War  and speak out about the AI, which was now considered illegal by the AI.[PARAGRAPH:2]While the AI was programmed to stop crime, People have speculated that it might one day realize that despite its increasing presence and control, its methods do not fully eradicate crime. They fear the day it finds a new solution to crime...</Civilopedia>
 			<Help/>
-			<Strategy>Total Filler</Strategy>
+			<Strategy>Perfect Machine, Perfect Justice</Strategy>
 			<Advisor>ADVISOR_SCIENCE</Advisor>
 			<iAIWeight>0</iAIWeight>
 			<iAITradeModifier>10</iAITradeModifier>
