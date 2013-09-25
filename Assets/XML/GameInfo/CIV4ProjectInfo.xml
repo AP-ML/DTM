@@ -105,11 +105,11 @@
 		</ProjectInfo>
 		<ProjectInfo>
 			<Type>PROJECT_APOLLO_PROGRAM</Type>
-			<Description>TXT_KEY_PROJECT_APOLLO_PROGRAM</Description>
+			<Description>Alpha Centauri Project</Description>
 			<Civilopedia>TXT_KEY_PROJECT_APOLLO_PROGRAM_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_PROJECT_APOLLO_PROGRAM_STRATEGY</Strategy>
 			<VictoryPrereq>VICTORY_SPACE_RACE</VictoryPrereq>
-			<TechPrereq>TECH_ROCKETRY</TechPrereq>
+			<TechPrereq>TECH_QUANTUM_PHYSICS</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>1</iMaxTeamInstances>
@@ -141,7 +141,7 @@
 			<Civilopedia>TXT_KEY_PROJECT_SS_COCKPIT_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_PROJECT_SPACE_SHIP_STRATEGY</Strategy>
 			<VictoryPrereq>VICTORY_SPACE_RACE</VictoryPrereq>
-			<TechPrereq>TECH_FIBER_OPTICS</TechPrereq>
+			<TechPrereq>TECH_CYBERNETICS</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>1</iMaxTeamInstances>
@@ -183,7 +183,7 @@
 			<Civilopedia>TXT_KEY_PROJECT_SS_LIFE_SUPPORT_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_PROJECT_SPACE_SHIP_STRATEGY</Strategy>
 			<VictoryPrereq>VICTORY_SPACE_RACE</VictoryPrereq>
-			<TechPrereq>TECH_ECOLOGY</TechPrereq>
+			<TechPrereq>TECH_LIFE_EXTENSION</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>1</iMaxTeamInstances>
@@ -221,11 +221,11 @@
 		</ProjectInfo>
 		<ProjectInfo>
 			<Type>PROJECT_SS_STASIS_CHAMBER</Type>
-			<Description>TXT_KEY_PROJECT_SS_STASIS_CHAMBER</Description>
-			<Civilopedia>TXT_KEY_PROJECT_SS_STASIS_CHAMBER_PEDIA</Civilopedia>
+			<Description>SS AI Core</Description>
+			<Civilopedia>I'm afraid i cant let you read this.</Civilopedia>
 			<Strategy>TXT_KEY_PROJECT_SPACE_SHIP_STRATEGY</Strategy>
 			<VictoryPrereq>VICTORY_SPACE_RACE</VictoryPrereq>
-			<TechPrereq>TECH_GENETICS</TechPrereq>
+			<TechPrereq>TECH_AI_SURVEILLANCE</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>1</iMaxTeamInstances>
@@ -236,7 +236,7 @@
 			<EveryoneSpecialBuilding>NONE</EveryoneSpecialBuilding>
 			<bSpaceship>1</bSpaceship>
 			<bAllowsNukes>0</bAllowsNukes>
-			<Button>,Art/Interface/Buttons/Buildings/SS_StasisChamber.dds,Art/Interface/Buttons/Buildings_Atlas.dds,6,10</Button>
+			<Button>Art/Interface/Buttons/TechTree/hal9000.dds</Button>
 			<PrereqProjects>
 				<PrereqProject>
 					<ProjectType>PROJECT_APOLLO_PROGRAM</ProjectType>
@@ -262,7 +262,7 @@
 			<Civilopedia>TXT_KEY_PROJECT_SS_DOCKING_BAY_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_PROJECT_SPACE_SHIP_STRATEGY</Strategy>
 			<VictoryPrereq>VICTORY_SPACE_RACE</VictoryPrereq>
-			<TechPrereq>TECH_SATELLITES</TechPrereq>
+			<TechPrereq>TECH_ULTRA-PRESSURE_MACHINES</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>1</iMaxTeamInstances>
@@ -300,11 +300,11 @@
 		</ProjectInfo>
 		<ProjectInfo>
 			<Type>PROJECT_SS_ENGINE</Type>
-			<Description>TXT_KEY_PROJECT_SS_ENGINE</Description>
+			<Description>SS FTL Drive</Description>
 			<Civilopedia>TXT_KEY_PROJECT_SS_ENGINE_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_PROJECT_SPACE_SHIP_STRATEGY</Strategy>
 			<VictoryPrereq>VICTORY_SPACE_RACE</VictoryPrereq>
-			<TechPrereq>TECH_FUSION</TechPrereq>
+			<TechPrereq>TECH_UNIFIED_PHYSICS</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>2</iMaxTeamInstances>
@@ -346,7 +346,7 @@
 			<Civilopedia>TXT_KEY_PROJECT_SS_CASING_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_PROJECT_SPACE_SHIP_STRATEGY</Strategy>
 			<VictoryPrereq>VICTORY_SPACE_RACE</VictoryPrereq>
-			<TechPrereq>TECH_COMPOSITES</TechPrereq>
+			<TechPrereq>TECH_NANO_ASSEMBLY</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>5</iMaxTeamInstances>
@@ -393,7 +393,7 @@
 			<Civilopedia>TXT_KEY_PROJECT_SS_THRUSTERS_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_PROJECT_SPACE_SHIP_STRATEGY</Strategy>
 			<VictoryPrereq>VICTORY_SPACE_RACE</VictoryPrereq>
-			<TechPrereq>TECH_SUPERCONDUCTORS</TechPrereq>
+			<TechPrereq>TECH_CHAOS_THEORY</TechPrereq>
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>5</iMaxTeamInstances>
