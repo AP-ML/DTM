@@ -42619,6 +42619,9 @@
 					<EraType>ERA_TRANSHUMAN</EraType>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
+					<EraType>ERA_DIAMOND</EraType>
+				</DiploMusicPeaceEra>
+				<DiploMusicPeaceEra>
 					<EraType>ERA_FUTURE</EraType>
 				</DiploMusicPeaceEra>
 			</DiplomacyIntroMusicPeace>
@@ -42649,6 +42652,10 @@
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>
 					<EraType>ERA_TRANSHUMAN</EraType>
+					<DiploScriptId>AS2D_DIPLO_OCCULTUS_LATE</DiploScriptId>
+				</DiploMusicPeaceEra>
+				<DiploMusicPeaceEra>
+					<EraType>ERA_DIAMOND</EraType>
 					<DiploScriptId>AS2D_DIPLO_OCCULTUS_LATE</DiploScriptId>
 				</DiploMusicPeaceEra>
 				<DiploMusicPeaceEra>

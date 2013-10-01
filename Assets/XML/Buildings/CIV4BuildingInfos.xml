@@ -10933,9 +10933,9 @@
 			<BuildingClass>BUILDINGCLASS_RENEWABLE_ENERGY_LAB</BuildingClass>
 			<Type>BUILDING_RENEWABLE_ENERGY_LAB</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
-			<Description>Renewable Energy Lab</Description>
-			<Civilopedia>Concerned with dwindling resources and climate change, there are now many laboratories around the world dedicated to researching renewable energy. </Civilopedia>
-			<Strategy>A Renewable Energy Lab increases the scientific output of the city, and adds extra health.</Strategy>
+			<Description>Power Engineering Institute</Description>
+			<Civilopedia></Civilopedia>
+			<Strategy>The Power Engineering Institute increases the scientific output of the city, and adds extra production with power.</Strategy>
 			<Advisor>ADVISOR_SCIENCE</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_CENTERS_FOR_DISEASE_CONTROL</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
@@ -10952,7 +10952,7 @@
 			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteTech>NONE</ObsoleteTech>
-			<PrereqTech>TECH_RENEWABLE_ENERGY</PrereqTech>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
@@ -11025,7 +11025,7 @@
 			<iGlobalWarWearinessModifier>0</iGlobalWarWearinessModifier>
 			<iEnemyWarWearinessModifier>0</iEnemyWarWearinessModifier>
 			<iHealRateChange>0</iHealRateChange>
-			<iHealth>1</iHealth>
+			<iHealth>0</iHealth>
 			<iAreaHealth>0</iAreaHealth>
 			<iGlobalHealth>0</iGlobalHealth>
 			<iHappiness>0</iHappiness>
@@ -11054,6 +11054,11 @@
 			<RiverPlotYieldChanges/>
 			<GlobalSeaPlotYieldChanges/>
 			<YieldChanges/>
+			<PowerYieldModifiers>
+				<iYield>0</iYield>
+				<iYield>5</iYield>
+				<iYield>0</iYield>
+			</PowerYieldModifiers>
 			<CommerceChanges/>
 			<ObsoleteSafeCommerceChanges/>
 			<CommerceChangeDoubleTimes/>
@@ -11082,8 +11087,8 @@
 			<PrereqBuildingClasses/>
 			<BuildingClassNeededs>
 				<BuildingClassNeeded>
-					<BuildingClassType>BUILDINGCLASS_LABORATORY</BuildingClassType>
-					<bNeededInCity>1</bNeededInCity>
+					<BuildingClassType></BuildingClassType>
+					<bNeededInCity></bNeededInCity>
 				</BuildingClassNeeded>
 			</BuildingClassNeededs>
 			<SpecialistYieldChanges/>
@@ -11106,7 +11111,7 @@
 			<Type>BUILDING_SOLAR_FARM</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>Solar Farm</Description>
-			<Civilopedia>A photovoltaic power station, also known as a solar farm, is a large-scale photovoltaic system designed for the supply of merchant power into the electricity grid.</Civilopedia>
+			<Civilopedia>[TAB]A photovoltaic power station, also known as a solar farm, is a large-scale photovoltaic system designed for the supply of merchant power into the electricity grid.</Civilopedia>
 			<Strategy>A Solar Farm provides your city with clean, safe power.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_SOLAR_FARM</ArtDefineTag>
@@ -11124,7 +11129,7 @@
 			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteTech></ObsoleteTech>
-			<PrereqTech>TECH_RENEWABLE_ENERGY</PrereqTech>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
@@ -30796,7 +30801,7 @@
 			<ObsoleteTech>NONE</ObsoleteTech>
 			<PrereqTech>TECH_GENE_MANIPULATION</PrereqTech>
 			<TechTypes>
-				<PrereqTech>TECH_RENEWABLE_ENERGY</PrereqTech>
+				<PrereqTech>TECH_PLASTICS</PrereqTech>
 				<PrereqTech>NONE</PrereqTech>
 				<PrereqTech>NONE</PrereqTech>
 			</TechTypes>

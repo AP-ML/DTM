@@ -1767,8 +1767,8 @@
 			<SpecialistValids/>
 			<BuildingHappinessChanges>
 				<BuildingHappinessChange>
-					<BuildingType>BUILDINGCLASS_RENEWABLE_ENERGY_LAB</BuildingType>
-					<iHappinessChange>1</iHappinessChange>
+					<BuildingType></BuildingType>
+					<iHappinessChange></iHappinessChange>
 				</BuildingHappinessChange>
 			</BuildingHappinessChanges>
 			<BuildingHealthChanges>

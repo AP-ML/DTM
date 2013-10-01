@@ -29,7 +29,7 @@
 			<Type>BUILD_OFFSHORE_TURBINE</Type>
 			<Description>Build Offshore Turbine</Description>
 			<Help/>
-			<PrereqTech>TECH_RENEWABLE_ENERGY</PrereqTech>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<iTime>0</iTime>
 			<iCost>0</iCost>
 			<bKill>1</bKill>

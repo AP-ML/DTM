@@ -978,8 +978,8 @@
 			<bIrrigation>0</bIrrigation>
 			<bIgnoreIrrigation>0</bIgnoreIrrigation>
 			<bWaterWork>0</bWaterWork>
-			<iGridX>20</iGridX>
-			<iGridY>7</iGridY>
+			<iGridX>19</iGridX>
+			<iGridY>8</iGridY>
 			<DomainExtraMoves/>
 			<CommerceFlexible/>
 			<TerrainTrades/>
@@ -1007,7 +1007,7 @@
 			<SoundMP>AS2D_TECH_MP_AQUACULTURE</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Ecology.dds,Art/Interface/Buttons/NextWar_Atlas.dds,2,3</Button>
 		</TechInfo>
-	    <TechInfo>
+	    <!--<TechInfo>
 			<Type>TECH_RENEWABLE_ENERGY</Type>
 			<Description>Renewable Energy</Description>
 			<Civilopedia>Renewable energy is energy that comes from natural resources such as sunlight, wind, rain, tides, waves and geothermal heat.</Civilopedia>
@@ -1072,7 +1072,7 @@
 			<Sound>AS2D_TECH_RENEWABLE_ENERGY</Sound>
 			<SoundMP>AS2D_TECH_MP_RENEWABLE_ENERGY</SoundMP>
 			<Button>,Art/Interface/buttons/TechTree/renewable_energy.dds</Button>
-	    </TechInfo>
+	    </TechInfo> -->
 	    <TechInfo>
 			<Type>TECH_CONTRACT_KILLING</Type>
 			<Description>Contract Killing</Description>
