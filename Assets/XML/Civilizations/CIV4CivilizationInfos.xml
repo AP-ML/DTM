@@ -1052,6 +1052,116 @@
 			<CivilizationActionSound>AS3D_CHINA_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
+			<Type>CIVILIZATION_GEMENI</Type>
+			<Description>Gemenese Empire</Description>
+			<ShortDescription>Gemenon</ShortDescription>
+			<Adjective>Gemenese</Adjective>
+			<Civilopedia>Yet More Filler</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_DARK_PINK</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_CHINA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_ASIAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>1</bAIPlayable>
+			<Cities>
+				<City>TXT_KEY_CITY_NAME_BEIJING</City>
+				<City>TXT_KEY_CITY_NAME_SHANGHAI</City>
+				<City>TXT_KEY_CITY_NAME_GUANGZHOU</City>
+				<City>TXT_KEY_CITY_NAME_NANJING</City>
+				<City>TXT_KEY_CITY_NAME_XIAN</City>
+				<City>TXT_KEY_CITY_NAME_CHENGDU</City>
+				<City>TXT_KEY_CITY_NAME_HANGZHOU</City>
+				<City>TXT_KEY_CITY_NAME_TIANJIN</City>
+				<City>TXT_KEY_CITY_NAME_MACAU</City>
+				<City>TXT_KEY_CITY_NAME_SHANDONG</City>
+				<City>TXT_KEY_CITY_NAME_KAIFENG</City>
+				<City>TXT_KEY_CITY_NAME_NINGBO</City>
+				<City>TXT_KEY_CITY_NAME_BAODING</City>
+				<City>TXT_KEY_CITY_NAME_YANGZHOU</City>
+				<City>TXT_KEY_CITY_NAME_HAERBIN</City>
+				<City>TXT_KEY_CITY_NAME_CHONGQING</City>
+				<City>TXT_KEY_CITY_NAME_LOYANG</City>
+				<City>TXT_KEY_CITY_NAME_KUNMING</City>
+				<City>TXT_KEY_CITY_NAME_TAIPEI</City>
+				<City>TXT_KEY_CITY_NAME_SHENYANG</City>
+				<City>TXT_KEY_CITY_NAME_TAIYUAN</City>
+				<City>TXT_KEY_CITY_NAME_TAINAN</City>
+				<City>TXT_KEY_CITY_NAME_DALIAN</City>
+				<City>TXT_KEY_CITY_NAME_LIJIANG</City>
+				<City>TXT_KEY_CITY_NAME_WUXI</City>
+				<City>TXT_KEY_CITY_NAME_SUZHOU</City>
+				<City>TXT_KEY_CITY_NAME_MAOMING</City>
+				<City>TXT_KEY_CITY_NAME_SHAOGUAN</City>
+				<City>TXT_KEY_CITY_NAME_YANGJIANG</City>
+				<City>TXT_KEY_CITY_NAME_HEYUAN</City>
+				<City>TXT_KEY_CITY_NAME_LIAONING</City>
+				<City>TXT_KEY_CITY_NAME_HUBEI</City>
+				<City>TXT_KEY_CITY_NAME_GANSU</City>
+				<City>TXT_KEY_CITY_NAME_HUANGSHI</City>
+				<City>TXT_KEY_CITY_NAME_YICHANG</City>
+				<City>TXT_KEY_CITY_NAME_YINGTAN</City>
+				<City>TXT_KEY_CITY_NAME_XINYU</City>
+				<City>TXT_KEY_CITY_NAME_XINZHENG</City>
+				<City>TXT_KEY_CITY_NAME_HANDAN</City>
+				<City>TXT_KEY_CITY_NAME_DUNHUANG</City>
+				<City>TXT_KEY_CITY_NAME_GAOYU</City>
+				<City>TXT_KEY_CITY_NAME_NANTONG</City>
+				<City>TXT_KEY_CITY_NAME_WEIFANG</City>
+				<City>TXT_KEY_CITY_NAME_XIKANG</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+					<BuildingType>BUILDING_GEMENESE_BARRACKS</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_CROSSBOWMAN</UnitClassType>
+					<UnitType>UNIT_GEMENESE_CROSSBOW</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_MYSTICISM</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_MINING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_TRIBALISM</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_GEMENON</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>NONE</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_ENGLAND_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_ENGLAND_ORDER</CivilizationActionSound>
+		</CivilizationInfo>		
+		<CivilizationInfo>
 			<Type>CIVILIZATION_DEADMEN</Type>
 			<Description>Deadmen Empire</Description>
 			<ShortDescription>Deadman</ShortDescription>
@@ -3381,7 +3491,7 @@
 			<CivilizationSelectionSound>AS3D_PERSIA_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_PERSIA_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
-		<CivilizationInfo>
+		<!--<CivilizationInfo>
 			<Type>CIVILIZATION_PIRATE</Type>
 			<Description>Pirates of the Caribbean</Description>
 			<ShortDescription>Pirate</ShortDescription>
@@ -3454,7 +3564,7 @@
 			<DerivativeCiv>NONE</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_SPAIN_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_SPAIN_ORDER</CivilizationActionSound>
-		</CivilizationInfo>
+		</CivilizationInfo>-->
 		<CivilizationInfo>
 			<Type>CIVILIZATION_PORTUGAL</Type>
 			<Description>TXT_KEY_CIV_PORTUGAL_DESC</Description>
