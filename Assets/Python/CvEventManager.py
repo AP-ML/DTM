@@ -511,6 +511,19 @@ class CvEventManager:
 		'Building Completed'
 		pCity, iBuildingType = argsList
 		game = gc.getGame()
+
+## Upgradeable Buildings Start ##
+		sBuilding = gc.getBuildingInfo(iBuildingType).getType()
+		sLast = sBuilding[len(sBuilding) -1]
+		if sLast.isdigit():
+			sOldBuilding = sBuilding[:len(sBuilding) -1]
+			if int(sLast) > 2:
+				sOldBuilding += str(int(sLast) -1)
+			iOldBuilding = gc.getInfoTypeForString(sOldBuilding)
+			if iOldBuilding > -1:
+				pCity.setNumRealBuilding(iOldBuilding, 0)
+## Upgradeable Buildings End ##
+
 		if ((not gc.getGame().isNetworkMultiPlayer()) and (pCity.getOwner() == gc.getGame().getActivePlayer()) and isWorldWonderClass(gc.getBuildingInfo(iBuildingType).getBuildingClassType())):
 			# If this is a wonder...
 			popupInfo = CyPopupInfo()

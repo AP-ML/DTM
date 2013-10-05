@@ -2337,6 +2337,18 @@ class CvMainInterface:
 						eLoopBuilding = gc.getCivilizationInfo(pHeadSelectedCity.getCivilizationType()).getCivilizationBuildings(i)
 
 						if (pHeadSelectedCity.canConstruct(eLoopBuilding, False, True, False)):
+## Upgradeable Buildings ##
+							sBuilding = gc.getBuildingInfo(eLoopBuilding).getType()
+							sLast = sBuilding[len(sBuilding) -1]
+							if sLast.isdigit():
+								sOldBuilding = sBuilding[:len(sBuilding) -1]
+								if int(sLast) > 2:
+									sOldBuilding += str(int(sLast) -1)
+								iOldBuilding = gc.getInfoTypeForString(sOldBuilding)
+								if iOldBuilding > -1:
+									if (pHeadSelectedCity.canConstruct(iOldBuilding, False, True, False)):
+										continue
+## Upgradeable Buildings ##
 							screen.appendMultiListButton( "BottomButtonContainer", gc.getBuildingInfo(eLoopBuilding).getButton(), iRow, WidgetTypes.WIDGET_CONSTRUCT, i, -1, False )
 							screen.show( "BottomButtonContainer" )
 							

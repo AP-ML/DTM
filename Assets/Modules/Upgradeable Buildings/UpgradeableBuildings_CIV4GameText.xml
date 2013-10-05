@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARRACKS_HELP</Tag>
+		<English>[ICON_BULLET]Upgrades to [LINK=BUILDING_BARRACKS2]Advanced Barracks[\LINK]</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARRACKS2</Tag>
+		<English>Advanced Barracks</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARRACKS2_HELP</Tag>
+		<English>[ICON_BULLET]Upgrades to [LINK=BUILDING_BARRACKS3]Modern Barracks[\LINK]</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BARRACKS3</Tag>
+		<English>Modern Barracks</English>
+		</TEXT>
+</Civ4GameText>
