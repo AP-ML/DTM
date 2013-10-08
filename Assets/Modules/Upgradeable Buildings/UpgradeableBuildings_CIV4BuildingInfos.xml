@@ -179,11 +179,11 @@
 			<Type>BUILDING_BARRACKS2</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>TXT_KEY_BUILDING_BARRACKS2</Description>
-			<Civilopedia>TXT_KEY_BUILDING_BARRACKS_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_BUILDING_BARRACKS_STRATEGY</Strategy>
+			<Civilopedia>[TAB]Garrison (from the French garnison, itself from the verb garnir, "to equip") is the collective term for a body of troops stationed in a particular location, originally to guard it, but now often simply using it as a home base. The garrison is usually in a city, town, fort, castle or similar.</Civilopedia>
+			<Strategy>Garrison, an upgraded Barracks, provides your units with even more experience.</Strategy>
 			<Help>TXT_KEY_BUILDING_BARRACKS2_HELP</Help>
 			<Advisor>ADVISOR_MILITARY</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_GARRISON</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -198,7 +198,7 @@
 			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteTech>NONE</ObsoleteTech>
-			<PrereqTech>NONE</PrereqTech>
+			<PrereqTech>TECH_MILITARY_TRADITION</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
@@ -357,10 +357,10 @@
 			<Type>BUILDING_BARRACKS3</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>TXT_KEY_BUILDING_BARRACKS3</Description>
-			<Civilopedia>TXT_KEY_BUILDING_BARRACKS_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_BUILDING_BARRACKS_STRATEGY</Strategy>
+			<Civilopedia>[TAB]A command center or command centre (often called a war room) is any place that is used to provide centralized command for some purpose.</Civilopedia>
+			<Strategy>Upgraded from a Garrison, the Command Center provides your units with +5 experience.</Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_COMMAND_POST</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -375,7 +375,7 @@
 			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteTech>NONE</ObsoleteTech>
-			<PrereqTech>NONE</PrereqTech>
+			<PrereqTech>TECH_COMPUTERS</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
