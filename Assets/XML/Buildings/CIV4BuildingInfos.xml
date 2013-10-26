@@ -17302,8 +17302,8 @@
 			<iHotKeyPriority>0</iHotKeyPriority>
 		</BuildingInfo>
 		<BuildingInfo>
-			<BuildingClass>BUILDINGCLASS_ARCOLOGY_SHIELDING</BuildingClass>
-			<Type>BUILDING_ARCOLOGY_SHIELDING</Type>
+			<BuildingClass>BUILDINGCLASS_ARCOLOGY2</BuildingClass>
+			<Type>BUILDING_ARCOLOGY2</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>Arcology Shielding</Description>
 			<Civilopedia>[TAB]Although fairly immune from the assaults of weather and other natural hazards, arcologies remain at high risk from human assault. To better protect themselves, the giant cities can add mechanical and electromagnetic shielding to their domes. While these are not totally effective against a determined assault, they do provide some measure of security to the civilian population.</Civilopedia>
@@ -17475,6 +17475,7 @@
 			<Description>Arcology</Description>
 			<Civilopedia>[TAB]An "arcology" is a human settlement with an extremely high population density. To achieve such density requires near-total control over the settlement's environment. As modern cities have become ever more populated, they have repeatedly stressed their resources to the breaking-point. The largest human cities have become de-facto arcologies, and to survive have had to encase themselves in domes to increase their control over the populace and the environment. [PARAGRAPH:1]Domed cities are more efficient than undomed cities, exposed as the latter are to the vagaries of the environment and all manner of air- and water-borne disease. The climate in an arcology is kept at a constant temperature, ending the need for less-efficient individual heating and cooling units. The air and water supplies are constantly scrubbed to remove any disease or impurities, increasing the population's life-spans and decreasing pressure on the city's medical support systems. Meals are created and served at massive cafeterias, providing a more efficient distribution of protein and also removing the need for wasteful individual cooking units. [PARAGRAPH:1]Increased population density is not without its drawbacks, however. As populations increase the stress level is higher, as is the risk of mental illness or indeed total mental breakdown. The city's leaders combat these problems through education, increased psychological monitoring of the population, and, in extreme cases, by secretly slipping doses of tranquilizers into the citizens' food supply.</Civilopedia>
 			<Strategy>An [COLOR_BUILDING_TEXT]Arcology[COLOR_REVERT] increases a city's health by +3. They are required to construct [COLOR_BUILDING_TEXT]Arcology Shielding[COLOR_REVERT].</Strategy>
+			<Help>TXT_KEY_BUILDING_ARCOLOGY_HELP</Help>
 			<Advisor>ADVISOR_GROWTH</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_ARCOLOGY</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>

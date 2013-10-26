@@ -16,4 +16,8 @@
 		<Tag>TXT_KEY_BUILDING_BARRACKS3</Tag>
 		<English>Command Center</English>
 		</TEXT>
+		<TEXT>
+	<Tag>TXT_KEY_BUILDING_ARCOLOGY_HELP</Tag>
+		<English>[ICON_BULLET]Upgrades to [LINK=BUILDING_ARCOLOGY2]Arcology Shielding[\LINK]</English>
+		</TEXT>
 </Civ4GameText>
