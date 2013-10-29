@@ -4544,7 +4544,7 @@
 			<Description>Zarosian Empire</Description>
 			<ShortDescription>Zaros</ShortDescription>
 			<Adjective>Zarosian</Adjective>
-			<Civilopedia>PLACEHOLDER</Civilopedia>
+			<Civilopedia></Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_ZAROS</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_ZAROS</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
@@ -4563,8 +4563,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
-					<BuildingType>BUILDING_ZAROSIAN_DENOFSPIES</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+					<BuildingType>BUILDING_ZAROSIAN_DEN_OF_SPIES2</BuildingType>
 				</Building>
 			</Buildings>
 			<Units>

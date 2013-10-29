@@ -86,6 +86,16 @@
 			<KFM/>
 			<Button>Art/Interface/Buttons/Buildings/convention_center.dds</Button>
 		</BuildingArtInfo>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_ZAROSIAN_DEN_OF_SPIES2</Type>
+			<LSystem>LSYSTEM_3x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.8</fScale>
+			<fInterfaceScale>0.61</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Courthouse/Courthouse.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/ZarosianDenOfSpies.dds</Button>
+		</BuildingArtInfo>
 	<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_ZAROSIAN_DEN_OF_SPIES</Type>
 			<LSystem>LSYSTEM_1x2</LSystem>

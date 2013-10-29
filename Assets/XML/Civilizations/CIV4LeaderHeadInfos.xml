@@ -42962,7 +42962,7 @@
 			<iVassalPowerModifier>0</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
 			<FavoriteCivic>CIVIC_NATIONHOOD</FavoriteCivic>
-			<FavoriteReligion>RELIGION_CONFUCIANISM</FavoriteReligion>
+			<FavoriteReligion></FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_DECEITFUL</TraitType>
