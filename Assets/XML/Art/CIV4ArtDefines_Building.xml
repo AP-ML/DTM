@@ -1881,7 +1881,7 @@
 			<Type>ART_DEF_BUILDING_ARCOLOGY</Type>
 			<LSystem>LSYSTEM_ARCOLOGY</LSystem>
 			<bAnimated>1</bAnimated>
-			<fScale>6</fScale>
+			<fScale>0.6</fScale>
 			<fInterfaceScale>1</fInterfaceScale>
 			<NIF>Art/Structures/Buildings/Arcology/Arcology.nif</NIF>
 			<KFM/>
@@ -1891,7 +1891,7 @@
 			<Type>ART_DEF_BUILDING_ARCOLOGY_SHIELDED</Type>
 			<LSystem>LSYSTEM_ARCOLOGY</LSystem>
 			<bAnimated>1</bAnimated>
-			<fScale>6</fScale>
+			<fScale>0.6</fScale>
 			<fInterfaceScale>1</fInterfaceScale>
 			<NIF>Art/Structures/Buildings/Arcology/Arcology_Shielded.nif</NIF>
 			<KFM/>
