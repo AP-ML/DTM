@@ -1782,7 +1782,7 @@
 			</FreeUnitClasses>
 			<FreeBuildingClasses>
 				<FreeBuildingClass>
-					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASSBuildingType_PALACE</BuildingClassType>
 					<bFreeBuildingClass>1</bFreeBuildingClass>
 				</FreeBuildingClass>
 			</FreeBuildingClasses>
@@ -3552,7 +3552,7 @@
 				<CivicType>CIVIC_DESPOTISM</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
 				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+FreeTech				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
 			</InitialCivics>
 			<Leaders>
@@ -4254,7 +4254,7 @@
 				<City>Mantarys</City>
 				<City>Elyria</City>
 				<City>Lorath</City>
-                <City>Tyria</City>
+                                <City>Tyria</City>
 				<City>Norvos</City>
 				<City>Tyrosh</City>
 				<City>Lys</City>
@@ -4267,8 +4267,8 @@
 				<City>Sar Mell</City>
 				<City>Volaena</City>
 				<City>Ar Noy</City>
-                <City>Rhoynar</City>
-                <City>Ghozai</City>
+                                <City>Rhoynar</City>
+                                <City>Ghozai</City>
 				<City>Andalos</City>
 				<City>Qhoyne</City>
 				<City>Ghoyan Drohe</City>
@@ -4329,8 +4329,8 @@
 				</Leader>
 			</Leaders>
 			<DerivativeCiv>CIVILIZATION_BYZANTIUM</DerivativeCiv>
-			<CivilizationSelectionSound>AS3D_GREECE_SELECT</CivilizationSelectionSound>
-			<CivilizationActionSound>AS3D_GREECE_ORDER</CivilizationActionSound>
+			<CivilizationSelectionSound>AS3D_BYZANTIUM_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_BYZANTIUM_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 		<CivilizationInfo>
 			<Type>CIVILIZATION_VIKING</Type>
