@@ -1782,7 +1782,7 @@
 			</FreeUnitClasses>
 			<FreeBuildingClasses>
 				<FreeBuildingClass>
-					<BuildingClassType>BUILDINGCLASSBuildingType_PALACE</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
 					<bFreeBuildingClass>1</bFreeBuildingClass>
 				</FreeBuildingClass>
 			</FreeBuildingClasses>
@@ -3552,7 +3552,7 @@
 				<CivicType>CIVIC_DESPOTISM</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
 				<CivicType>CIVIC_TRIBALISM</CivicType>
-FreeTech			<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
 			</InitialCivics>
 			<Leaders>
