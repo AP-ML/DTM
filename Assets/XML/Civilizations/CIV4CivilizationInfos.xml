@@ -1782,7 +1782,7 @@
 			</FreeUnitClasses>
 			<FreeBuildingClasses>
 				<FreeBuildingClass>
-					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<BuildingClassType>BUILDINGCLASSBuildingType_PALACE</BuildingClassType>
 					<bFreeBuildingClass>1</bFreeBuildingClass>
 				</FreeBuildingClass>
 			</FreeBuildingClasses>
@@ -3552,7 +3552,7 @@
 				<CivicType>CIVIC_DESPOTISM</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
 				<CivicType>CIVIC_TRIBALISM</CivicType>
-			<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+FreeTech			<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
 			</InitialCivics>
 			<Leaders>
@@ -4445,7 +4445,7 @@
 			<Civilopedia>TXT_KEY_CIV_ZULU_PEDIA</Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_LIGHT_YELLOW</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_ZULU</ArtDefineTag>
-			<ArtStyleType>ALeaderRTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_MIDDLE_EAST</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>1</bAIPlayable>
