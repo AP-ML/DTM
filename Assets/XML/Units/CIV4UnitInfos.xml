@@ -6101,7 +6101,7 @@
 			<LeaderPromotion>NONE</LeaderPromotion>
 			<iLeaderExperience>0</iLeaderExperience>
 		</UnitInfo>
-		<UnitInfo>
+		<!--<UnitInfo>
 			<Class>UNITCLASS_MASKED_MERCENARY</Class>
 			<Type>UNIT_MASKED_MERCENARY</Type>
 			<UniqueNames/>
@@ -6462,7 +6462,7 @@
 			<FreePromotions/>
 			<LeaderPromotion>NONE</LeaderPromotion>
 			<iLeaderExperience>0</iLeaderExperience>
-		</UnitInfo>
+		</UnitInfo> -->
 		<UnitInfo>
 			<Class>UNITCLASS_AXEMAN</Class>
 			<Type>UNIT_AXEMAN</Type>

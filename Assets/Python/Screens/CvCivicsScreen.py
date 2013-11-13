@@ -35,8 +35,8 @@ class CvCivicsScreen:
 		self.HEADINGS_BOTTOM = 280
 		self.HELP_TOP = 350
 		self.HELP_BOTTOM = 610
-		self.TEXT_MARGIN = 13
-		self.BUTTON_SIZE = 24
+		self.TEXT_MARGIN = 12
+		self.BUTTON_SIZE = 22
 		self.BIG_BUTTON_SIZE = 64
 		self.BOTTOM_LINE_TOP = 630
 		self.BOTTOM_LINE_WIDTH = 1014
