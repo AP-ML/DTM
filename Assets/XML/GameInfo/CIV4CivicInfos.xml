@@ -144,7 +144,7 @@
 		<CivicInfo>
 			<CivicOptionType>CIVICOPTION_GOVERNMENT</CivicOptionType>
 			<Type>CIVIC_HEREDITARY_RULE</Type>
-			<Description>Monarchy</Description>
+			<Description>TXT_KEY_CIVIC_HEREDITARY_RULE</Description>
 			<Civilopedia>TXT_KEY_CIVIC_HEREDITARY_RULE_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_CIVIC_HEREDITARY_RULE_STRATEGY</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Hereditary_Rule.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,3,3</Button>
@@ -2114,8 +2114,8 @@
 		<CivicInfo>
 			<CivicOptionType>CIVICOPTION_RELIGION</CivicOptionType>
 			<Type>CIVIC_PAGANISM</Type>
-			<Description>Folk</Description>
-			<Civilopedia>[TAB]Folk religion consists of ethnic or regional religious customs. Paganism and shamanism is common and people often worship things like nature and weather gods, spirits and other supernatural things.</Civilopedia>
+			<Description>TXT_KEY_CIVIC_PAGANISM</Description>
+			<Civilopedia>TXT_KEY_CIVIC_PAGANISM_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_CIVIC_PAGANISM_STRATEGY</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Paganism.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,4,2</Button>
 			<TechPrereq>NONE</TechPrereq>
